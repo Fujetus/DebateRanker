@@ -1,2 +1,2 @@
-import requests, bs4, selenium
+import webbrowser, sys, requests, bs4, selenium
 
