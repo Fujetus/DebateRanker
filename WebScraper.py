@@ -1,5 +1,4 @@
 import webbrowser, sys, requests, bs4, selenium
-from typing import List, Any,
 import cgi
 import cgitb; cgitb.enable()
 
