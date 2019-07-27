@@ -1,5 +1,8 @@
 import webbrowser, sys, requests, bs4, selenium
-from typing import List, Any
+from typing import List, Any,
+import cgi
+import cgitb; cgitb.enable()
+
 
 jaintardRes = requests.get('https://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=87073&tourn_id=10512')
 
@@ -29,20 +32,17 @@ for rounds in roundsElems:
 i = 0
 dubCounter = 0
 newBalance = []
-while len(roundsElems) > i & len(dubsElems) > dubCounter:
+while len(roundsElems) > i and len(dubsElems) > dubCounter:
     if(roundsElems[i].text.upper().strip().find('ROUND')) != -1:
-        newBalance.append(roundsElems[i].text + ' ' + dubsElems[dubCounter].text)
+        newBalance.append(roundsElems[i].text.strip() + ' ' + dubsElems[dubCounter].text.strip())
         i += 1
         dubCounter += 1
     else:
-        newBalance.append(roundsElems[i].text + ' ' + dubsElems[dubCounter].text + dubsElems[dubCounter+1].text + dubsElems[dubCounter+2].text)
+        newBalance.append(roundsElems[i].text.strip() + ' ' + dubsElems[dubCounter].text.strip() + dubsElems[dubCounter+1].text.strip() + dubsElems[dubCounter+2].text.strip())
         i += 1
         dubCounter += 3
 
 for elems in newBalance:
-    print(len(roundsElems))
-
-
-print(len(roundsElems))
+    print(elems)
 
 
