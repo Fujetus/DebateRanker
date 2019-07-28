@@ -2,6 +2,9 @@ import webbrowser, sys, requests, bs4, selenium
 import cgi
 import cgitb; cgitb.enable()
 
+name1 = 'Chandrashekhar'
+name2 = 'Jain'
+website = 'https://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=87073&tourn_id=10512'
 
 tabroomRes = requests.get('https://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=87073&tourn_id=10512')
 
@@ -17,7 +20,7 @@ tabroomElems = tabroomSoup.select('td > a')
 
 # Going from PF Results Page to Specific Pairing Results Page
 for names in tabroomElems:
-    if names.text.find('Chandrashekhar & Jain') != -1:
+   if names.text.find(name1 + ' & ' + name2) != -1 or names.text.find(name2 + ' & ' + name1) != -1:
         print('https://www.tabroom.com' + names.get('href'))
         resultsPage = 'https://www.tabroom.com' + names.get('href')
         #resultsPage sends you to team's record page
@@ -54,4 +57,25 @@ while len(roundsElems) > i and len(dubsElems) > dubCounter:
 
 for elems in completeList:
     print(elems)
+    
+Wcount = 0
+Lcount = 0
+i = 0
+while i < len(newBalance):
+    if newBalance[i].upper().find('ROUND') == -1:
+        if newBalance[i].count('W') == 2:
+            Wcount += 1
+        else:
+            Lcount += 1
+    else:
+        if newBalance[i].count('W') == 1:
+            Wcount += 1
+        else:
+            Lcount += 1
+    i += 1
+
+print('Overall Wins: ' + str(Wcount))
+print('Overall Losses: ' + str(Lcount))
+
+
 
