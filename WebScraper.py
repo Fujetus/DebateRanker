@@ -30,15 +30,15 @@ resultsPageRes = requests.get(resultsPage)
 resultsSoup = bs4.BeautifulSoup(resultsPageRes.text, features="html.parser")
 
 dubsElems = resultsSoup.select('div > span[class="tenth centeralign semibold"]')
-for letters in dubsElems:
-    print(letters.text.upper().strip())
+# for letters in dubsElems:
+    # print(letters.text.upper().strip())
 
 #prints LWLWLWLWLWLWL
 
 
 roundsElems = resultsSoup.select('div > span[class="tenth semibold"]')
-for rounds in roundsElems:
-    print(rounds.text.upper().strip())
+# for rounds in roundsElems:
+    # print(rounds.text.upper().strip())
 
 #prints all  name titles
 
