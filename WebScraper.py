@@ -61,14 +61,14 @@ for elems in completeList:
 Wcount = 0
 Lcount = 0
 i = 0
-while i < len(newBalance):
-    if newBalance[i].upper().find('ROUND') == -1:
-        if newBalance[i].count('W') == 2:
+while i < len(completeList):
+    if completeList[i].upper().find('ROUND') == -1:
+        if completeList[i].count('W') == 2:
             Wcount += 1
         else:
             Lcount += 1
     else:
-        if newBalance[i].count('W') == 1:
+        if completeList[i].count('W') == 1:
             Wcount += 1
         else:
             Lcount += 1
