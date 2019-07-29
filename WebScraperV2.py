@@ -1,8 +1,8 @@
 import webbrowser, sys, requests, bs4, selenium
 
-name1 = 'Chandrashekhar'
-name2 = 'Jain'
-website = 'https://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=98684&tourn_id=11722'
+name1 = 'kiran'
+name2 = 'jamal'
+website = 'https://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=86101&tourn_id=10238'
 
 tabroomRes = requests.get(website)
 
@@ -17,7 +17,7 @@ tabroomElems = tabroomSoup.select('td > a')
 
 # Going from PF Results Page to Specific Pairing Results Page
 for names in tabroomElems:
-    if names.text.find(name1 + ' & ' + name2) != -1 or names.text.find(name2 + ' & ' + name1) != -1:
+    if names.text.upper().find(name1.upper() + ' & ' + name2.upper()) != -1 or names.text.upper().find(name2.upper() + ' & ' + name1.upper()) != -1:
         print('https://www.tabroom.com' + names.get('href'))
         resultsPage = 'https://www.tabroom.com' + names.get('href')
         # resultsPage sends you to team's record page
@@ -30,6 +30,7 @@ rowElems = resultsSoup.select('div > div[class="row"]')
 
 # for elems in rowElems:
     # print(elems.text.strip())
+
 # gives a list of integers that delegate dubs and Ls to each round
 listOfJudges = []
 completeList = []
@@ -37,7 +38,6 @@ judgeVars = []
 judgeCounter = 0
 
 i = 0
-
 while i < len(rowElems):
     judgeCounter = 0
     listOfJudges = rowElems[i].select('span > a[class="white padtop padbottom"]')
@@ -71,10 +71,13 @@ outRoundLCount = 0
 Wcount = 0
 Lcount = 0
 i = 0
+
 while i < len(completeList):
-    if rowElems[i].text.find('Bye') != -1:
-        print()
-    elif completeList[i].upper().find('ROUND') == -1:
+    # first condition checks for byes and second condition checks for coach overs, if true ignores
+    if rowElems[i].text.upper().find('\tBYE\n') != -1 or (judgeVars[i] == 0 and (rowElems[i].text.upper().find('\tPRO\n') or rowElems[i].text.upper().find('\tCON\n'))):
+        pass
+    # checks if a round is an outround, adds to outround counters if true and defaults to prelim counters in the else statement
+    elif completeList[i].count('W') + completeList[i].count('L') > 1:
         if completeList[i].count('W') > completeList[i].count('L'):
             outRoundWCount += 1
         else:
@@ -86,6 +89,7 @@ while i < len(completeList):
             Lcount += 1
     i += 1
 
+# printing Ws and Ls
 print('Prelim Wins: ' + str(Wcount))
 print('Prelim Losses: ' + str(Lcount))
 print('Outround Wins: ' + str(outRoundWCount))
