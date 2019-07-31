@@ -12,19 +12,22 @@ app = Flask(__name__,template_folder='Templates')
 def send():
     interminable_end = ""
     if request.method == 'POST':
+        #variable storge as well taking in the two last names
         name1 = request.form['name1']
         name2=request.form['name2']
         event_id = [100378,100370,84999,87748,87131,86587,85902,86737,86005,87200,85698,91758,73485,88335,88344,89578,87321,88226,91762,85926,91678,92557,80427,78473,89027,85929,91608,87378,85778,10053,87073,87119,87914,84983,98010,88478,10299,96471,85341,96684,10246,97424,89197,96935,85809,10028,98684,88026,86222,88973,10223]
         tourn_id = [11772,11772,10038,10621,10180,10364,10192,10401,10210,10537,10161,11057,8739,10691,10692,10844,10560,10680,10615,10196,11050,11148,9432,9270,10768,10197,11044,10569,10171,11564,10512,10519,10646,10037,11652,10701,12159,11254,10081,11552,10864,11622,10796,11447,10181,11877,11722,10663,10274,10763,12082]
         tournament_storage = []
         results_storage = []
+        # running through all the url's for with the different event_id and tourn_id
         for x in range (0,len(event_id)):
+            # souping the results page
             website = 'https://www.tabroom.com/index/tourn/results/ranked_list.mhtml?event_id=' + str(event_id[x]) + '&tourn_id=' + str(tourn_id[x])
             tabroomRes = requests.get(website)
             tabroomSoup = bs4.BeautifulSoup(tabroomRes.text, features="html.parser")
             tournament_name = tabroomSoup.select('div > h2[class="centeralign marno"]')
             urmom = None
-
+            # finding the two names and storing the tournament name
             tabroomElems = tabroomSoup.select('td > a')
             checker = False
             for names in tabroomElems:
@@ -38,6 +41,7 @@ def send():
                     break
             if(checker == False):
                 continue
+            # souping specifically the resuls page for the partnership    
             resultsPageRes = requests.get(resultsPage)
             resultsSoup = bs4.BeautifulSoup(resultsPageRes.text, features="html.parser")
             rowElems = resultsSoup.select('div > div[class="row"]')
@@ -47,7 +51,7 @@ def send():
             judgeCounter = 0
 
             i = 0
-
+            # storing the dubs and losses for prelims and outrounds 
             while i < len(rowElems):
                 judgeCounter = 0
                 listOfJudges = rowElems[i].select('span > a[class="white padtop padbottom"]')
@@ -96,15 +100,16 @@ def send():
             # at tis point,we need to create two different lists. one has the tournament name
             # and the other has prelim wins and losses and outround wins and losses
 
-
+        
             results_storage.append("Prelim wins: " + str(Wcount) + " Prelim losses: " + str(Lcount) + " Outround wins: " + str(outRoundWCount) + " Outround losses: " + str(outRoundLCount))
         print(tournament_storage)
         print(results_storage)
+        # sending to the final html file with everything stored up 
         return render_template('index3.html',len=len(tournament_storage),tournament_storage=tournament_storage,results_storage=results_storage, name1=name1,name2=name2)
     else:
         return render_template('testing.html')
 
-
+# debugging and running flask
 if __name__ == "__main__":
     app.debug = True
     app.run()
