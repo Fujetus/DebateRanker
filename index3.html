@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>document</title>
+    <STYLE type="text/css">
+          ol { list-style-type: none }
+     </STYLE>
+</head>
+<body>
+    <h1> The script is now running for the partnership {{ name1 }} and {{ name2 }}</h1>
+
+    <ol>
+        {%for i in range(0, len)%}
+
+        <li>{{tournament_storage[i]}}:</li>
+
+        <li>{{results_storage[i]}}</li>
+
+        {%endfor%}
+    </ol>
+
+
+
+
+</body>
+</html>
