@@ -8,7 +8,7 @@ cgitb.enable()
 
 app = Flask(__name__, template_folder='Templates')
 
-@app.route('/send', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def send():
     interminable_end = ""
     if request.method == 'POST':
@@ -29,6 +29,7 @@ def send():
         total_outround = 0
         tournament_storage = []
         results_storage = []
+        tournament_url = []
         total_breaks = 0
         # running through all the url's for with the different event_id and tourn_id
         for x in range(0, len(event_id)):
@@ -47,6 +48,7 @@ def send():
                         tournament_storage.append(elem.text)
                     print('https://www.tabroom.com' + names.get('href'))
                     resultsPage = 'https://www.tabroom.com' + names.get('href')
+                    tournament_url.append('https://www.tabroom.com' + names.get('href'))
                     checker = True
                     break
             if (checker == False):
@@ -121,8 +123,8 @@ def send():
             # and the other has prelim wins and losses and outround wins and losses
 
             results_storage.append(
-                "Prelim wins: " + str(Wcount) + " Prelim losses: " + str(Lcount) + " Outround wins: " + str(
-                    outRoundWCount) + " Outround losses: " + str(outRoundLCount))
+                "Prelim wins: " + str(Wcount) + "   Prelim losses:   " + str(Lcount) + "   Outround wins:   " + str(
+                    outRoundWCount) + "   Outround losses:   " + str(outRoundLCount))
         prelim_percentage = "%.2f" % ((prelim_wins/total_prelim)*100)
         if total_outround == 0:
             outround_percentage = 0
@@ -132,13 +134,15 @@ def send():
         win_percentage = "%.2f" % ((prelim_wins + outround_wins)/(total_prelim + total_outround)*100)
         print(tournament_storage)
         print(results_storage)
+        for elem in tournament_url:
+            print(elem)
         # sending to the final html file with everything stored up
         return render_template('index3.html', len=len(tournament_storage), tournament_storage=tournament_storage,
                                results_storage=results_storage, name1=name1, name2=name2,prelim_percentage= prelim_percentage,
                                outround_percentage=outround_percentage,break_percentage=break_percentage, win_percentage=win_percentage,
                                w_l=str(prelim_wins + outround_wins)+'-'+str(total_prelim + total_outround - prelim_wins - outround_wins),
                                prelim_record=str(prelim_wins)+'-'+str(total_prelim - prelim_wins),outround_record=str(outround_wins)+'-'+str(total_outround - outround_wins),
-                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks))
+                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks),tournament_url=tournament_url)
     else:
         return render_template('testing.html')
 
