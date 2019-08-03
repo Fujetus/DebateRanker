@@ -5,22 +5,28 @@
     <title>document</title>
     <STYLE type="text/css">
           ol { list-style-type: none }
+
      </STYLE>
 </head>
 <body>
+
     <h1> The script is now running for the partnership {{ name1 }} and {{ name2 }}</h1>
 
-    W-L: {{ win_percentage }} ({{ w_l }})
-    Prelim Win Percentage: {{ prelim_percentage }} ({{ prelim_record }})
-    Outround Win Percentage: {{ outround_percentage }} ({{ outround_record }})
-    Break Percentage: {{ break_percentage }} ({{ breaks }})
+    <font size="5" color="black">W-L: {{ win_percentage }} % ({{ w_l }})</font>
+    <font size="5" color="black">Prelim Win Percentage: {{ prelim_percentage }} % ({{ prelim_record }})</font>
+    <font size="5" color="black">Outround Win Percentage: {{ outround_percentage }} % ({{ outround_record }})</font>
+    <font size="5" color="black">Break Percentage: {{ break_percentage }} % ({{ breaks }})</font>
 
     <ol>
         {%for i in range(0, len)%}
-
-        <li>{{tournament_storage[i]}}:</li>
-
-        <li>{{results_storage[i]}}</li>
+        <br />
+        <br />
+        <font  size="5" color="black"><li> <a href={{tournament_url[i]}}>{{tournament_storage[i]}}:</a>  </li></font>
+        <br />
+        <br />
+        <font  size="5" color="black"><li>{{results_storage[i]}}</li></font>
+        <br />
+        <br />
 --------------------------------------------------------------------------------------------------
         {%endfor%}
     </ol>
