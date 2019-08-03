@@ -98,7 +98,7 @@ def send():
                 if rowElems[i].text.upper().find('\tBYE\n') != -1 or (judgeVars[i] == 0 and (rowElems[i].text.upper().find('\tPRO\n') or rowElems[i].text.upper().find('\tCON\n'))):
                     pass
                 # checks if a round is an outround, adds to outround counters if true and defaults to prelim counters in the else statement
-                elif completeList[i].count('W') + completeList[i].count('L') > 1:
+                elif rowElems[i].text.upper().find('ROUND') == -1:
                     breakFlag = True
                     if completeList[i].count('W') > completeList[i].count('L'):
                         outRoundWCount += 1
@@ -124,13 +124,21 @@ def send():
                 "Prelim wins: " + str(Wcount) + " Prelim losses: " + str(Lcount) + " Outround wins: " + str(
                     outRoundWCount) + " Outround losses: " + str(outRoundLCount))
         prelim_percentage = "%.2f" % ((prelim_wins/total_prelim)*100)
-        outround_percentage = "%.2f" %((outround_wins/total_outround)*100)
+        if total_outround == 0:
+            outround_percentage = 0
+        else:
+            outround_percentage = "%.2f" %((outround_wins/total_outround)*100)
         break_percentage = "%.2f" % ((total_breaks/tournament_storage.__len__())*100)
+        win_percentage = "%.2f" % ((prelim_wins + outround_wins)/(total_prelim + total_outround)*100)
         print(tournament_storage)
         print(results_storage)
         # sending to the final html file with everything stored up
         return render_template('index3.html', len=len(tournament_storage), tournament_storage=tournament_storage,
-                               results_storage=results_storage, name1=name1, name2=name2,prelim_percentage= prelim_percentage,outround_percentage=outround_percentage,break_percentage=break_percentage)
+                               results_storage=results_storage, name1=name1, name2=name2,prelim_percentage= prelim_percentage,
+                               outround_percentage=outround_percentage,break_percentage=break_percentage, win_percentage=win_percentage,
+                               w_l=str(prelim_wins + outround_wins)+'-'+str(total_prelim + total_outround - prelim_wins - outround_wins),
+                               prelim_record=str(prelim_wins)+'-'+str(total_prelim - prelim_wins),outround_record=str(outround_wins)+'-'+str(total_outround - outround_wins),
+                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks))
     else:
         return render_template('testing.html')
 
