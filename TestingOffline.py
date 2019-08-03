@@ -8,7 +8,6 @@ cgitb.enable()
 
 app = Flask(__name__, template_folder='Templates')
 
-
 @app.route('/send', methods=['GET', 'POST'])
 def send():
     interminable_end = ""
@@ -24,8 +23,13 @@ def send():
                     10692, 10844, 10560, 10680, 10615, 10196, 11050, 11148, 9432, 9270, 10768, 10197, 11044, 10569,
                     10171, 11564, 10512, 10519, 10646, 10037, 11652, 10701, 12159, 11254, 10081, 11552, 10864, 11622,
                     10796, 11447, 10181, 11877, 11722, 10663, 10274, 10763, 12082]
+        prelim_wins = 0
+        outround_wins = 0
+        total_prelim = 0
+        total_outround = 0
         tournament_storage = []
         results_storage = []
+        total_breaks = 0
         # running through all the url's for with the different event_id and tourn_id
         for x in range(0, len(event_id)):
             # souping the results page
@@ -103,21 +107,30 @@ def send():
                 else:
                     if completeList[i].count('W') == 1:
                         Wcount += 1
+
                     else:
                         Lcount += 1
                 i += 1
-
+            if breakFlag:
+                total_breaks += 1
+            prelim_wins += Wcount
+            total_prelim += (Wcount + Lcount)
+            outround_wins += outRoundWCount
+            total_outround += (outRoundWCount+outRoundLCount)
             # at tis point,we need to create two different lists. one has the tournament name
             # and the other has prelim wins and losses and outround wins and losses
 
             results_storage.append(
                 "Prelim wins: " + str(Wcount) + " Prelim losses: " + str(Lcount) + " Outround wins: " + str(
                     outRoundWCount) + " Outround losses: " + str(outRoundLCount))
+        prelim_percentage = "%.2f" % ((prelim_wins/total_prelim)*100)
+        outround_percentage = "%.2f" %((outround_wins/total_outround)*100)
+        break_percentage = "%.2f" % ((total_breaks/tournament_storage.__len__())*100)
         print(tournament_storage)
         print(results_storage)
         # sending to the final html file with everything stored up
         return render_template('index3.html', len=len(tournament_storage), tournament_storage=tournament_storage,
-                               results_storage=results_storage, name1=name1, name2=name2)
+                               results_storage=results_storage, name1=name1, name2=name2,prelim_percentage= prelim_percentage,outround_percentage=outround_percentage,break_percentage=break_percentage)
     else:
         return render_template('testing.html')
 
