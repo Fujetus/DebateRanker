@@ -13,10 +13,16 @@
     <h1> The script is now running for the partnership {{ name1 }} and {{ name2 }}</h1>
 
     <font size="5" color="black">W-L: {{ win_percentage }} % ({{ w_l }})</font>
+    <br />
     <font size="5" color="black">Prelim Win Percentage: {{ prelim_percentage }} % ({{ prelim_record }})</font>
+    <br />
     <font size="5" color="black">Outround Win Percentage: {{ outround_percentage }} % ({{ outround_record }})</font>
+    <br />
     <font size="5" color="black">Break Percentage: {{ break_percentage }} % ({{ breaks }})</font>
-
+    <br />
+    <font size="5" color="black"> Number of Gold Bids: {{ gold_bid_counter }}
+        <br />
+    <font size="5" color="black"> Number of Silver Bids: {{ silver_bid_counter }}
     <ol>
         {%for i in range(0, len)%}
         <br />
