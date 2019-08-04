@@ -3,6 +3,7 @@ from flask import Flask, render_template, request
 import webbrowser, sys, requests, bs4, selenium
 import cgi
 import cgitb;
+import pandas
 
 cgitb.enable()
 
@@ -31,6 +32,20 @@ def send():
         results_storage = []
         tournament_url = []
         total_breaks = 0
+        silver_bid_counter = 0
+        gold_bid_counter = 0
+        dfsilver = pandas.read_csv('silverBidList.csv')
+        dfsilverdebaters = dfsilver[['Debaters']]
+        for index, row in dfsilverdebaters.iterrows():
+            silverpartnership = row['Debaters']
+            if str(silverpartnership).upper().find(name1.upper()) != -1 and str(silverpartnership).upper().find(name2.upper()):
+                silver_bid_counter += 1
+        df = pandas.read_csv('masterBids.csv')
+        df1 = df[['Debaters']]
+        for index, row in df1.iterrows():
+            partnership = row['Debaters']
+            if str(partnership).upper().find(name1.upper()) != -1 and str(partnership).upper().find(name2.upper()):
+                gold_bid_counter += 1
         # running through all the url's for with the different event_id and tourn_id
         for x in range(0, len(event_id)):
             # souping the results page
@@ -142,7 +157,7 @@ def send():
                                outround_percentage=outround_percentage,break_percentage=break_percentage, win_percentage=win_percentage,
                                w_l=str(prelim_wins + outround_wins)+'-'+str(total_prelim + total_outround - prelim_wins - outround_wins),
                                prelim_record=str(prelim_wins)+'-'+str(total_prelim - prelim_wins),outround_record=str(outround_wins)+'-'+str(total_outround - outround_wins),
-                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks),tournament_url=tournament_url)
+                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks),tournament_url=tournament_url,gold_bid_counter=gold_bid_counter,silver_bid_counter=silver_bid_counter)
     else:
         return render_template('testing.html')
 
