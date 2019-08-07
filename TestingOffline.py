@@ -1,11 +1,7 @@
-# how tf do i do this shit lmao
 from flask import Flask, render_template, request
-import webbrowser, sys, requests, bs4, selenium
-import cgi
-import cgitb;
+import requests, bs4
 import pandas
-
-cgitb.enable()
+import os
 
 app = Flask(__name__, template_folder='Templates')
 
@@ -14,8 +10,8 @@ def send():
     interminable_end = ""
     if request.method == 'POST':
         # variable storge as well taking in the two last names
-        name1 = request.form['name1']
-        name2 = request.form['name2']
+        name1 = request.form['name1'].strip()
+        name2 = request.form['name2'].strip()
         event_id = [100378, 100370, 84999, 87748, 87131, 86587, 85902, 86737, 86005, 87200, 85698, 91758, 73485, 88335,
                     88344, 89578, 87321, 88226, 91762, 85926, 91678, 92557, 80427, 78473, 89027, 85929, 91608, 87378,
                     85778, 10053, 87073, 87119, 87914, 84983, 98010, 88478, 10299, 96471, 85341, 96684, 10246, 97424,
@@ -32,27 +28,38 @@ def send():
         results_storage = []
         tournament_url = []
         total_breaks = 0
-        silver_bid_counter = 0
-        gold_bid_counter = 0
-        dfsilver = pandas.read_csv('silverBidList.csv')
-        dfsilverdebaters = dfsilver[['Debaters']]
-        for index, row in dfsilverdebaters.iterrows():
-            silverpartnership = row['Debaters']
-            if str(silverpartnership).upper().find(name1.upper()) != -1 and str(silverpartnership).upper().find(name2.upper()):
-                silver_bid_counter += 1
-        df = pandas.read_csv('masterBids.csv')
-        df1 = df[['Debaters']]
-        for index, row in df1.iterrows():
-            partnership = row['Debaters']
-            if str(partnership).upper().find(name1.upper()) != -1 and str(partnership).upper().find(name2.upper()):
-                gold_bid_counter += 1
+
+        silverbid = 0
+        goldbidcounter = 0
+        df_multiple_gold = pandas.read_csv("/home/Fujetus/DebateWatch/Bids/MultipleGold.csv")
+        df_final = df_multiple_gold.head(905)
+        arr = df_final.to_numpy()
+
+        num_rows, num_cols = arr.shape
+        keepgoing = True
+
+        for i in range(0, num_rows):
+            if (keepgoing):
+                if (str(arr[i][0]).upper().find(name1.upper()) != -1) and str(arr[i][0]).upper().find(name2.upper()) != -1:
+                    starter = i
+                    keepgoing = False
+                    for x in range(starter, num_rows):
+                        if (((str(arr[x][0]).upper().find(name1.upper()) != -1) and (str(arr[x][0]).upper().find(name2.upper()) != -1)) or str(arr[x][0]) == "nan"):
+                            bid = ""
+                            bid = str(arr[x][1])
+                            if bid == "0":
+                                silverbid += 1
+                            else:
+                                goldbidcounter += 1
+                        else:
+                            break
+
         # running through all the url's for with the different event_id and tourn_id
         for x in range(0, len(event_id)):
             # souping the results page
-            fh = open(str(event_id[x]) + ".txt.", "r")
+            fh = open(('/home/Fujetus/DebateWatch/Tourneys/' + str(event_id[x]) + ".txt"), "r")
             tabroomSoup = bs4.BeautifulSoup(fh.read(), features="html.parser")
             tournament_name = tabroomSoup.select('div > h2[class="centeralign marno"]')
-            urmom = None
             # finding the two names and storing the tournament name
             tabroomElems = tabroomSoup.select('td > a')
             checker = False
@@ -113,7 +120,8 @@ def send():
             while i < len(completeList):
                 # first condition checks for byes and second condition checks for coach overs, if true ignores
                 if rowElems[i].text.upper().find('\tBYE\n') != -1 or (judgeVars[i] == 0 and (rowElems[i].text.upper().find('\tPRO\n') or rowElems[i].text.upper().find('\tCON\n'))):
-                    pass
+                    if rowElems[i].text.upper().find('ROUND') == -1:
+                        breakFlag = True
                 # checks if a round is an outround, adds to outround counters if true and defaults to prelim counters in the else statement
                 elif rowElems[i].text.upper().find('ROUND') == -1:
                     breakFlag = True
@@ -140,6 +148,8 @@ def send():
             results_storage.append(
                 "Prelim wins: " + str(Wcount) + "   Prelim losses:   " + str(Lcount) + "   Outround wins:   " + str(
                     outRoundWCount) + "   Outround losses:   " + str(outRoundLCount))
+        if total_prelim == 0:
+            return render_template("noRecord.html")
         prelim_percentage = "%.2f" % ((prelim_wins/total_prelim)*100)
         if total_outround == 0:
             outround_percentage = 0
@@ -157,7 +167,7 @@ def send():
                                outround_percentage=outround_percentage,break_percentage=break_percentage, win_percentage=win_percentage,
                                w_l=str(prelim_wins + outround_wins)+'-'+str(total_prelim + total_outround - prelim_wins - outround_wins),
                                prelim_record=str(prelim_wins)+'-'+str(total_prelim - prelim_wins),outround_record=str(outround_wins)+'-'+str(total_outround - outround_wins),
-                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks),tournament_url=tournament_url,gold_bid_counter=gold_bid_counter,silver_bid_counter=silver_bid_counter)
+                               breaks=str(total_breaks)+'-'+str(tournament_storage.__len__() - total_breaks),tournament_url=tournament_url,goldbidcounter=goldbidcounter,silverbid=silverbid)
     else:
         return render_template('testing.html')
 
