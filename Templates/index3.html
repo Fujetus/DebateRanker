@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>document</title>
+    <title>DebateWatch</title>
     <STYLE type="text/css">
           ol { list-style-type: none }
 
@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <h1> The script is now running for the partnership {{ name1 }} and {{ name2 }}</h1>
+    <h1>{{ name1 }} and {{ name2 }} Performance Statistics</h1>
 
     <font size="5" color="black">W-L: {{ win_percentage }} % ({{ w_l }})</font>
     <br />
@@ -20,9 +20,9 @@
     <br />
     <font size="5" color="black">Break Percentage: {{ break_percentage }} % ({{ breaks }})</font>
     <br />
-    <font size="5" color="black"> Number of Gold Bids: {{ gold_bid_counter }}
+    <font size="5" color="black"> Number of Gold Bids: {{ goldbidcounter }}
         <br />
-    <font size="5" color="black"> Number of Silver Bids: {{ silver_bid_counter }}
+    <font size="5" color="black"> Number of Silver Bids: {{ silverbid }}
     <ol>
         {%for i in range(0, len)%}
         <br />
