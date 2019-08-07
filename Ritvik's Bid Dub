@@ -1,0 +1,33 @@
+# how tf do i do this shit lmao
+from flask import Flask, render_template, request
+import webbrowser, sys, requests, bs4, selenium
+import cgi
+import cgitb;
+import pandas
+
+name1 = "Maunder"
+name2 = "Kopparapu"
+
+f = open("BIDS.txt", "r")
+text= f.readline()
+while text.find(name1)==-1 or text.find(name2)==-1:
+    text=f.readline()
+new_text = f.readline()
+while(new_text.find("&")==-1):
+    text+= new_text
+    new_text= f.readline()
+even=True
+silver_count=0;
+gold_count=0;
+for elem in text:
+    if (elem < 'A' or elem>'z') and (elem!= "\n") and (elem!=",") and (elem!= " ") and (elem!= "&") and (elem!="-"):
+            if even:
+                if elem=="0":
+                    silver_count+=1
+                else:
+                    gold_count+=1
+                even=False
+            else:
+                even=True
+
+print("Silver: " + str(silver_count) + " Gold: " + str(gold_count))
