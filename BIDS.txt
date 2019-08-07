@@ -1,0 +1,911 @@
+Debaters,Bid,Bid Rd
+Andy Gu & Joshua Lee,1,1
+,0,2
+,2,3
+,0,4
+Kam Narra & Ethan Handel,1,1
+,2,2
+Dhruva Rangan & Joshua Lee,1,1
+,2,2
+Sara Catherine Cook & Anna Kate Lembke,0,1
+,1,2
+,2,3
+,0,4
+Nilesh Chander & Volodymyr Zhuravsky,0,1
+,1,2
+,2,3
+,3,4
+Siliva Aydinyan & Susanna Mkhitaryan,1,1
+,0,2
+,0,3
+,2,4
+,3,5
+Darya Kaviani & Roshni Varma,0,1
+,1,2
+,2,3
+,3,4
+,4,5
+Christian Brown & Callan Hazeldine,1,1
+,2,2
+David Parau & Sukesh Ram,1,1
+,0,2
+,2,3
+Kayra Ilkbahar & Akash Shanmugam,,
+,1,1
+Johnathon Giesecke & Burke Cochran,1,1
+,2,2
+Jack Johnson & Thomas Gill,1,1
+,0,2
+,2,3
+,3,4
+,0,5
+,0,6
+Morgan Swigert & Izzy Wu,1,1
+,2,2
+,3,3
+,4,4
+,0,5
+Saahit Adabala & Parker Kasiewicz,1,1
+,2,2
+Sid Inta & Julian Melendi,1,1
+,2,2
+Benjamin Oestericher & Elias Silver,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+Aarin Shah & Eshan Kalra,0,1
+,1,2
+,2,3
+,3,4
+Avalon Delasandro & Francesca Lupi,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+Joshua Bratt & Oliver Choo,1,1
+,0,2
+,2,3
+Isaac Fan & Matthew Schaeffer,1,1
+,2,2
+Gauruv Singh & Gavin Gwaltney,1,1
+,2,2
+,3,3
+Alexander Shoflick & Nicholas Woodman,,
+,0,1
+Aatreya Tewary & Anuraag Routray,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,0,6
+AJ Camacho & John D. Cobb,0,1
+,1,2
+,2,3
+Sarab Bhasin & Sarah Wornow,1,1
+,1,1
+Pia Dovichi & Ben Park,1,1
+,2,2
+,3,3
+,4,4
+Brant Haugh & Ilan Nurko,0,1
+,1,2
+,2,3
+,0,4
+Mariah Cady & Noor Abdallah,0,1
+,0,2
+,1,3
+,2,4
+Ryan Jiang & Sreya Pattipati,1,1
+,0,2
+,2,3
+,3,4
+,4,5
+,5,6
+,6,7
+Aashray Khanna & Justin Luo,0,1
+,0,2
+,1,3
+,0,4
+,2,5
+,0,6
+,3,7
+,4,8
+Harry Ren & Derrick Zhen,1,1
+,2,2
+Matthew Norman & Fabiola Sepulveda,1,1
+,2,2
+Tvisha Malik & Hannah Bertinot,0,1
+,1,2
+,0,3
+,0,4
+,2,5
+Ilana Cuello-Wolffe & Josh Fielding,1,1
+,2,2
+Zara Chapple & JJ Yu,1,1
+,0,2
+,2,3
+,0,4
+,3,5
+Andrew Fostiropoulos & Bryce Waldmann,1,1
+,2,2
+,0,3
+,3,4
+,0,5
+,0,6
+John Manahan & Yash Patel,0,1
+,1,2
+,2,3
+,0,4
+Saad Jamal & Shreyas Kiran,1,1
+,0,2
+,2,3
+,3,4
+,0,5
+,4,6
+,5,7
+,6,8
+Rahul Kaparaboyna & Rohit Srinivas,1,1
+,2,2
+Sofia Chang & Yilin Li,0,1
+,0,2
+,1,3
+,2,4
+,3,5
+Nathan Dalva-Baird & Sheridan Kum,1,1
+,2,2
+,0,3
+Adriana Kim & Andrew Owens,1,1
+,2,2
+,3,3
+Ayush Patel & Jason Scheller,,
+,1,1
+,2,2
+,0,3
+,3,4
+,0,5
+Siddhartha Nair & Anirudh Bhaskara,0,1
+,1,2
+,2,3
+,0,4
+Arjun Maheshwari & Ryan Zhu,1,1
+,2,2
+,0,3
+Matthew Nissen & Theodore Teske,1,1
+,2,2
+,0,3
+Olivia Bobrownicki & Adam Alamy,0,1
+,1,2
+,2,3
+,3,4
+,0,5
+Ryan Gumlia & Martand Bhagavatula,1,1
+,2,2
+,0,3
+,0,4
+Matthew Ong & Numair Razzak,0,1
+,1,2
+,2,3
+,3,4
+,4,5
+,5,6
+Hitakshi Savdharia & Harishri Savdharia,1,1
+,0,2
+,0,3
+,0,4
+,2,5
+Ishan Balakrishnan & Ezra Kohrman,0,1
+,0,2
+,1,3
+,2,4
+Philip Bonnano & Tucker Wilke,1,1
+,2,2
+,3,3
+,0,4
+,4,5
+,5,6
+Lyons & Goel,,
+,1,1
+,2,2
+Ethan Kim & Sajan Mehrotra,,
+,0,1
+,0,2
+,1,3
+,2,4
+,3,5
+,0,6
+Sasha Snyder & Leila Granmayah,0,1
+,1,2
+,2,3
+Richard He & Benjamin Lee,1,1
+,0,2
+,2,3
+,0,4
+,3,5
+,0,6
+Saif Moolji & Taimur Moolji,1,1
+,2,2
+,3,3
+,4,4
+Eddie Jin & Rhea Sanger,0,1
+,0,2
+,1,3
+,2,4
+Max Li & Amala Karri,,
+,1,1
+,0,2
+,2,3
+Felix Roz & Teddy Tawil,1,1
+,2,2
+,0,3
+Matthew Xing & Inko Bovenzi,1,1
+,2,2
+,0,3
+,0,4
+Bryan Benetiz & Raj Solanki,1,1
+,2,2
+,3,3
+Anoosh Kumar & Jasper Ou,1,1
+,2,2
+,3,3
+,4,4
+,0,5
+,5,6
+,6,7
+Andrew Huang & Albi Manifredi,,
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,0,7
+,7,8
+,0,9
+,0,9
+,8,9
+,9,9
+Sebastian Dunbar & Jacqueline Henley,1,1
+,2,2
+,3,3
+,4,4
+Luke Moberly & Madeline Walker,1,1
+,2,2
+,0,3
+,3,4
+,0,5
+Danny Cigale & Sandeep Shankar,,
+,0,1
+,1,2
+,2,3
+,0,4
+,0,5
+Brooks Howell & Sandeep Shankar,1,1
+,2,2
+Brooks Howell & Jesse Sun,1,1
+,2,2
+,0,3
+,0,4
+Ashley Cai & Emma Kwan,1,1
+,2,2
+Grace Klinefelter & Payton Winterhof,1,1
+,2,2
+,3,3
+Zachary Shelton & Oliver Niu,1,1
+,2,2
+,3,3
+,0,4
+,4,5
+,5,6
+Kenny Zhu & Jack Rankin,1,1
+,2,2
+,0,3
+Somil Agarwal & Brian Zhu,1,1
+,2,2
+,0,3
+,0,4
+,3,5
+Praveen Gunendran & Neha Seshadri,0,1
+,1,2
+,2,3
+Rithvik Kopparapu & Ishan Maunder,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,9,9
+Arunav Gupta & Dylan Zhang,1,1
+,0,2
+,2,3
+Jay Garg & Anika Sridhar,,
+,0,1
+,0,2
+,1,3
+,2,4
+Tyler Katz & Andrew Peterson,0,1
+,1,2
+,2,3
+,3,4
+,0,5
+Lawrence Zhu & Nathaniel Yoon,1,1
+,0,2
+,2,3
+Alex Goetschius & Walker Stewart,0,1
+,1,2
+,2,3
+,0,4
+,3,5
+Nihir Annam & Brandon Wang,1,1
+,2,2
+,3,3
+Joy Fan & Michelle Zhang,1,1
+,0,2
+,2,3
+Daniel Liang & Mukund Rao,1,1
+,2,2
+,3,3
+Jennifer Lin & Jacqueline Wei,,
+,0,1
+,1,2
+,0,3
+,2,4
+Yizhen Zhen & Donovan Spall,1,1
+,0,2
+,2,3
+Daniel Fernandez & Noah Kaye,,
+,0,1
+,1,2
+,2,3
+,3,4
+,4,5
+,5,6
+,6,7
+Minkyung Kwon & Max Shenkman,1,1
+,2,2
+Anik Sen & Keya Vijapure,1,1
+,2,2
+,3,3
+,4,4
+,0,5
+Cavin Gada & Chery Gada,1,1
+,2,2
+Dori Schurr & Oliver Stern,1,1
+,2,2
+,0,3
+,3,4
+,0,5
+Ashwin Balaje & Rohan Jaisinghani,1,1
+,2,2
+,3,3
+Jack Delaney & James McGibbon,1,1
+,2,2
+,0,3
+,0,4
+Jason Hu & Michelle Zhao,1,1
+,0,2
+,0,3
+,2,4
+,0,5
+Udheesh Gaddipati & Andrea Zhang,1,1
+,2,2
+,3,3
+,4,4
+Aadhavaarasan Raviarasan & Albert Wen,0,1
+,1,2
+,2,3
+,3,4
+Joseph Donowho & Joseph Dowdall,1,1
+,2,2
+,,3
+,0,4
+,0,5
+Caden Day & RJ Shah,1,1
+,2,2
+,0,3
+,0,4
+,0,5
+Ali Jalal & Zain Ashraf,1,1
+,2,2
+,3,3
+,0,4
+Asher Moll & Pranav Konduri,1,1
+,2,2
+,0,3
+Sam Hernandez & Trey Plante,1,1
+,0,2
+,0,3
+,2,4
+,0,5
+Olivia McCauley & Kieran Singh,1,1
+,2,2
+Jeremy Lee & Justin Sword,1,1
+,0,2
+,2,3
+,3,4
+,4,5
+,0,6
+Isaac Appel & Sri Chilukuri,1,1
+,0,2
+,2,3
+,3,4
+,4,5
+,5,6
+,6,7
+,7,8
+David Kinane & Jake Ryan,1,1
+,2,2
+,3,3
+Naman Razdan & Soumil Zachariah,1,1
+,2,2
+Sukhm Kang & Nate Mayor,1,1
+,0,2
+,2,3
+,3,4
+,4,5
+Anish Ganesh & Abraham Paik,1,1
+,2,2
+Kiran Krishnamurthi & John DeSantis,1,1
+,2,2
+Daniel Yan & Sai Karnati,0,1
+,0,2
+,1,3
+,2,4
+Alec Boulton & Jackson Loze,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,0,6
+Gabe Grodan & Daniel Timor,0,1
+,1,2
+,2,3
+,3,4
+Hannah Feuer & Elizabeth Hepburn,1,1
+,2,2
+Zoe Kaufmann & Azraf Khan,1,1
+,0,2
+,2,3
+Robert Quinn & Christian Wing,0,1
+,1,2
+,2,3
+,0,4
+Miles Dintzner & Ali Slimi,1,1
+,0,2
+,0,3
+,2,4
+,3,5
+Hattie Bilson & Ruby Marsh,0,1
+,1,2
+,2,3
+,0,4
+Simhao Low & Rohan Ajjarapu,1,1
+,2,2
+Frank Lai & Krishna Shamanna,0,1
+,1,2
+,0,3
+,2,4
+,,
+,,
+,,
+,,
+,,
+,,
+
+
+
+
+Debaters,Bid,Bid Rd
+Katherine Gu & Joshua Lee,1,1
+Dhruva Rangan & Atharva Kasar,1,1
+Jonathan Gong & Franklin Wu,1,1
+William Coleman & Sameer Sultan,1,1
+VijayaSai Somasundaram & JayaSai Somasundaram,1,1
+,0,2
+Nilesh Chander & Sammy Platovsky,1,1
+David Parau & Shaurya Khanna,1,1
+Ava Sonies & Eden Weissman,1,1
+Logan Quick & Yash Singh,1,1
+,0,2
+Nikhil Kommineni & Kate Selig,0,1
+,0,2
+,0,3
+,1,4
+Kate Selig & Arjun Khurana,1,1
+Beattie Bernfield & Pascal O'Neill,1,1
+Illeana Baquero & Oliver Brocato,1,1
+Kyle Sihota & Riley Friedenberg,0,1
+,1,2
+Joshua Bratt & James Harrison,1,1
+Arnav Dham & Sam Pitchkhadze,0,1
+,1,2
+Sasha Haines & Maggie Mills,1,1
+,0,2
+,0,3
+Alex Dial & Matthew Mohn,1,1
+Dylan Beach & Abigail Spencer,1,1
+Aashray Khanna & Harry Ren,1,1
+,0,2
+Josh Gavsie & Miles Berger,1,1
+Ethan Adler & Trevor Schwab,1,1
+Ella Nebeker & Lexi Smith,1,1
+Rohan Amin & Jan Gajewski,1,1
+,0,2
+Yash Patel & Rohan Amin,1,1
+William Li & Connor Teehan,1,1
+Ethan Cordes & Jessie Miller,1,1
+,0,2
+Riya Bindlish & Sanjana Raganathan,1,1
+Tanaya Bhakat & Shaheer Sandhu,0,1
+,1,2
+Gabe Lee & Vikram Balasubramanian,1,1
+Kunal Borde & Sujan Rachuri,0,1
+,1,2
+Sylvia Duarte & Danielle Linbeck,0,1
+,1,2
+Mark Raj & Kevin Cao,0,1
+,0,2
+,1,3
+Kelly Kong & Yukiho Semimoto,0,1
+,0,2
+,1,3
+Ibrahim Salimi & Jacob Kang,1,1
+,0,2
+Iris Lin & Nikhil Malik,1,1
+Jennifer Cresap & Sophia Jansen,1,1
+Jake Palmer & Olivia Bobrownicki,1,1
+Rylen Patel & Dean Alamy,1,1
+Alex Kim & Scott Hong,1,1
+,0,2
+,0,3
+Raine Hagerty & Ryan Sequeira,1,1
+Yasmine Farsakh & Rebecca Kanter,1,1
+Michael Guber & Noah Quarton,1,1
+Irvin Yi & Thomas Dean,1,1
+Lauren Smith & Hanna Pence,1,1
+Reva Balakrishnan & Max Zhang,1,1
+Zayne El-Kaissi & Grant Griffin,1,1
+Marissa Garcia & Ricardo Sandoval,1,1
+Jaxson Nield & Arunabh Sarkar,0,1
+,1,2
+Alexa Mark & Shay Soodak,0,1
+,1,2
+,0,3
+Inko Bovenzi & Amala Karri,1,1
+,0,2
+,0,3
+Khegan Meyers & Seth Piechota,1,1
+Brandon Wu & Andy Zhou,1,1
+,0,2
+Deena Bhatt & Aleezeh Shaikh,0,1
+,1,2
+John Fung & Vishaal Kunta,0,1
+,1,2
+Sid Pinnamaneni & Max Steiner,1,1
+Sidhart Krishnan & Adriel Lee,1,1
+Erin Bell & Avani Nooka,1,1
+Franklin Ruan & Jiayan Luo,1,1
+Rachana Muvvala & Cindy Xu,1,1
+,0,2
+Christopher Waller & Nathaniel Johnson,1,1
+Maggie Nahas & Anthony Ovadje,1,1
+Will Sjostrom & Sophie Verska,0,1
+,0,2
+,1,3
+Tommy Douglass & Eli Wiles,1,1
+Tali Peretz & Alexander Sherer,1,1
+,0,2
+Emma Ahrenholtz & Reagan Newsome,0,1
+,1,2
+,0,3
+Ben Blumenthal & Joel Spence,0,1
+,1,2
+Brandon Schletzbaum & Rachel Wu,0,1
+,0,2
+,1,3
+C. Kawediya & H. Dhualakhandi,1,1
+Apurv Prabhakar & Lucas Huang,0,1
+,1,2
+Maggie Zhao & Apurv Prabhakar,1,1
+Alex Jiang & Eli Qian,1,1
+Anoop Bhat & Rishabh Ganesh,1,1
+Lorrin Stone & Alex Purn,1,1
+Abhi Bhandari & Ryan Fairbanks,1,1
+Jessica Wu & Will Chassé,1,1
+Frank Jiao & Veer Sawhney,1,1
+Kevin Kim & Michael Lezhnin,1,1
+Caleb Lazar & Jessica Wu,0,1
+,1,2
+Dana Silvian & Akshay Ramana,1,1
+Andrew Siegel & Emma Smith,1,1
+Clay Adams & Natalie Avida,1,1
+,0,2
+Ben Cheng & Ben Shahar,0,1
+,0,2
+,1,3
+Anjali Ramanthan & Irene Madjeski,1,1
+Nina Williams & Will Efrusy,1,1
+Saher Lakhani & Neha Mullassery,1,1
+Noah Ogata & Viswa Rajagopalan,0,1
+,0,2
+,1,3
+Alex Joel & Kay Rollins,1,1
+Nidhi Gowda & Esha Kapoor,1,1
+,0,2
+Brianna Kerr & Marley Rywell,0,1
+,1,2
+Marley Rywell & Thomas Murphy,1,1
+Joe Owens & Matthew Goodbred,0,1
+,0,2
+,1,3
+Matthew Kluge & Joseph O'Neill,1,1
+Amneh Alsuqi & Arpita Kanrar,1,1
+Matthew Yoon & Jaimie McKeel,1,1
+Payton Jenkins & Carson Barningham,1,1
+Robin Zeng & Celia Davis,0,1
+,1,2
+Adhit Sankaran & Ronak Pai,0,1
+,0,2
+,1,3
+,0,4
+,0,5
+Anirudh Iyer & Anish Warty,1,1
+,0,2
+Juan Formoso & Custer Gilchrest,1,1
+,0,2
+Zach Dyar & Liam Will,1,1
+Cooper Carlile & Santiago Weiland,1,1
+,0,2
+Caden Day & Neo Curry,1,1
+Neo Curry & Ethan Dupre,1,1
+Nick Clements & Angela Li,1,1
+,0,2
+Finn Andersen & Dylan Morgan,0,1
+,1,2
+Nicholas Bayer & Sam Davidson,0,1
+,1,2
+Easton Place & Levon Tabirian,1,1
+Josie Ingall & Jules Walzer-Goldfeld,1,1
+Manav Gundecha & Daisy Qui,1,1
+Deven Gupta & Pranav Moudgalya,1,1
+Will Brown & Nate Olson,1,1
+Rohit Gude & Ethan Gilman,1,1
+,0,2
+Danielle Hazan & Katie Sylvester,1,1
+,0,2
+Ethan Gilman & Azraf Khan,1,1
+Marcus Ellinas & Alexander Fasseas,0,1
+,1,2
+,0,3
+,0,4
+Michael Dodgin & Miles Sigel,1,1
+Nathan Iyer & Chinmay Pangale,1,1
+Navin Durbhakula & Vinay Durbhakula,0,1
+,0,2
+,1,3
+,0,4
+Joey Huang & Austin Mao,1,1
+,0,2
+,,
+,,
+Debaters,Bid,Bid Rd
+Kara Vetch & Lauren Rhodes,0,1
+Serena Han & Sam Chen,0,1
+Dhruva Rangan & Lydia Margolien,0,1
+Lee Morgan & Adam Morgan,0,1
+Joseph Zhang & Christopher Wang,0,1
+Sammy Platovsky & Shubhum Giroti,0,1
+Harsha Boyilla & Kyle Soni,0,1
+Karsen Wahal & Mitchel Wang,0,1
+Omar Busaidy & Vedanth Ramabhadran,0,1
+Pramit De & Andrew Sun,0,1
+Thomas Lai & William Fan,0,1
+Carlos Caballero & Julian de la Maza,0,1
+June McBarron & Maija Fiedelholtz,0,1
+Ryan Livingstone & Turner Loesel,0,1
+Ritvik Chandrashekhar & Aryan Jain,0,1
+,0,2
+Collin Maldonado & Nelson Rose,0,1
+Alexandra Ellerstein & Eli Zerof,0,1
+Andrew Kamen & Zayaan Shariff,0,1
+,0,2
+David Eick & Riley Friedenberg,0,1
+,0,2
+Max Jackman & Josh Kapusinski,0,1
+,0,2
+Justin Liu & Saikumar Gantla,0,1
+Haley Jeffers & Isabella Yang,0,1
+Saikumar Gantla & Danny An,0,1
+Matthew Krak & Corin Magee,0,1
+Maggie Mills & Grace Lee,0,1
+Henry Campbell & John Webster,0,1
+Margot Neligan & Zoe Spicer,0,1
+Rishabh Saran & Shivam Saran,0,1
+Eliana Kertzner & Colter Decker,0,1
+Abhimanyu Gupta & Chris Berning,0,1
+Harrison Coorey & Kevin Zhang,0,1
+Connor Dandridge & Alexandro Zavala,0,1
+Lindsiann Shi & Selina Shi,0,1
+,0,2
+Gbemi Awonusonu & Sionika Thayagabalu,0,1
+Ariana Blaustein & Kaelin Suh,0,1
+Alexander Luo & Jack Townsend,0,1
+Ather Williams & Theodore Fraenkel-Thonet,0,1
+,0,2
+MacKenzie Gabriel-Lazette & Rose Reilly,0,1
+Adheet Gupta & Jeevan Rajkumar,0,1
+,0,2
+Gabe Lee & Srisai Nachuri,0,1
+Aman Sankineni & Vivian Kuang,0,1
+,0,2
+,0,3
+Kevin Cao & Shreshth Srivastava,0,1
+Shreshth Srivastava & Nikhil Polepalli,0,1
+Esme Longley & Mac Hays,0,1
+Matthew Chang & Daniel Park,0,1
+Alexander Mandadjiev & Jack Friedman,0,1
+Samantha Richter & Abhiram Masam,0,1
+Lily Jones & Chloe Maynor,0,1
+Arjun Maheshwari & Isaac Wu,0,1
+Aditya Rewalliwar & Nicholas Fu,0,1
+Rahman Hasib & Ahmad Umer,0,1
+Abhinav Vempati & Joshua Qin,0,1
+Ved Shivade & Ryan Idnani,0,1
+Lily Jiang & Margaret Kalaw,0,1
+Shreyas Swaminathan & Michael Zhu,0,1
+Morgan Botknecht & Andrea Pavon,0,1
+Andrew Hageman & Trinity White,0,1
+Shria Ramanathan & Nyssa Silva,0,1
+Eric Sheng & Jonathan Li,0,1
+Victor Pan & Ally Sewell,0,1
+,0,2
+Bryce Hann & Sofia Valdespino,0,1
+Sam Ahn & Adithi Attada,0,1
+Adithi Attada & Amala Karri,0,1
+Payton Bellman & Jack Maedgen,0,1
+Mackenzie Pattridge & Emily Robinson,0,1
+Lucas Bowerman & Isaak Popkin,0,1
+Santiago Calderon & Zeal Patel,0,1
+Elizabeth Kim & Abhi Patel,0,1
+Maddie Cook & Sheridan Norcia,0,1
+Roman Sciamanda & Andrew Hentges,0,1
+Gus Gerlach & Karen McCoy,0,1
+,0,2
+,0,3
+Madelyn Cook & Karen McCoy,0,1
+Henry Xuan & Sri Pinnamareddy,0,1
+,0,2
+,0,3
+William Erard & Dylan Canyon,0,1
+Cody Builta & Mark Foster,0,1
+Nikhil Kulkarni & Calvin Xie,0,1
+,0,2
+,0,3
+Cassidy Lu & Michelle Huang,0,1
+Calvin Xie & Eric Yin,0,1
+Danny Cigale & Jesse Sun,0,1
+Joseph Kim & Ethan Reiter,0,1
+,0,2
+,0,3
+Joseph Kim & Ishan Saxena,0,1
+Bennett Browning & William Weed,0,1
+Chang & Howard,0,1
+Julia Amann & Jiu Lee,0,1
+Kacey Lee & Hannah Smith,0,1
+,0,2
+Michelle Mally & Francesca Medeiros,0,1
+Srikumar & Gupta,0,1
+Sabrina Cai & Serena Mao,0,1
+,0,2
+Yash Dalmia & Tushar Dalmia,0,1
+,0,2
+,0,3
+,0,4
+Dhruv Pai & Matthew Casertano,0,1
+Alex Jiang & Eli Qian,0,1
+Evan Jack & Dylan Jardine,0,1
+Gage Rodriguez & Erik Zhang,0,1
+,0,2
+Abbas Jaffery & Asad Jaffery,0,1
+,0,2
+Brad Smith & Paytan Murray,0,1
+Sadie Weiss & Miranda Wilson,0,1
+Amit Fudim & Gaby Lewis,0,1
+,0,2
+,0,3
+Sam Jones & Andrew Li,0,1
+Caleb Lazar & Jessica Wu,0,1
+Ari Arias & Daniel Gutkin,0,1
+,0,2
+Peyton Ronkin & Caleb Samson,0,1
+David Choi & Sreekar Kasturi,0,1
+,0,2
+Anika Allen & Spencer Bober,0,1
+Aramis Bello & Emma Smith,0,1
+Aramis Bello & Aaron Redler,0,1
+Arjun Narayan & Siddharth Mittal,0,1
+,0,2
+Nicholas Mancini & Giorgio Rabbini,0,1
+Toby Frank & Cooper Mills,0,1
+Mickey Daras & Liam McDonald,0,1
+,0,2
+Sophia Madejski & Kevin Wang,0,1
+Anjali Santhanam & Grace Waytena,0,1
+Aidan Sze & Alex Yan,0,1
+Noah Tavares & Pranav Ram,0,1
+Andrew Thong & Albert Ding,0,1
+Eli Reitman & Carter Stewart,0,1
+Dakota Champagne & Grace Luckett,0,1
+,0,2
+Sofia A Bletnitsky & Sophie Mallas,0,1
+Ali Aldous & Caroline Waldmann,0,1
+Alex Joel & Charlie Judd,0,1
+Margaret Dill & Aidan Murphy,0,1
+Colin Adamo & Aleksandr Petukhov,0,1
+Robert DeSena & Raymund Lee,0,1
+Finn Donohue & Morgan McCordick,0,1
+,0,2
+Alex Lee & Jonathan Singleton,0,1
+,0,2
+,0,3
+Jonathan Hayden & Zach Kingery,0,1
+Carina Guo & Johnathan Sun,0,1
+Johnathan Sun & Amanda Wu,0,1
+,0,2
+Nurah Kutty & Julie Wang,0,1
+,0,2
+Lauren Giddings & Collin Simon,0,1
+Natalie Garcia & Emily Mendoza,0,1
+,0,2
+Janine D'Souza & Pratamesh Ramasubramanian,0,1
+Asher Bykov & Joey Bykov,0,1
+Cas Mulford & Aislinn Mitcham,0,1
+,0,2
+Nolan Chen & Siva Sambasivam,0,1
+,0,2
+Sajiv Shah & Neil Shah,0,1
+Nyla Crayton & John Forbes,0,1
+Andrew Chan & Alex Zhong,0,1
+Aditya Manjul & Gargi Samarth,0,1
+Katelyn Buckley & Brady McCue,0,1
+Owen Lubben & Riley VanDenTop,0,1
+sajiv Shah & Neil Shah,0,1
+,0,2
+Aamir Mohsin & Saaketh Chennaiahgari,0,1
+Will Heilmann & Mark Trautner,0,1
+,0,2
+Matthew Yekell & Robert Garza,0,1
+Victoria Newman-Menendez & John David Walls,0,1
+Eliza Spinna & Camilla Green,0,1
+Nick Clements & Anthony Yu,0,1
+Alex Supran & Anthony Yu,0,1
+Jessica Boyette & Wendy Stein,0,1
+Eshaan Moorjani & Kevin Zeng,0,1
+Alexis Huang & Katie Rohrbaugh,0,1
+Noelle Lambert & Gaurav Sett,0,1
+Dylan Patel & Michael Larenas-Leach,0,1
+Zara Ali & Madeline Wenger,0,1
+,0,2
+Ben Baisinger-Rosen & Kushan Weerakoon,0,1
+Atharva Weling & Andy Wang,0,1
+Nicolas Ho & Jason Luo,0,1
+,0,2
+,0,3
+Rachel Li & Owen Robertson,0,1
+Preston Williams & Xuechen Yin,0,1
+Pranav Kulkarni & Raymond Sun,0,1
+,0,2
+,0,3
+Ridha Mirza & Sruthi Ramaswamy,0,1
+Mackenzie Jackson & Kate Sandoval,0,1
+,0,2
+Tommy Colitsas & Naman Sarda,0,1
+Wallace Chen & Michael Huang,0,1
+Nilay Gandhi & Saahil Kalvakuntla,0,1
+
