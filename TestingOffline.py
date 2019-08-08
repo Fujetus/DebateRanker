@@ -12,11 +12,11 @@ def send():
         # variable storge as well taking in the two last names
         name1 = request.form['name1'].strip()
         name2 = request.form['name2'].strip()
-        event_id = [100378, 100370, 84999, 87748, 87131, 86587, 85902, 86737, 86005, 87200, 85698, 91758, 73485, 88335,
+        event_id = [100378, 100370, 84999, 87748, 87131, 86587, 85902, 86737, 86005, 87200, 85698, 91758, 73485, 88335, 92194, 94405,
                     88344, 89578, 87321, 88226, 91762, 85926, 91678, 92557, 80427, 78473, 89027, 85929, 91608, 87378,
-                    85778, 10053, 87073, 87119, 87914, 84983, 98010, 88478, 10299, 96471, 85341, 96684, 10246, 97424,
-                    89197, 96935, 85809, 100286, 98684, 88026, 86222, 88973, 10223]
-        tourn_id = [11772, 11772, 10038, 10621, 10180, 10364, 10192, 10401, 10210, 10537, 10161, 11057, 8739, 10691,
+                    85778, 100539, 87073, 87119, 87914, 84983, 98010, 88478, 102992, 96471, 85341, 96684, 102463, 97424,
+                    89197, 96935, 85809, 100286, 98684, 88026, 86222, 88973, 102231]
+        tourn_id = [11772, 11772, 10038, 10621, 10180, 10364, 10192, 10401, 10210, 10537, 10161, 11057, 8739, 10691, 11109, 11335,
                     10692, 10844, 10560, 10680, 10615, 10196, 11050, 11148, 9432, 9270, 10768, 10197, 11044, 10569,
                     10171, 11564, 10512, 10519, 10646, 10037, 11652, 10701, 12159, 11254, 10081, 11552, 10864, 11622,
                     10796, 11447, 10181, 11877, 11722, 10663, 10274, 10763, 12082]
@@ -28,31 +28,46 @@ def send():
         results_storage = []
         tournament_url = []
         total_breaks = 0
+        silverbid = 0;
+        goldbidcounter = 0;
 
-        silverbid = 0
-        goldbidcounter = 0
-        df_multiple_gold = pandas.read_csv("/home/Fujetus/DebateWatch/Bids/MultipleGold.csv")
-        df_final = df_multiple_gold.head(905)
-        arr = df_final.to_numpy()
+        f = open("/home/Fujetus/DebateWatch/Bids/BIDS.txt", "r")  # open file
 
-        num_rows, num_cols = arr.shape
-        keepgoing = True
+        # keep iterating through lines until you get the right one
+        text = "nonsense"
+        while text != "":
+            text = f.readline()
+            if (text.upper().find(" " + name1.upper() + " ") != -1 and text.upper().find(" " + name2.upper() + ",") != -1 or text.upper().find(
+                    " " + name2.upper() + " ") != -1 and text.upper().find(" " + name1.upper() + ",") != -1):
+                if (name1 == name2):
+                    index_of_ampersand = text.index("&")
+                    if (text[0:index_of_ampersand].find(name1) != -1 and text[index_of_ampersand:text.__len__()].find(
+                            name1) != -1):
+                        break
+                else:
+                    break
+        # make a string with a list of all their numbers
+        if text.__len__() == 0:
+            pass
+        else:
+            new_text = f.readline()
+            while (new_text.find("&") == -1):
+                text += new_text
+                new_text = f.readline()
 
-        for i in range(0, num_rows):
-            if (keepgoing):
-                if (str(arr[i][0]).upper().find(name1.upper()) != -1) and str(arr[i][0]).upper().find(name2.upper()) != -1:
-                    starter = i
-                    keepgoing = False
-                    for x in range(starter, num_rows):
-                        if (((str(arr[x][0]).upper().find(name1.upper()) != -1) and (str(arr[x][0]).upper().find(name2.upper()) != -1)) or str(arr[x][0]) == "nan"):
-                            bid = ""
-                            bid = str(arr[x][1])
-                            if bid == "0":
-                                silverbid += 1
-                            else:
-                                goldbidcounter += 1
+            # in a list like 0,1,0,2 we only care about 0 and 0. The fact that they are both 0 means there are two silver bids.
+            # A non-zero value indicates a gold bid
+            even = True  # this helps switch off every other number
+            for elem in text:
+                if (elem >= "0" and elem <= "9"):  # if the element we are looking at is a number
+                    if even:  # if its one of the 0th, 2nd, 4th, etc element (the ones we care about)
+                        if elem == "0":
+                            silverbid += 1  # if 0, silver
                         else:
-                            break
+                            goldbidcounter += 1  # if not, gold
+                        even = False
+                    else:
+                        even = True
 
         # running through all the url's for with the different event_id and tourn_id
         for x in range(0, len(event_id)):
@@ -64,7 +79,7 @@ def send():
             tabroomElems = tabroomSoup.select('td > a')
             checker = False
             for names in tabroomElems:
-                if names.text.upper().find(name1.upper() + ' & ' + name2.upper()) != -1 or names.text.upper().find(name2.upper() + ' & ' + name1.upper()) != -1:
+                if names.text.strip().upper() == (name1.upper() + ' & ' + name2.upper()) or names.text.strip().upper() == (name2.upper() + ' & ' + name1.upper()):
                     for elem in tournament_name:
                         print(elem.text)
                         tournament_storage.append(elem.text)
@@ -116,26 +131,66 @@ def send():
             Wcount = 0
             Lcount = 0
             breakFlag = False
+            GMU_faggotry= False
+            GMU_outround=False
+            Churchill_faggotry=False
             i = 0
-            while i < len(completeList):
-                # first condition checks for byes and second condition checks for coach overs, if true ignores
-                if rowElems[i].text.upper().find('\tBYE\n') != -1 or (judgeVars[i] == 0 and (rowElems[i].text.upper().find('\tPRO\n') or rowElems[i].text.upper().find('\tCON\n'))):
-                    if rowElems[i].text.upper().find('ROUND') == -1:
+            if event_id[x] == 92194:
+                GMU_faggotry = True
+            if event_id[x] == 102992:
+                Churchill_faggotry=True
+            if not Churchill_faggotry:
+                while i < len(completeList):
+                    GMU_outround = False
+                    # first condition checks for byes and second condition checks for coach overs, if true ignores
+                    if rowElems[i].text.upper().find('\tBYE\n') != -1 or (judgeVars[i] == 0 and (rowElems[i].text.upper().find('\tPRO\n') or rowElems[i].text.upper().find('\tCON\n'))):
+                        if rowElems[i].text.upper().find('ROUND') == -1:
+                            breakFlag = True
+                            pass
+                    # checks if a round is an outround, adds to outround counters if true and defaults to prelim counters in the else statement
+                    elif rowElems[i].text.upper().find('ROUND') == -1:
                         breakFlag = True
-                # checks if a round is an outround, adds to outround counters if true and defaults to prelim counters in the else statement
-                elif rowElems[i].text.upper().find('ROUND') == -1:
-                    breakFlag = True
-                    if completeList[i].count('W') > completeList[i].count('L'):
-                        outRoundWCount += 1
+                        if completeList[i].count('W') > completeList[i].count('L'):
+                            outRoundWCount += 1
+                        else:
+                            outRoundLCount += 1
                     else:
-                        outRoundLCount += 1
-                else:
-                    if completeList[i].count('W') == 1:
-                        Wcount += 1
+                        if(GMU_faggotry):
+                            if completeList[i].count('W') + completeList[i].count('L') > 1:
+                                GMU_outround= True
+                        if completeList[i].count('W') > completeList[i].count('L'):
+                            if(GMU_outround):
+                                outRoundWCount+=1
+                                breakFlag= True
+                            else:
+                                Wcount += 1
+                        else:
+                            if (GMU_outround):
+                                outRoundLCount += 1
+                                breakFlag= True
+                            else:
+                                Lcount += 1
+                    i += 1
+            else:
+                while i < len(completeList):
+                    # first condition checks for byes and second condition checks for coach overs, if true ignores
+                    if rowElems[i].text.upper().find('\tBYE\n') != -1 or (judgeVars[i] == 0 and (rowElems[i].text.upper().find('\tPRO\n') or rowElems[i].text.upper().find('\tCON\n'))):
+                        if rowElems[i].text.upper().find('ROUND') == -1:
+                            breakFlag = True
+                            pass
+                    # checks if a round is an outround, adds to outround counters if true and defaults to prelim counters in the else statement
+                    elif completeList[i].count('W') + completeList[i].count('L') > 1:
+                        if completeList[i].count('W') > completeList[i].count('L'):
+                            outRoundWCount += 1
+                        else:
+                            outRoundLCount += 1
+                    else:
+                        if completeList[i].count('W') == 1:
+                            Wcount += 1
+                        else:
+                            Lcount += 1
+                    i += 1
 
-                    else:
-                        Lcount += 1
-                i += 1
             if breakFlag:
                 total_breaks += 1
             prelim_wins += Wcount
