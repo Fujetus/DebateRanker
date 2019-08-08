@@ -41,8 +41,8 @@ def send():
                     " " + name2.upper() + " ") != -1 and text.upper().find(" " + name1.upper() + ",") != -1):
                 if (name1 == name2):
                     index_of_ampersand = text.index("&")
-                    if (text[0:index_of_ampersand].find(name1) != -1 and text[index_of_ampersand:text.__len__()].find(
-                            name1) != -1):
+                    if (text[0:index_of_ampersand].upper().find(name1.upper()) != -1 and text[index_of_ampersand:text.__len__()].upper().find(
+                            name1.upper()) != -1):
                         break
                 else:
                     break
