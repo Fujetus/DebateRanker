@@ -58,7 +58,7 @@ Aarin Shah & Eshan Kalra,0,1
 ,1,2
 ,2,3
 ,3,4
-Avalon Delasandro & Francesca Lupi,1,1
+Avalon Dalesandro & Francesca Lupi,1,1
 ,2,2
 ,3,3
 ,4,4
@@ -245,7 +245,7 @@ Matthew Xing & Inko Bovenzi,1,1
 ,2,2
 ,0,3
 ,0,4
-Bryan Benetiz & Raj Solanki,1,1
+Bryan Benitez & Raj Solanki,1,1
 ,2,2
 ,3,3
 Anoosh Kumar & Jasper Ou,1,1
