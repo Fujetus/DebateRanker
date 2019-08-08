@@ -4,7 +4,7 @@ import cgi
 import cgitb;
 import pandas
 
-name1 = "Jain"
+name1 = "Chandrashekhar"
 name2 = "Jain"
 
 f = open("BIDS.txt", "r")  # open file
@@ -13,7 +13,7 @@ f = open("BIDS.txt", "r")  # open file
 text= "nonsense"
 while text!= "":
     text = f.readline()
-    if(text.find(name1)!=-1 and text.find(name2)!=-1):
+    if(text.find( " " + name1 + " ")!=-1 and text.find(" " + name2 + ",")!=-1 or  text.find( " " + name2 + " ")!=-1 and text.find(" " + name1 + ",")!=-1):
         if(name1==name2):
             index_of_ampersand= text.index("&")
             if(text[0:index_of_ampersand].find(name1)!= -1 and text[index_of_ampersand:text.__len__()].find(name1)!=-1):
