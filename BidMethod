@@ -1,0 +1,43 @@
+def bidCount(name1, name2, category):
+    bids = [0, 0]
+    if (category == "PF"):
+        f = open("PF_BIDS.txt", "r")  # open file
+
+    # keep iterating through lines until you get the right one
+    text = "filler"
+    while text != "":
+        text = f.readline()
+        if (text.upper().find(" " + name1.upper() + " ") != -1 and text.upper().find(
+                " " + name2.upper() + ",") != -1 or text.upper().find(
+            " " + name2.upper() + " ") != -1 and text.upper().find(" " + name1.upper() + ",") != -1):
+            if (name1 == name2):
+                index_of_ampersand = text.index("&")
+                if (text[0:index_of_ampersand].upper().find(name1.upper()) != -1 and text[
+                                                                                     index_of_ampersand:text.__len__()].upper().find(
+                    name1.upper()) != -1):
+                    break
+            else:
+                break
+    # make a string with a list of all their numbers
+    if text.__len__() == 0:
+        pass
+    else:
+        new_text = f.readline()
+        while (new_text.find("&") == -1):
+            text += new_text
+            new_text = f.readline()
+
+        # in a list like 0,1,0,2 we only care about 0 and 0. The fact that they are both 0 means there are two silver bids.
+        # A non-zero value indicates a gold bid
+        even = True  # this helps switch off every other number
+        for elem in text:
+            if (elem >= "0" and elem <= "9"):  # if the element we are looking at is a number
+                if even:  # if its one of the 0th, 2nd, 4th, etc element (the ones we care about)
+                    if elem == "0":
+                        bids[1] += 1  # if 0, silver
+                    else:
+                        bids[0] += 1  # if not, gold
+                    even = False
+                else:
+                    even = True
+    return bids
