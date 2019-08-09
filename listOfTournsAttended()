@@ -1,0 +1,28 @@
+def listOfAttendedTourns(all_event_id, category, name1, name2):
+    if (category == "PF"):
+        y = 0
+    tournament_url = []
+    tournament_storage = []
+    for x in range(0, (all_event_id[y].__len__())):
+        # souping the results page
+        fh = open((str((all_event_id[y][x])) + ".txt"), "r")
+        tabroomSoup = bs4.BeautifulSoup(fh.read(), features="html.parser")
+        tournament_name = tabroomSoup.select('div > h2[class="centeralign marno"]')
+        # finding the two names and storing the tournament name
+        tabroomElems = tabroomSoup.select('td > a')
+        checker = False
+        for names in tabroomElems:
+            if names.text.strip().upper() == (name1.upper() + ' & ' + name2.upper()) or names.text.strip().upper() == (
+                    name2.upper() + ' & ' + name1.upper()):
+                for elem in tournament_name:
+                    print(elem.text)
+                    tournament_storage.append(elem.text)
+                print('https://www.tabroom.com' + names.get('href'))
+                resultsPage = 'https://www.tabroom.com' + names.get('href')
+                tournament_url.append(resultsPage)
+                checker = True
+                break
+        if (checker == False):
+            continue
+    returningarray = [tournament_url, tournament_storage]
+    return returningarray  # first element is an array of all the URLS, second is the names
