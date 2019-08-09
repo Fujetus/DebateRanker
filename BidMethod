@@ -1,9 +1,10 @@
+
 def bidCount(name1, name2, category):
     bids = [0, 0]
     if (category == "PF"):
         f = open("PF_BIDS.txt", "r")  # open file
 
-    # keep iterating through lines until you get the right one
+    # keep iterating through lines until you get the right one 
     text = "filler"
     while text != "":
         text = f.readline()
