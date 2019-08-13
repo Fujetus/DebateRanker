@@ -1,0 +1,2897 @@
+1,Poly Prep Country Day FK Fernandez & Kaye
+2,Lincoln-Sudbury Regional CS Cigale & Shankar
+3,Blake GJ Gill & Johnson
+4,Lake Mary Prep HM Huang & Manfredi
+5,Campbell Hall DL Dalesandro & Lupi
+6,Lake Highland Prep KO Kumar & Ou
+7,Theodore Roosevelt AC Appel & Chilukuri
+8,Corona Del Sol PJ Pattipati & Jiang
+9,Stuyvesant LS Lee & Sword
+10,Bronx HS Of Science OS Oestericher & Silver
+11,Mission San Jose KM Koppurapu & Maunder
+12,University KM Kang & Mayor
+13,Horace Mann MK Mehrotra & Kim
+14,Valley International Prep BL Boulton & Loze
+15,Gunn Sr BK Balakrishnan & Kohrman
+16,Acton Boxborough LR Rangan & Lee
+17,Blake SW Swigert & Wu
+18,La Salle DH Dunbar & Henley
+19,Strake Jesuit College Prep DS Day & Shah
+20,Hackley BW Bonanno & Wilke
+21,Horace Mann MM Moolji & Moolji
+22,Millburn ZA Zhu & Agarwal
+23,Acton Boxborough GL Gu & Lee
+24,Archbishop Mitty KV Kaviani & Varma
+25,Fairmont Prep OR Ong & Razzak
+26,Millard North SN Shelton & Niu
+27,Newton South SG Sridhar & Garg
+28,Dougherty Valley KJ Kiran & Jamal
+29,Ames AM Aydinyan & Mkhitaryan
+30,Valley International Prep GT Grodan & Timor
+31,Quarry Lane SV Sen & Vijapure
+32,University KY Karnati & Yan
+33,College Prep DP Dovichi & Park
+34,Dalton CY Chapple & Yu
+35,Hunter XB Xing & Bovenzi
+36,Ridge RW Raviarasan & Wen
+37,Eagan PS Patel & Scheller
+38,Dalton CF Fielding & Cuello-Wolffe
+39,St Mary's Hall HP Hernandez & Plante
+40,Westlake DS Dintzner & Slimi
+41,Hunter LK Li & Karri
+42,Fairmont Prep BA Alamy & Bobrownicki
+43,Unionville KR Kinane & Ryan
+44,Plano West Sr LW Lin & Wei
+45,Fairmont Prep GB Gumlia & Bhagavatula
+46,Nueva CS Cheng & Shahar
+47,Richard Montgomery HZ Hu & Zhao
+48,Basis Peoria PR Parau & Ram
+49,Cranbrook KL Khanna & Luo
+50,Westridge BM Bilson & Marsh
+51,Hawken LG Lyons & Goel
+52,Ransom Everglades SS Schurr & Stern
+53,Horace Mann HL He & Lee
+54,Hunter RT Roz & Tawil
+55,Delbarton MP Manahan & Patel
+56,Delbarton AG Amin & Gajewski
+57,Bromfield KS Kommineni & Selig
+58,Edina NT Nissen & Teske
+59,Cinco Ranch RT Routray & Tewary
+60,Ridge GZ Gaddipati & Zhang
+61,Brophy CP KS Kalra & Shah
+62,Saratoga SP Sankaran & Pai
+63,Oakton ZY Zhu & Yoon
+64,Los Altos KC Kwan & Cai
+65,College Prep BW Bhasin & Wornow
+66,Shrewsbury IW Iyer & Warty
+67,Ardrey Kell HB Hazeldine & Brown
+68,Horace Mann GS Granmayeh & Snyder
+69,Kempner SB Solanki & Benitez
+70,Lincoln-Sudbury Regional SH Shankar & Howell
+71,Chagrin Falls HM Haines & Mills
+72,Edina ZM Zhu & Maheshwari
+73,Campbell Hall FE Friedenberg & Eick
+74,DuPont Manual CR Cao & Raj
+75,Fairmont Prep SS Savdharia & Savdharia
+76,Plano West Sr WA Wang & Annam
+77,College Prep HN Haugh & Nurko
+78,Westwood LS Lai & Shamanna
+79,Mira Loma GS Gunendran & Seshadri
+80,Winston Churchill DD Durbhakula & Durbhakula
+81,Packer Collegiate Institute CL Champagne & Luckett
+82,Fairmont Prep HK Hong & Kim
+83,Hawken EG El-Kaissi & Griffin
+84,North Broward Prep KP Katz & Peterson
+85,Basis Independent Silicon Valley IS Ilkbahar & Shanmugam
+86,Walt Whitman HS Hazan & Sylvester
+87,Mission San Jose GZ Gupta & Zhang
+88,Dougherty Valley SaKu Sankineni & Kuang
+89,Cypress Woods MB Malik & Bertinot
+90,Delbarton LT Li & Teehan
+91,Walt Whitman KK Kaufmann & Khan
+92,Edgemont KS Kong & Semimoto
+93,American Heritage Plantation ZC Zhuravsky & Chander
+94,Lynbrook XM Xu & Muvvala
+95,Walt Whitman FH Feuer & Hepburn
+96,Durham OK Owens & Kim
+97,Thomas S. Wootton TZ Tegen & Zeng
+98,Mission San Jose DD Dalmia & Dalmia
+99,Livingston KR Kim & Reiter
+100,Plano West Sr RL Rao & Liang
+101,Hunter BK Bovenzi & Karri
+102,Newton South FL Fudim & Lewis
+103,Horace Mann SM Soodak & Mark
+104,Marist SV Sjostrom & Verska
+105,Unionville RZ Razdan & Zachariah
+106,Ridge WK Wang & Kutty
+107,Delbarton WF Williams & Fraenkel-Thonet
+108,Mission San Jose PH Prabhakar & Huang
+109,Oxbridge Academy GS Goetschius & Stewart
+110,Capitol BC Bratt & Choo
+111,Cypress Bay SN Sepulveda & Norman
+112,Delbarton FW Fostiropoulos & Waldmann
+113,Acton Boxborough CH Chen & Han
+114,Mountain View ZR Zhang & Rodriguez
+115,St John's MK Moll & Konduri
+116,Bridgewater IM Inta & Melendi
+117,Regis LS Lee & Singleton
+118,Nueva FM Frank & Mills
+119,Strake Jesuit College Prep DD Donowho & Dowdall
+120,Walt Whitman AW Ali & Wenger
+121,University KD Krishnamurthi & DeSantis
+122,Cranbrook RZ Ren & Zhen
+123,Dougherty Valley BS Bhakat & Sandhu
+124,Ravenwood BJ Balaje & Jaisinghani
+125,Bronx HS Of Science KS Kamen & Shariff
+126,Horace Mann JS Jin & Sanger
+127,Altamont CL Cook & Lembke
+128,Bettendorf QS Quick & Singh
+129,Westlake YW Yin & Williams
+130,College Prep ZC Zhang & Coorey
+131,Winston Churchill HM Huang & Mao
+132,Capitol PD Pitchkhadze & Dham
+133,Montgomery Blair JQ Jiang & Qian
+134,Saratoga SC Sambasivam & Chen
+135,Westlake RL Robertson & Li
+136,Newton South LW Lazar & Wu
+137,Edgemont SK Salimi & Kang
+138,Los Altos RL Ruan & Luo
+139,Potomac SK Shenkman & Kwon
+140,Westlake HL Ho & Luo
+141,Northwood CK Choi & Kasturi
+142,Plano West Sr OR Ogata & Rajagopalan
+143,University GP Ganesh & Paik
+144,Dublin Jerome RB Rachuri & Borde
+145,Durham KD Kum & Dalva-Baird
+146,Charlotte Latin GS Gwaltney & Singh
+147,Mission San Jose MC Mao & Cai
+148,Lincoln MW Moberly & Walker
+149,Belvidere North GC Giesecke & Cochran
+150,Dougherty Valley LN Lee & Nachuri
+151,Walt Whitman BO Brown & Olson
+152,Nueva TR Tavares & Ram
+153,Montville SP Stone & Purn
+154,Westlake DS Dodgin & Sigel
+155,Regis DM Delaney & McGibbon
+156,King HS Independent MP Meyers & Piechota
+157,Edina Jones & Maynor Jones & Maynor
+158,Nueva RM Ramanathan & Madjeski
+159,Zhou & Wu
+160,Leland LK Krishnan & Lee
+161,Nueva AA Adams & Avida
+162,Leland KX Xie & Kulkarni
+163,Ravenwood OG Owens & Goodbred
+164,Cranbrook RK Ren & Khanna
+165,Charlotte Latin NS Neligan & Spicer
+166,Lincoln-Sudbury Regional HS Howell & Sun
+167,Fairmont Prep AP Patel & Alamy
+168,Paramus GG Gada & Gada
+169,Whitefish Bay High Shcool FE Fasseas & Ellinas
+170,Acton-Boxborough WG Wu & Gong
+171,Acton-Boxborough RM Rangan & Margolien
+172,Walt Whitman GG Gude & Gilman
+173,St Mary's Hall NW Newman-Menendez & Walls
+174,Ft Lauderdale FK Farsakh & Kanter
+175,Urban WH Walzer-Goldfeld & Harrison
+176,Acton Boxborough HN Handel & Narra
+177,DuPont Manual SP Srivastava & Polepalli
+178,Hamilton LS Li & Sheng
+179,Brentwood AK Adabala & Kasiewicz
+180,Bridgewater Raritan CJ Chandrashekhar & Jain
+181,Trinity BD Davidson & Bayer
+182,Edgemont NB Nair & Bhaskara
+183,Leadership and Public Service CS Cordero & Singh
+184,Trinity Prep HR Huang & Rohrbaugh
+185,Dalton CS Choi & Solomon
+186,Millard North RZ Rankin & Zhu
+187,Newton South KL Kim & Lezhnin
+188,Westwood IP Iyer & Pingale
+189,Westfield MZ Mehta & Zhao
+190,Newton South SJ Sawhney & Jiao
+191,Delbarton LT Luo & Townsend
+192,Carroll KM Kurapati & Miller
+193,Newton South MM Mobarak & Makarovsky
+194,Chan & Zhong
+195,Regis DL DeSena & Lee
+196,Summit CL Clements & Li
+197,Strake Jesuit College Prep JA Jalal & Ashraf
+198,Manjul & Samarth
+199,Stuyvesant GS Green & Spinna
+200,Lake Highland Prep FK Fung & Kunta
+201,Boston Latin MH Ma & Han
+202,College Prep BG Berning & Gupta
+203,Park City WE Williams & Efrusy
+204,Leland HL Lu & Huang
+205,Bronx HS Of Science DG Dadak & Ganguly
+206,Rowland Hall ZD Zeng & Davis
+207,James Bowie BM Bellman & Maedgen
+208,Newton South JL Li & Jones
+209,Hawken SP Sewell & Pan
+210,Unionville WG Wang & Gadagkar
+211,Capitol NP Naeem & Patel
+212,Los Altos HC Howard & Chang
+213,Byram Hills BB Baquero & Brocato
+214,Clayton-Bradley CC Cobb & Camacho
+215,North Allegheny Sr NM Narayan & Mittal
+216,Fairmont Prep PB Palmer & Bobrownicki
+217,Evergreen Valley QV Qin & Vempati
+218,Acton Boxborough CL Choudhury & Lu
+219,Unionville GQ Gundecha & Qiu
+220,Berkeley Carroll SW Sonies & Weissman
+221,Summit SY Supran & Yu
+222,Fairmont Prep CJ Cresap & Jansen
+223,Regis KO Kluge & O'Neill
+224,Newton South WC Chasse & Wu
+225,St Mary's Hall ST Schendel & Trujillo
+226,Theodore Roosevelt AM Andersen & Morgan
+227,RocMou JB Barningham & Jenkins
+228,Mission San Jose ZZ Zhang & Zhang
+229,Regis DoMc Donohue & McCordick
+230,Unionville LS Lambert & Sett
+231,LC Anderson BF Builta & Foster
+232,Dougherty Valley RG Rajkumar & Gupta
+233,Richard Montgomery SW Sun & Wu
+234,Miami Beach Sr PS Peretz & Sherer
+235,George Washington QG Quarton & Guber
+236,Ransom Everglades KR Kerr & Rywell
+237,Summit CY Yu & Clements
+238,Urban IW Ingall & Walzer-Goldfeld
+239,Westridge WO Wilson & Odawara
+240,Acton-Boxborough MM Morgan & Morgan
+241,BASIS Peoria PK Parau & Khanna
+242,Montville BG Bhat & Ganesh
+243,La Salle CH Cahill & Hunt
+244,Nueva SW Santhanam & Waytena
+245,Hackley EM Evangelidis & Mallett
+246,Bromfield SK Selig & Khurana
+247,Wayland WW Weling & Wang
+248,Edgemont MF Mandadjiev & Friedman
+249,Bronx HS Of Science ZE Zerof & Ellerstein
+250,McMinnville LS Lee & Smith
+251,North Mecklenburg NK Nusinov & Koneru
+252,Cherry Creek WS Woodman & Shoflick
+253,Carmel Valley GA Gantla & An
+254,Cho & Erard
+255,Brinkmann & Jayasundera
+256,Lakeville McCoy & Gerlach McCoy & Gerlach
+257,King HS Independent BB Bagui & Bagdy
+258,Millburn HH Han & Han
+259,Leland TW Tandon & Worledge
+260,Palo Verde BM Bletnitsky & Mallas
+261,West Windsor CS Colitsas & Sarda
+262,Colleyville Heritage WN Wang & Navendra
+263,Bronx HS Of Science NK Nahmiyas & Kamen
+264,Lincoln-Sudbury Regional SC Sun & Cigale
+265,Clovis North SV Saini & Velasquez
+266,Riverside STEM GM Garcia & Mendoza
+267,Lake Highland Prep Shaikh & Bhatt Shaikh & Bhatt
+268,Kalvakuntla & Gandhi
+269,Columbus CA Cady & Abdallah
+270,Presentation GK Gowda & Kapoor
+271,Acton-Boxborough JP Jain & Paravasthu
+272,Gunn BZ Balakrishnan & Zhang
+273,St John's TH Trautner & Heilmann
+274,Livingston HS Hall & Saxena
+275,MisSan ST Tang & Saravanan
+276,Canyon Crest ML Law & Mansur
+277,Archbishop Mitty PB Park & Bishnoi
+278,Strake Jesuit College Prep CD Curry & Dupre
+279,Millard North KW Klinefelter & Winterhof
+280,Half Hollow Hills HS East JE Jackson & Evans
+281,Foothill SZ Swaminathan & Zhu
+282,Plano West Sr LM Lakhani & Mullassery
+283,Walt Whitman LeO' Lennie & O'Connell
+284,Hill CC Cohen & Carroll
+285,Edina JW Jiang & Wu
+286,Edina Rewalliwar & Fu Rewalliwar & Fu
+287,Archbishop Mitty AA Agashe & Ahluwalia
+288,Sequoyah CF Crayton & Forbes
+289,Wayland GZ Goldstone & Zhang
+290,Dalton BS Blaustein & Suh
+291,Mira Loma SG Srikumar & Gupta
+292,Fairmont Prep SI Shivade & Idnani
+293,Harker CP Pan & Cheung
+294,BerCou DS Donovan & Singh
+295,Lake Highland Prep SP Steiner & Pinnamaneni
+296,West Broward QW Quinn & Wing
+297,Freehold Township CL Crafton-Tempel & Lakhani
+298,Westlake DR Daghestani & Reddy
+299,Nueva MW Madejski & Wang
+300,Rocky Mountain BK Bellamy & Knueven
+301,Plano West MR Mukund Rao
+302,Princeton RB Roy & Bolitho
+303,Midwood PT Tran & Pantaleon
+304,Dougherty Valley SK Srinivas & Kaparaboyna
+305,Nova BeSm Bello & Smith
+306,Millard West BS Blumenthal & Spence
+307,Gunda & Irfan
+308,Ransom Everglades RM Murphy & Rywell
+309,West Orange JS Jackson & Sandoval
+310,Fan & Zhang
+311,Berkeley Carroll FeMc Fergus & McShane
+312,Newton South SR Silvian & Ramana
+313,Acton-Boxborough PG Parmar & Gu
+314,Blake Olson & Perri Olson & Perri
+315,American Heritage Plantation SS Somasundaram & Somasundaram
+316,Berkeley Carroll FM Fiedelholtz & McBarron
+317,West Windsor HN Hsia & Nair
+318,Colleyville Heritage LW Li & Wei
+319,Millard West AN Ahrenholtz & Newsome
+320,DuPont Manual CS Cao & Srivastava
+321,Ft Lauderdale BP Botknecht & Pavon
+322,Plano West Sr JH Jiang & Huang
+323,Trinity MB McCollum & Bayer
+324,Delbar GM Gulati & Munsey
+325,Thomas S. Wootton MT Moorjani & Tegen
+326,Campbell Hall SF Sihota & Friedenberg
+327,Oakton Independent TD Thong & Ding
+328,Milpitas WS Wu & Schletzbaum
+329,Mission San Jose NR Narang & Rangavajjhala
+330,Capitol JY Jeffers & Yang
+331,Lake Highland Prep Patel & Calderon Patel & Calderon
+332,Coral Academy Of Science Las Vegas DZ Dandridge & Zavala
+333,Newton South ZS Zhang & Sebastian
+334,Regis KO Kluge & O''Neill
+335,Hamilton SS Shih & Singh
+336,Lakeville Sciamanda & Hentges Sciamanda & Hentges
+337,All Saints Episcopal PT Pan & Tidwell
+338,Bellaire BR Busaidy & Ramabhadran
+339,Fort Lee CP Choi & Papaioannou
+340,Newton South MZ Madigan & Zhang
+341,Horace Mann SX Shi & Xing
+342,Walt Whitman BW Baisinger-Rosen & Weerakoon
+343,Dougherty Valley BR Bindlish & Ranganathan
+344,Strake Jesuit College Prep WC Weiland & Carlile
+345,BASIS Independent Silicon Valley BC Boone & Chen
+346,Newton South SM Stolow & Marrinan
+347,Dougherty Valley GK Gururaj & Kotadia
+348,BASIS Scottsdale WW Wang & Wahal
+349,BASIS Scottsdale BS Boyilla & Soni
+350,Coronado BS Beach & Spencer
+351,Medina Senior GP Gormley & Payne
+352,Delbarton SG Smart & Gritz
+353,Lincoln East LW Lee & Waddell
+354,Stuyvesant AH Annenberg & Han
+355,Phillips Exeter CU Chu & Upadhyayula
+356,Summit AB Ammaturo & Baldacci
+357,Shrewsbury BM Buckley & McCue
+358,Summit SS Supran & Sabuncu
+359,Clark SS Saran & Saran
+360,Boston Latin WW Wang & Wang
+361,Logan BW Browning & Weed
+362,Pinnamareddy & Xuan
+363,Syosset CR Chadha & Rudra
+364,New Trier OB Orhon & Bozkurt
+365,Princeton HD Haneef & Dodge
+366,Roslyn BB Bykov & Bykov
+367,Princeton HL Haneef & Lin
+368,"University HS, Irvine GM Gupta & Moudgalya"
+369,American Heritage Plantation RZ Ratzan & Zafar
+370,Wayland WaZh Wang & Zhang
+371,College Prep HO Hekmat & O'Connor
+372,Montville ML Maniar & Luhana
+373,Canyon Crest SL Liu & Shen
+374,Harker MA Mirapuri & Aggarwal
+375,St Francis GS Gulrajani & Sen
+376,Monte Vista CP Chan & Park
+377,Nueva MaRa Madejski & Ramanathan
+378,Edgemont LM Lin & Malik
+379,Nueva DM Daras & McDonald
+380,Mira Loma DK Dhaulakhandi & Kawediya
+381,Sun & Kulkarni
+382,Lake Highland Prep Kim & Patel Kim & Patel
+383,Acton-Boxborough RK Rangan & Kasar
+384,College Prep ND Nurko & Dhaliwal
+385,Stein & Harrison
+386,Plano West Sr KR Krueger & Romo
+387,Interl KP Kim & Park
+388,Walt Whitman RS Singer & Rock
+389,Livingston SK Saxena & Kim
+390,South Plantation FG Formoso & Gilchrest
+391,Nueva SS Solorzano & Sundaresan
+392,Saratoga SS Shah & Shah
+393,Cranbrook SS Shi & Shi
+394,Nova 42 KC Kyle & Chen
+395,Richard Montgomery GL Guo & Lin
+396,Saratoga LK Liu & Koh
+397,North Broward Prep CF Cooper & Frost
+398,SPA McCauley & Singh McCauley & Singh
+399,Stuyvesant AF Abeyweera & Fleissig
+400,Nueva SY Sze & Yan
+401,Walt Whitman GD Dronamraju & Gujaran
+402,Monte Vista AZ Ahluwalia & Zhu
+403,La Salle CS Crawford & Skipper
+404,Hunter AL Ahn & Li
+405,Dougherty Valley LB Lee & Balasubramanian
+406,Hamilton MP Mukherjee & Pejavar
+407,Puyall LB Lappin & Burchett
+408,Sprague MM McCall & Martin
+409,St John's YG Yekell & Garza
+410,Boca WP Walters & Ponters
+411,McMinnville WD Wiles & Douglass
+412,Johns Creek Independent BG Biswas & Gowda
+413,Brophy CP RH Reed & Heyman
+414,LC Anderson EC Erard & Canyon
+415,Eastview KT Kapur & Thota
+416,Scarsdale CT Cavalluzzi & Tang
+417,Rowland Hall MA Agarwal & Mulford
+418,Summit LW Long & Whitaker
+419,Carrollton CH Cuellar & Harper
+420,Evanston Twp AL Allen & Lipman
+421,Lakeville CT Cook & Tullis
+422,Coral Academy Of Science Las Vegas OD Opperman & Denning
+423,Ridge MS Mamun & Sun
+424,University MR Miranda & Radjenovic
+425,Denver East CM Cordes & Miller
+426,Nova GR Grosso & Redler
+427,NSU RS Ronkin & Samson
+428,Nightingale Bamford DM Dingle & Margulies
+429,John F. Kennedy Robinson & Pattridge Robinson & Pattridge
+430,Downingtown STEM LR Lemler & Reddy
+431,DuPont Manual BC Babu & Chittem
+432,Dalton HS Huntington & Suh
+433,Oakwood School - North Hollywood KO Kramon & Orser
+434,Bronx HS Of Science MR Mann & Reynolds
+435,Carroll SL Shah & Larimer
+436,Oakwood School - North Hollywood KP Kramon & Pallrand
+437,Hunter WO Wang & O'Brien
+438,Regis LeMc Lee & McCordick
+439,Boston College HL Huang & Lee
+440,Regis GS Greene & Sheehan
+441,Montgomery Blair HW Hu & Wen
+442,Mountain Brook BB Battle & Beck
+443,Strath Haven LM Lowry & Maqbool
+444,Trinity MT Muntzer & Triedman
+445,Summit HO Offer & Hawkins
+446,North Mecklenburg MR Murray-Gramlich & Ram
+447,Niskayuna DY Duggal & Yao
+448,Monte Vista WZ Wadhwa & Zhou
+449,NSU GA Gutkin & Arias
+450,Unionville GG Gadagkar & Gundecha
+451,Hunter AX Attada & Xing
+452,Regis MR Mader & Ryan
+453,Miramonte AC Andrews & Cardozo
+454,ParCit AW Aldous & Waldmann
+455,Nueva CW Chin & Wang
+456,Duarte & Linbeck
+457,Hackley RZ Rosenblum & Zuckerman
+458,American Heritage Plantation CP Chander & Platovsky
+459,Hamilton VS Voller-Brown & Sanyal
+460,Archbishop Mitty TA Thakore & Asnani
+461,Foothill KS Koul & Suresh
+462,Dougherty Valley PN Pamidimukkala & Nachuri
+463,Waring HD Holz & Douglas
+464,Oxbridge Academy SR Stewart & Reitman
+465,Poly Prep Country Day HL Humes & Leduc
+466,George Washington PS Stratton & Piturro
+467,Harker RK Rashingkar & Kenkare
+468,Langley ZD Zaidi & Dawer
+469,BASIS Phoenix KM Kathiravan & Mooney
+470,Newton South DC Deng & Chae
+471,Oakwood School - North Hollywood BW Bayat & Weiner
+472,Monte Vista KS Kumar Lau & Sutherland
+473,Syosset SW Wang & Schwartzberg
+474,Charlotte Catholic WC Webster & Campbell
+475,Potomac WW Wang & Wu
+476,Puyall ES Eklund & Sprague
+477,Westwood BS Baxter & Shamanna
+478,Hunter CT Cheshire & Tollock
+479,Milton VN Vedula & Najaf
+480,GeoWas HW Hageman & White
+481,Walt Whitman TG Trainor & Gauri
+482,Miramonte SG Steinberg & Gill
+483,Delbarton FF Fostiropoulos & Fraenkel-Thonet
+484,Flower Mound MG Moraine & Guddati
+485,Strath Haven LS Lowry & Sharmin
+486,Sequoyah MD McKenzie & Doerr
+487,North Hollywood KQ Kim & Qin
+488,Montgomery Blair KZ Keshav & Zhang
+489,Mountain Vista BF Bhandari & Fairbanks
+490,ColPre BB Beamer & Beamer
+491,Poly Prep Country Day ML Meyer & Leduc
+492,Oakton WT Wang & Taylor
+493,Taipei American SE Shyu & Engen
+494,Charlotte Latin LS Lloyd & Singh
+495,Acton-Boxborough GoLe Gong & Lee
+496,Trinity Prep TP Tabirian & Place
+497,Bellaire DS De & Sun
+498,Unionville WK Kinane & Wang
+499,Canyon Crest Independent LG Liu & Gantla
+500,Regis AP Adamo & Petukhov
+501,JR Masterman PB Popkin & Bowerman
+502,Fairview CJ Cappelletti & Jarvis
+503,Montgomery Blair TK Tang & Keshav
+504,Harker GN Nath & Guo
+505,Mayfield Senior GS Gonzalez & Seitz
+506,Bronx HS Of Science BO Bernfield & O'Neill
+507,Edgemont RM Masam & Richter
+508,Mission San Jose ZhSr Zhao & Srinivasan
+509,Cinco Ranch DM Dial & Mohn
+510,Perry CE Cindia & Echelberry
+511,Flintridge Prep CS Costin & Sullivan
+512,Northwood ES Elhassan & Sachdeva
+513,Hackley ST Singh & Tilliss
+514,Delbarton FoSm Fostiropoulos & Smart
+515,Regis RP Ryan & Petukhov
+516,St Michael Albertville SA Szymanski & Albrecht
+517,Newton South RC Rosen & Chasse
+518,Los Altos HA Howard & Asar
+519,Cambridge JK Jackman & Kapusinski
+520,Haverford SG Sardesai & Graf
+521,Riverside STEM GS Galoustian & Shi
+522,Bronx HS Of Science LM LaFauci & Mangafas
+523,Plano West Sr GM Gundam & Mammen
+524,Carroll MC Mohsin & Chennaiahgari
+525,Delbarton PA Amin & Patel
+526,Dougherty Valley BP Bhargava & Pamidimukkala
+527,Nelson-Groocock & Vettical
+528,Riverdale Country DV Daza & Volpert
+529,Harker BA Banke & Arramreddy
+530,Phoenix Country Day OT Ori & Tehranchi
+531,Urbana PL Patel & Larenas-Leach
+532,Acton-Boxborough LL Lee & Liu
+533,Timber Creek BeSh Bello & Shen
+534,Riverside RD Ramasubramanian & D'Souza
+535,Hackley AK Aybar & Kirsch
+536,Ridge SS Sun & Singh
+537,Torrey Pines WH Wang & Hsu
+538,Nova RA Allen & Rubens
+539,Blanton & Dubey
+540,Miami Beach Sr VK Vita & Kleidermacher
+541,Half Hollow Hills HS East AS Ahmed & St. Onge
+542,Millard North YR Yadav & Radicia
+543,Albert & Siek
+544,Vitamin AL Ata & Louis
+545,Cary FS Fan & Schaeffer
+546,Geneva School Of Boerne CA Cone & Ackermann
+547,Cypress Bay SQ Sun & Qian
+548,Edina MW Maheshwari & Wu
+549,Montgomery FL Fu & Lu
+550,Montville CP Choi & Popovska
+551,Durham SH Schulz & Hays
+552,Marist Vance & Walker Vance & Walker
+553,Riverside MY McKeel & Yoon
+554,Mountain House DP Dean & Pratik Vennelakanti
+555,Nova BR Redler & Bello
+556,Monte Vista NS Niland & Sheyman
+557,Walt Whitman HL Hirsh & Liles
+558,Nova SK Kabir & Siegel
+559,Spence PC Pesantez & Chough
+560,St John's LT Lu & Tong
+561,Mira Loma SI Shan & Ishac
+562,Durham HD Hays & Dannull
+563,Hawken CW Cohen & Wayt
+564,Hendrickson HV Hann & Valdespino
+565,Hunter MB Morvay & Blyschak
+566,Capitol PaDe Pan & Debroy
+567,Seven Lakes GR Gao & Rao
+568,Cardinal Gibbons CM Clark & Marcil
+569,Dalton ZB Zhang & Breen
+570,Chen & Huang
+571,Dougherty Valley BB Bhargava & Bhakat
+572,Taipei American TT Taw & Tsang
+573,Evergreen Valley FS Feng & Sunkavalli
+574,Dougherty Valley GQ Gururaj & Qin
+575,Mountain House LR Lakkoju & Rida Shaikh
+576,Walt Whitman HD Hepburn & Dandi
+577,Horace Mann CG Chiang & Gerstenhaber
+578,Ravenwood MH Mazumdar & Huang
+579,Leland BY Brew & Yeung
+580,Harker SL Luo & Saoji
+581,GigHar KB Kotanksy & Bird
+582,Bard HS Early College Queens MH Helfand & Mahler
+583,Highla NS Nield & Sarkar
+584,Regis HC Hayes & Cha
+585,John F. Kennedy Meena Ramadugu & Emily Robinson Ramadugu & Robinson
+586,Munster IV Iyer & Venkat
+587,Newton South MS Moshes & Saloum
+588,Woodberry PF XK Xie & Kim
+589,Unionville MA Annigeri & Meserve
+590,Tompkins RS Rapolu & Sambaraj
+591,Flower Mound DS Dandekar & Sunkavalli
+592,Downingtown STEM RL Rao & Lemler
+593,Medina Senior SU Sevastis & Ulry
+594,Oxbridge Academy of the Palm Beaches SM Sadati & McKenna
+595,Schreiber FS Fried & Schroff
+596,Millard West DK Dodds & Kuzala
+597,Cranbrook SK Shi & Kang
+598,Hasib & Umer
+599,Dougherty Valley QS Qin & Shaughnessy
+600,Dulles LC Li & Chang
+601,Coronado KW Knochel & Winterton
+602,Lakeville South NH Nachreiner & Husnik
+603,Fairmont Prep SL Lewis & Shin
+604,Downingtown STEM KN Kelly & Narayanamangalam
+605,Richard Montgomery LT Liu & Tewari
+606,Leland RS Rafizadeh & Spears
+607,Lake Travis PC Piwonka & Clemmons
+608,North Broward Prep AB Ameen & Brown
+609,Cardinal Gibbons JM Jaramillo & Malinsky
+610,Summit FC Fu & Cohn
+611,Oakwood School - North Hollywood AM Alpert & Mostow
+612,Anderson JG Jayasundera & Goeser
+613,Moore HD Huber & Decker
+614,Walt Whitman KP Koritz-Hawkes & Papaioannou
+615,Roslyn MG Mashkevich & Garmise
+616,Oakwood School - North Hollywood LS Levine & Slovin
+617,Durham DW Dannull & Wang
+618,Mission San Jose KZ Kothari & Zhang
+619,Timber Creek BM Brunelli & Morales
+620,Randolph PW Wu & Park
+621,Hunter AK Attada & Karri
+622,Nueva MM Mills & McDonald
+623,Riverdale Country WE Edelstein & Wisch
+624,Acton Boxborough SV Satheesh & Viswanathan
+625,GigHar SG Selby & Goodell
+626,Cranbrook SC Shi & Chaika
+627,Loyola KD Koenig & Dunkin-Butcher
+628,Timber Creek BS Boyette & Stein
+629,Flower Mound WS Winter & Shah
+630,Nova 42 BB Babb & Babb
+631,Lakeville South CM Cook & McCoy
+632,BASIS Independent McLean SS Sanghavi & Shin
+633,Randolph PM Park & McConnell
+634,Riverside STEM AK Alsuqi & Kanrar
+635,Westborough SK Sadagopan & Kumar
+636,Harrisburg SA SerflingBennett & Anderson
+637,Byram Hills HB Hazan & Brocato
+638,Akbar & Pratap
+639,Boston Latin BW Bansal & Wu
+640,ColPre CT Chung & Tandon
+641,LC Anderson KK Kavoussi & Karchmer
+642,Durham PiJo Pierson & Jones
+643,Loyola BH Balfe & Hendrix
+644,Eastview SG Schlegel & Gupta
+645,Henry Clay CL Clark & Lofwall
+646,Woodrow Wilson HS Holmes & Stewart-Aday
+647,Bronx HS Of Science SW Segal & Weiss
+648,Acton Boxborough RHS Independent Entry ChLa Cheng & Lai
+649,Acton-Boxborough GL Gu & Lai
+650,Fairmont Prep SG Shin & Gumlia
+651,Wayland BZ Baranovsky & Zhang
+652,Mission San Jose YK Yuen & Kumar
+653,Loyola HC Hendrix & Chayes
+654,Bentonville BB Berry & Berry
+655,Foothill KP Kim & Pang
+656,King HS Independent BM Bagdy & Meyers
+657,Hunter AK Karri & Ahn
+658,Lynbrook FM Fernandes & Maharana
+659,Stuyvesant FA Abeyweera & Flessig
+660,Albuquerque FR Fitzgerald & Romero
+661,Trinity DM Davidson & Martin
+662,Acton-Boxborough MS Margolien & Shah
+663,Edina GB Garimella & Bafna
+664,Nova 42 WG Wertheimer & Green
+665,Bronx HS Of Science DP Diakolios & Patel
+666,Durham CP Chang & Park
+667,George Washington HG Holland & Gerrans
+668,Paradise Valley WG Warrier & Groman
+669,Pinecrest FW Furie & Woolley
+670,Timber Creek SB Brunelli & Shen
+671,Brophy CP MH McHenry & Hays
+672,Del Norte Independent SS Sood & Sudarshan
+673,Bridgewater Raritan PL Pathmanaban & Li
+674,Clovis North EM Manjal & Erysian
+675,Loyola TM Tamkin & McAllister
+676,Edina ST Smalley & Tessmer-Tuck
+677,Delbarton PT Patel & Townsend
+678,North Allegheny Sr WY Wahed & Yu
+679,Grand County GM Geiser & Martinez
+680,Timber Creek SL Shier & Lopez
+681,Millburn PT Tang & Prakash
+682,Vestavia Hills RH Ronson & Holmes
+683,Bergen County Academies SK Sachar & Ko
+684,Newton South JR Rosen & Jiang
+685,American Heritage Plantation SR Shaw & Rajpal
+686,Ravenwood FB Fiechtl & Berexa
+687,Richard Montgomery GS Guo & Sun
+688,Cheyenne East PC Papadopoulos & Crawford
+689,Harker GC Guo & Cheung
+690,Cherry Creek HP Hashimoto & Pak
+691,North Allegheny Sr CM Catanzaro & Ma
+692,Cherry Creek RH Rusakow & Hilzer
+693,Laurel CZ Cousens & Zlataric
+694,Carrollton MS Smith & Mikilitus
+695,Ft Lauderdale PS Pavon & Safdelli
+696,Plano West Sr ZS Zhen & Spall
+697,Cheyenne East MY Mitchell & Yuan
+698,RTHS Independent HK Hayden & Kingery
+699,Potomac AA Abbasi & Abbasi
+700,Nguyen & Hoang
+701,Newton South CS Chae & Stolow
+702,Del Norte Independent BP Balaji & Puliady
+703,Rowland Hall MS Mulford & Sheinberg
+704,DuPont Manual KG Kale & Gupta
+705,Evanston Twp BA Benson-Williams & Allen
+706,Galan & Yedavalli
+707,Nova SS Smith & Siegel
+708,Summit CS Cohn & Sabuncu
+709,Medina Senior HP Hess & Prochaska
+710,Cypress Bay HS Hassan & Sun
+711,Bridgewater Raritan AJ Addaganti & Jabamani
+712,Leland XY Xie & Yin
+713,Eagle AE Araki & Elfering
+714,BASIS Scottsdale CR Cai & Rane
+715,Henry W Grady TD Thomas & Damiani
+716,Denver East GN Glennie & Nugent
+717,Anderson EC Errard & Cho
+718,Del Norte Independent KW Khajenoori & Wang
+719,Edina CC Chochrek & Chen
+720,Lincoln CF Cid & Flaherty
+721,Strake Jesuit College Prep DC Day & Curry
+722,Cypress Bay SK Smith & Katragadda
+723,Stoneman Douglas GU Guerra & Urbina
+724,Castro Valley Highschool BL Bin & Li
+725,Cupertino LY Lee & Yu
+726,Union Catholic AM Alves & Madsen
+727,Miami Beach Sr KG Kauffman & Gonzalez
+728,Evanston BH Benson-Williams & Hartenstein
+729,Leland KY Krishnan & Yeung
+730,ParCit GE Gladson & Engel
+731,Fairview YS Yang & Stevens
+732,Cupertino PR Pan & Ren
+733,Bronx HS Of Science BC Balsan & Chen
+734,James Madison Memorial SS Sugeeth Sathish
+735,Miramonte BK Blazona & Khan
+736,Grapevine GM Goodman & McClure
+737,Jasper NY Nie & Yi
+738,Dougherty Valley AS Ahuja & Shi
+739,Fairview SP Payne & Shrestha
+740,Loyola BK Balfe & Kleinman
+741,Fremont Christian WW Wei & Wei
+742,Madison West AL Amann & Lee
+743,Myers Park AJ Augustyn & Jenkins
+744,Clark MC Majid & Crosby
+745,Walt Whitman LeSy Leonhardt & Sylvester
+746,Oakton HD Huang & Do
+747,Dougherty Valley ChPu Cherukupalli & Punia
+748,Dougherty Valley BG Bhargava & Gururaj
+749,Dougherty Valley SQ Sandhu & Qin
+750,Coral Academy Of Science Las Vegas KJ Khan & Janamsetty
+751,Jasper KM Kotha & Ma
+752,Walt Whitman KL Koletanski & London
+753,Quarry Lane JP Jain & Pendurthi
+754,Carroll KB Kurapati & Bethi
+755,College Prep KW Kumar & Wornow
+756,Newton South WC Wu & Chass√©
+757,Fairmont Prep AC Alamy & Cresap
+758,Freehold Township MK Masarik & Kaminsky
+759,College Prep BW Beamer & Wornow
+760,Eagan BP Bowen & Panchal
+761,Madison West HW Heintz & Waller
+762,West Windsor KS Krishnan & Sun
+763,Boca Raton LL Livingstone & Loesel
+764,Hawken KM Kalyanam & Marrie
+765,Arizona College Prep - Erie Campus SN Sharmila Nimbkar
+766,Dougherty Valley KW Kotadia & Wang
+767,Byram Hills SF Sampere & Fakler
+768,Fairmont Prep KI Kim & Idnani
+769,Montgomery Blair TX Tang & Xu
+770,Oakwood School - North Hollywood LS Levine & Sugerman
+771,Nova 42 GK Khashaki & Green
+772,West Orange SH Sandoval & Harrop
+773,Newton North McWi McCormick & Williams
+774,Strake Jesuit AD Ashraf & Donowho
+775,Flintridge Prep KN Klapsis & Ng
+776,Acton Boxborough LM Lin & Morgan
+777,Oakwood School - North Hollywood GK Kramon & Grinberg
+778,Union Catholic MP Mahaffey & Piatti-Chayan
+779,Trinity MM Martin & McCollum
+780,Downingtown STEM RH Reddy & Harper
+781,PWHS GC Graham & Cruz
+782,Ramcharan & Parappuram
+783,SF Roosevelt SG Svenningsen & Grismer
+784,Blake BH Baig & Hemphill
+785,College Prep GG Gupta & Gupta
+786,Chanhassen MW Manna & Williamson
+787,Bentonville JE John & Esarte
+788,Dougherty Valley CC Chakraborty & Chandra
+789,Union Catholic AR Roder & Abood
+790,Brophy JN Justice & Nair
+791,Westwood MR Mirza & Ramaswamy
+792,Half Hollow Hills HS East SA St. Onge & Ahmed
+793,Prince PR Peng & Roychowdhury
+794,Bronx HS Of Science KR Koenigsberg & Rahman
+795,Coronado Dylan Beach & Woodrow Orris Beach & Orris
+796,Denver East MS Moore & Sanderson
+797,Flower Mound VV Vummadising & Vishnoi
+798,Westvi LA Low & Ajjarapu
+799,Archbishop Mitty TK Telebrico & Killedar
+800,Ardrey Kell RG Rogers & Goel
+801,Santa Fe HS/Raider Debaters MF McLeod & Felton
+802,Tompkins PD Padmanaban & Dave
+803,Lincoln Southwest SK Spethman & Kwambamba
+804,Brophy OC Oldani & Cuevas
+805,Lexington WP Wang & Pannirselvam
+806,Trinity AB Arora & Bader
+807,Albuquerque RF Rifkin & Fitzgerald
+808,BASIS Independent Silicon Valley Vinay Vellore & Stefan Boone Vellore & Boone
+809,Dougherty Valley CM Chawla & Mangalick
+810,Denfeld ZR Zierman & Rimolde
+811,Milpitas BT Barat & Tai
+812,Flintridge Prep DS Dadwal & Sivakumar
+813,Chapin SL Stephenson & Lessing
+814,Juan Diego Catholic NF Novara & Fuchs
+815,Lincoln Southwest JF Jentz & Fallick
+816,Medina Senior AB Alber & Bragg
+817,Trinity Prep MM Mapa & Martinez
+818,Saratoga VG Vaidya & Gupta
+819,Lynbrook CJ Chen & Jani
+820,Science Hill Showstoppers LL Lloyd & Liang
+821,Archbishop Mitty SR Shanbhag & Ryu
+822,Potomac JJ Joel & Judd
+823,BASIS Ahwatukee KA Kodyte & Arefeen
+824,Cypress Bay MS Mellman & Schaffer
+825,Dexter DJ Dunn & Jacobsen-Harm
+826,Interl DL Dhawan & Lingireddy
+827,Monte Vista PZ Park & Zhu
+828,Lincoln MC Marley & Cedarberg
+829,Summit SL Supran & Li
+830,Ardrey Kell AN Agrawal & Narang
+831,Dexter GR Gabriel-Lazette & Reilly
+832,Byram Hills BK Baquero & Kumar
+833,Gilbert Classical DH Das & Hirsh
+834,Millburn MP Mahendru & Prager
+835,Yang & Parekh
+836,Kambala & Carranza
+837,Newsome MB Mukhtar & Birnholz
+838,University GY Ganesh & Yan
+839,Hamilton SH Shukla & Hsu
+840,Leland LL Liu & Lin
+841,Dougherty Valley RN Nachuri & Ranganathan
+842,Oakton Independent JT Jones & Tickle
+843,Lakeville South HT Tullis & Husnik
+844,Lovejoy RM Richardson & Mehta
+845,Boston Latin BX Bansal & Xu
+846,Green Valley AR Andrewjeski & Reyes
+847,Homewood-Flossmoor PN Palmer & Nash
+848,Monte Vista BX Bao & Xu
+849,Mountain View SI Sundar & Ismael
+850,Marakani & Maccio
+851,Chaminade VF Ventura & Fuschillo
+852,St Francis BG Brassil & Gupta
+853,Hunter AA Ahn & Attada
+854,Windermere AS Ata & Shah
+855,Cherry Creek JL Jones & Lu
+856,Charles W Flanagan JH Jaramillo & Hernandez
+857,Dexter AL Aridi & Lynch
+858,Norfolk WeRe Weckerle-Dietz & Reynolds
+859,Lynbrook TJ Thombre & Jain
+860,Mangal & Kagan
+861,Potomac SS Shao & Sun
+862,North Allegheny Sr ZD Zhou & Dahake
+863,Golden State WZ Wan & Zhang
+864,Brentwood AM Adabala & Maldonado
+865,Wayland WS Wang & Scherz
+866,Westwood GF Gunwani & Freeman
+867,Clover Hill RW Richardson & Worrel
+868,State CaKe Cao & Kemanian-Leites
+869,Durham WH Wang & Hays
+870,Boca Raton WF Walters & Felter
+871,Stoneman Douglas UK Urbina & Kaufman
+872,WAT Rook & Kluver Rook & Kluver
+873,Torrey Pines Independent JP Jiang & Patel
+874,Campbell Hall KS Kang & Sow
+875,Oxbridge Academy of the Palm Beaches SS Stewart & Stewart
+876,Tahoma Senior CB Chepuri & Briere
+877,Ft Lauderdale MS Mungal & Safdelli
+878,Albuquerque RV Rifkin & Viets
+879,Edina SI Shilts & Ishani
+880,Oakwood School - North Hollywood MS Mostow & Slovin
+881,Regis LM Lamberti & Mazzariello
+882,Evanston Twp HR Hartenstein & Ringstad
+883,Milpitas PS Porchezhiyan & Schletzbaum
+884,Flintridge Prep HN Hobey & Ng
+885,Schreiber LG Loewy & Goldstein
+886,Clovis North WK Wong & Kizior
+887,Poly Prep Country Day LS Leduc & Spring
+888,Hunter XA Xing & Abrar
+889,Glendale MH Montgomery & Harris
+890,Algonquin TZ Tolety & Zhang
+891,Princeton MR Morduch & Roychowdhury
+892,Lakeville North RK Rebischke & Komaragiri
+893,Cherry Creek AS Ambroggio & Sauer
+894,Helix Charter OS Osborn & Sandoval
+895,Rowland Hall MM Mulford & Mitcham
+896,Potomac JM Joel & Maher
+897,Manchester Essex KR Kahle & Roberts
+898,Dougherty Valley CQ Chandra & Qin
+899,Lake Mary CM Clise & Mavilla
+900,Mission San Jose MP Mao & Park
+901,Munster IS Iyer & Stricker
+902,Chen & Rajesh
+903,Prince HG Haneef & Gu
+904,Gunn Sr NN Naddell & Naddell
+905,Thomas S. Wootton SZ Shivaprasad & Zeng
+906,University PT Paik & Tamaskar
+907,Wayland BW Baranovsky & Weling
+908,Jackson MP Medapuram & Parikh
+909,Lincoln Southwest WW Winkler & Winkler
+910,Walt Whitman SD Sylvester & Dandi
+911,Dalton ZA Zhang & Avedisian
+912,Spence LF Lee & Frank
+913,Urbana PM Patel & Messai
+914,SPA Dyar & Will Dyar & Will
+915,Overland SA Sonko & Aprill
+916,Hebron KW Kirk & Williams
+917,Bard HS Early College Queens FS Farber & Sailer
+918,Thomas S. Wootton MZ Moorjani & Zeng
+919,Durham LH Longley & Hays
+920,Timber Creek LP Lin & Packham
+921,GigHar YD Yi & Dean
+922,Bellaire LF Lai & Fan
+923,Logan GS Garg & Seamons
+924,Park City Jack Gladson & Amber Howard Gladson & Howard
+925,Wayland ZW Zhao & Weling
+926,Satish & Deutz
+927,Patel & Zou
+928,Sharon BI Ivanov & Bielawa
+929,Packer Collegiate Institute YH Horwitz & Yohn
+930,Summit BE Benjamin & Elsberry
+931,PWHS SG Sun & Graham
+932,BASIS Ahwatukee RT Raola & Tandon
+933,Charles W Flanagan DG Deleon & Gold
+934,Hunter AJ Abrar & James
+935,College Prep DR Dileep & Ratna
+936,Potomac FQ Fu & Qian
+937,Edina EM Edam & Mirza
+938,Chaminade OM O'Hara & McCabe
+939,Oakwood School - North Hollywood LS Light Rake & Sugerman
+940,Midwood BK Brady & Khan
+941,Plano West MH Mammen & Huang
+942,Miami Beach Sr SM Samuel & Mally
+943,Hendrickson GS Gonzalez & Stogel
+944,Myers Park CC Choe & Cole
+945,Spence AA Ahluwalia & Agarwal
+946,BASIS Peoria GL Gurijala & LaCrosse
+947,Campbell Hall GG Garrett & Grae
+948,Fairmont Prep PA Palmer & Alamy
+949,Lincoln BH Baird & Hansen
+950,Cypress Bay RB Raja & Behling
+951,Cypress Bay AM Aristizabal & Morril
+952,Phillips Exeter BC Blekherman & Chen
+953,Cypress Bay AT Awonusonu & Thayagabalu
+954,State CK Chen & Kim
+955,University KK Krishnamurthi & Karnati
+956,Hawken LP Lyons & Pan
+957,Nova 42 KG Kyle & Green
+958,Spence SM Silvestri & Myers
+959,Acton Boxborough PV Parmar & Vatsal
+960,McNeil SY Satish & Yates
+961,Quarry Lane AA Atluri & Atluri
+962,Acton-Boxborough SK Shah & Kasar
+963,Harker RS Rashingkar & Saoji
+964,Los Altos LA Liu & Asar
+965,Riverdale Country GB Genatt & Blitzer
+966,Tucson LL Liaupsin & Little
+967,Kethireddipalli & Ji
+968,Cypress Bay KS Kaner & Seldin
+969,West Windsor CK Colitsas & Krishnan
+970,Strath Haven KS Kane & Sharmin
+971,EPIC HS South RG Ramdat & Guobadia
+972,Dougherty Valley CW Chandra & Wang
+973,Winston Churchill GW Gupta & Wang
+974,Park City Max O'Reilly & Ryan Gilbert O'Reilly & Gilbert
+975,Bronx HS Of Science DH Dutta & Hyde
+976,Unionville MN Meserve & Nadeem
+977,Nova RR Reiter & Rubens
+978,Leibowitz & Self
+979,Bard HS Early College Queens HN Helfand & Nassau
+980,Mission San Jose ZP Zhao & Prabhakar
+981,Montgomery BE Behr & Ernest
+982,Blake PS Pekarek & Sweet
+983,Winston Churchill LZ Lu & Zhang
+984,BASIS Independent Silicon Valley WV Wong & Vellore
+985,MouSi SM Smith & Murray
+986,RowHal SZ Sheinberg & Zeng
+987,Potomac DQ Du & Qian
+988,HARR Anderson & O'Connor Anderson & O'Connor
+989,Hawken MG Mukunda & Greenberg
+990,Eagan GV Garishakurti & Victor
+991,Summit AS Skrobala & Adams
+992,Stuyvesant AS Abeyweera & Spinna
+993,James Bowie SW Saladiner & Williams
+994,Harker KL Kenkare & Lin
+995,Summit CB Clements & Baldacci
+996,Nueva AM Adams & Madejski
+997,Liberty Sr BI Brown & Islas
+998,Henry Clay CO Colby & O'Neil
+999,Edgemont YG Yang & Guo
+1000,HS of American Studies WK Wang & Kabir
+1001,Bettendorf HJ Hamilton & Jiang
+1002,Dougherty Valley SS Su & Spargo
+1003,McDowell GL Gupta & Law
+1004,Harker Ma & Cheung Ma & Cheung
+1005,Boston Latin SL Sun & Lang
+1006,Westwood FW Freund & Wang
+1007,James Logan AJ Ayubi & Juinio
+1008,Presentation YS Yadav & Sundaresan
+1009,Plano West Sr CC Charmani & Choudhury
+1010,Ames MC Mkhitaryan & Cordoba
+1011,Union Catholic GM Gerlitz & McDermott
+1012,Bellaire HL Han & Li
+1013,Delbar LP Luo & Patel
+1014,Stuyvesant ZE Edwards & Zhang
+1015,Princeton CS Choi & Shen
+1016,Vestavia Hills BZ Bridgwaters & Zhou
+1017,Hunter MS Marquez & Sethuramen
+1018,Hamilton PS Panda & Shakir
+1019,Coppell BC Bohri & Chiniwala
+1020,Gao & Diggins
+1021,Huntington KP Keefer & Patton
+1022,Potomac CW Cao & Wang
+1023,Regis FK Fava-Pastilha & Kuharski
+1024,BASIS Scottsdale AI Amin & Insalaco
+1025,St John's WM Waters & Moore
+1026,Bohannon & Taylor
+1027,Solon GS Gupta & Stewart
+1028,Cary ZX Zhang & Xing
+1029,Ft Lauderdale EK Edwards & Kanter
+1030,Nightingale Bamford DL Dingle & Lee
+1031,Milton PR Pennington & Ramesh
+1032,Munster BR Brody & Reddy
+1033,Amador Valley XF Xiao & Fields
+1034,Harker YL Luo & Yuan
+1035,Folsom MR Mohamed & Ramadoss
+1036,Mission San Jose PB Poreddy & Bati
+1037,Nueva ZS Zhou & Singh
+1038,Interl CD Chen & Dogra
+1039,Lincoln East SS Saksena & Sarroub-Le Sueur
+1040,Shah & Aickareth
+1041,Millard North RH Radicia & Hartman
+1042,Leland RS Rengappa & Shao
+1043,HS of American Studies DR Dames & Ritz-Jack
+1044,Eagan HS Hagape & Shah
+1045,MouSi JJ Jaffery & Jaffery
+1046,HorMan KM Karpf & Moolji
+1047,Lincoln Flaherty & Gordon Flaherty & Gordon
+1048,Midwood LS Lekakis & Serrano
+1049,Colleyville Heritage RC Radandt & Collins
+1050,Leland HL Huang & Liu
+1051,Northwest Guilford OO Orozco & Orozco
+1052,Charthad & Rastogi
+1053,SF Roosevelt JF Johnson & Fandel
+1054,Blake PW Pradhan & Wang
+1055,Providence NS Nigam & Shetty
+1056,Elkhorn South PL Payne & Lorkovic
+1057,Newton South JN Jain & Nesin-Perna
+1058,Pine View MK Mikerina & Kadiyala
+1059,Cranbrook ST Shi & Topf
+1060,Borah NJ Nelson & Jacobson
+1061,Granite Bay RV Ramraj & Vasudevan
+1062,Hockaday AY Ahuja & Yepes
+1063,Red Mountain PT Perez & Tribby
+1064,Belen Jesuit Prep AD Alvarez & De La Maza
+1065,Western PK Pierre-Louis & Kapersaud
+1066,Ardrey Kell MG Mewada & Goskonda
+1067,V. Sue Cleveland WM Wei & Mroz
+1068,Charles W Flanagan ER Eduardo & Roberts
+1069,Evergreen Valley SK Shukla & Kudva
+1070,Westlake YL Yin & Luo
+1071,Bard HS Early College Manhattan DM Dalzell Sexton & Morris
+1072,Tucson BS Banerjee & Sigsworth
+1073,Ardrey Kell AS Adiraju & Sureneni
+1074,Wayland WC Wang & Chi
+1075,Granite Bay PA Pandey & Pandey
+1076,Clark BP Bronson & Pulido
+1077,Dougherty Valley Tristan Shaughnessy & Shreyas Kiran Shaughnessy & Kiran
+1078,Lincoln Southwest BD Belt & Dahlman
+1079,Montgomery Blair WX Wen & Xu
+1080,Charlotte Catholic WC White & Curran
+1081,Leland LF Li & Fan
+1082,Gulf Breeze Dolphin WU Werner & Ueberschaer
+1083,Oakwood School - North Hollywood Hannah Levine & Charlotte Kram Kramon & Levine
+1084,Western BL Baki & Labrada
+1085,Leland FP Fang & Pourrahimi
+1086,Bronx HS Of Science NS Nahmiyas & Shapiro
+1087,Bronx HS Of Science HN Haberfield & Nesbit
+1088,Marian CS Clark & Smith
+1089,Southeast Polk LJ Logue & Johnson
+1090,Hunter BT Bovenzi & Tawil
+1091,Canyon Crest Independent TC Tahan & Chang
+1092,CopHil RM Rowell & Mumin
+1093,Liberty Sr BC Belfonte & Carlson
+1094,RidHS AO An & O'Keefe
+1095,Danville Area KH Kupas & Holmes
+1096,Rowland Hall Cole McCartney & Irenka Saffarian McCartney & Saffarian
+1097,Ransom Everglades JM Jagid & McPhillips
+1098,Hunter TA Tawil & Attada
+1099,Montgomery Blair CP Casertano & Pai
+1100,Vancou LH Liu & Han
+1101,BASIS Peoria KC Khanna & Chow
+1102,Washington LW Lo & Williams
+1103,GreCan SP Smith & Pence
+1104,Acton Boxborough RHS Independent Entry GC Gu & Choudhury
+1105,Southlake Carroll KV Kurapati & Vedire
+1106,Johnston Siebert & Kumar Siebert & Kumar
+1107,DuPont Manual GB Gallagher & Babu
+1108,Suresh & Eappen
+1109,Boston Latin BB Bansal & Berman-Reinhardt
+1110,Edina ZJ Zhu & Jiang
+1111,Cinco Ranch JS Jain & Shah
+1112,Randolph US Ullah & Syed
+1113,Grapevine HG Hengesbach-Gomes & Gonzalez
+1114,Mission San Jose SV Sharma & Valiveru
+1115,Hunter LH Lyons & Ha
+1116,Logan SV Seamons & Vazquez
+1117,Foothill LA Lee & Avachat
+1118,Lincoln Southwest MN Nguyen & Moeller
+1119,Millard North YV Yadav & Venkatesh
+1120,Regis BF Buff & Fava-Pastilha
+1121,Freehold Township TS Tu & Surasani
+1122,Trinity SS Schweitzer & Schmidt
+1123,HS of American Studies SM Siegel & Markman
+1124,Spence LL Lewis & Lee
+1125,MouSi MS Mohammed & Silverman
+1126,Rogers & Smith
+1127,PolPre RH Rothermel & Humes
+1128,Blake HZ Homan & Zhang
+1129,Highla MX Mullen & Xu
+1130,Oakwood School - North Hollywood MW Meyer & Wexler
+1131,Cypress Bay BK Baek & Khatri
+1132,Saratoga RV Ramakrishna & Verma
+1133,Centennial HS - Frisco LE Lewis & Evenhar
+1134,Lynbrook CM Cai & Mamileti
+1135,Western LB Barry & Labrada
+1136,Dexter NF Nate Fuller
+1137,Westlake LY Luo & Yang
+1138,Bronx Science KM Khan & Musat
+1139,CenVal RB Reneau & Betts
+1140,Quarry Lane PQ Pamula & Quintal
+1141,Altamont GA Guru & Ashraf
+1142,Logan BG Garg & Broadhurst
+1143,BASIS Ahwatukee BR Bennett & Ros
+1144,Valley International Prep GM Grodan & Morton
+1145,Ardrey Kell DG Drago & Gottiparthi
+1146,Campbell & Rodger
+1147,Elkins SG Salim & George
+1148,Horace Mann MG McCarthy & Ganea
+1149,BASIS Independent Silicon Valley BR Balram & Reddy
+1150,Mullen OP Obrecht & Petri
+1151,Jasper LY Li & Ye
+1152,Bingha SC Soper & Chittick
+1153,St Francis LG Lavu & Gharia
+1154,Woodrow Wilson MS Salem & May
+1155,Lakeville South GC Gerlach & Cook
+1156,Huntington GA Gooding & Aluise
+1157,Bonita Vista NT Neuner & Talamantez
+1158,Nueva MS Madejski & Sundaresan
+1159,Bard HS Early College Manhattan RF Rodas & Feigelson
+1160,West Broward NR Nettina & Regatti
+1161,South Plantation RP Ramnath Manohar & Pena
+1162,Wilmington Charter AD Anilkumar & Das
+1163,Thomas S. Wootton MT Moorjani & Ramesh
+1164,Shepton HH Hameed & Hameed
+1165,Strake Jesuit College Prep HR Hoang & Rodger
+1166,MisSan MD Mao & Dalmia
+1167,Apex Friendship MS McLaughlin & Shipley
+1168,College Prep WZ Wilcox-Black & Zhou
+1169,Canton Central Catholic GP Gibson & Perdue
+1170,Eagan AK Anderson & Koch
+1171,Oxbridge Academy of the Palm Beaches ST Stewart & Tarone
+1172,Hinsdale Central MK Kumar & Mryan
+1173,Western RB Reid & Brodsky
+1174,Millburn JI Jin & Iben
+1175,Hunter TX Xing & Tawil
+1176,Clovis North SV Shah & Valasquez
+1177,ThoS. RS Ramesh & Sanyal
+1178,John F. Kennedy Meyer & Kompalla Meyer & Kompalla
+1179,Hockaday XP Xiong & Phadke
+1180,ParCit OS O'Reilly & Stockwell
+1181,Beacon SK Stuard & Kolvenbach
+1182,Lakeville Husnik & Cook Husnik & Cook
+1183,Fairmont Prep AI Alamy & Idnani
+1184,Vista Ridge FA Fuller & Awadallah
+1185,DuPont Manual SC Srivastava & Chittem
+1186,Poole & Gao
+1187,Summit BQ Baldacci & Quinn
+1188,Newton South KC Kestenberg & Cheng
+1189,Flintridge Prep KH Klapsis & Hobey
+1190,State ZB Zydney & Brauser
+1191,Taipei American HT Hsu & Taw
+1192,Gaddam & Singh
+1193,Quarry Lane VD Vijapure & Draper
+1194,Monte Vista CW Chang & Wadhwa
+1195,Lincoln Southeast KF Kulawik & Fazel
+1196,Richard Montgomery SW Shao & Wang
+1197,Buchholz LM Lai & Marmanidis
+1198,Palo Verde AC Agrebi & Chirinos
+1199,Monta Vista ZW Zhou & Wen
+1200,Millburn BJ Bansal & Jin
+1201,Lexington LW Warburton & Liu
+1202,Indianola MW Magalhaes & Waugh
+1203,Fremont Christian WN Wei & Narain
+1204,North Mecklenburg MM Mason & Murray-Gramlich
+1205,Palo Verde MP Mallas & Prabhu
+1206,Cypress Bay RS Rodriguez & Scott
+1207,Strake Jesuit College Prep GW Gribble & Walker
+1208,DuPont Manual JS Jacob & Seo
+1209,SFC Pater & Wimmer Pater & Wimmer
+1210,Chelmsford RC Ross & Chava
+1211,Sharon PM Posternak & Murthy
+1212,Notre Dame AV Aggarwal & Vazirani
+1213,Jasper LY Li & Yi
+1214,Mountain Brook BL Battle & Lauterbach
+1215,Charlotte Catholic VT Valenta & Thies
+1216,Palos Verdes BD Boixo & Dowling
+1217,Granada Hills Charter BC Borgsdorf & Cho
+1218,Poly Prep Country Day Wright & Humes Wright & Humes
+1219,Campbell Hall EG Eick & Grossman
+1220,Qu & Wang
+1221,Baton Rouge Magnet MS Monroe & Stull
+1222,Mountain Brook BH Bazemore & Hahn
+1223,Coral Academy Of Science Las Vegas Alexandro Zavala & Aksha Nar Zavala & Narasimhan
+1224,College Prep JT Jung & Thomas
+1225,Clovis North WT Wong & Tulyag
+1226,Bard HS Early College Queens SM Mahler & Sailer
+1227,Packer Collegiate Institute PH Pitman & Howard
+1228,Regis KL Kuharski & Lam
+1229,Ross & Vedire
+1230,William G. Enloe KF Kasper & Fang
+1231,Schreiber HM Johnson & Mark
+1232,NC School Of Science & Math MB Miklaucic & Bulusu
+1233,SLC West Zach Bradford & Jane Galian Bradford & Galian
+1234,Richard Montgomery CN Choi & Nazare
+1235,North Mecklenburg SL Shen & Laskoski
+1236,Claremont KS Kang & Schnabel
+1237,Los Osos GW Wang & Gasha
+1238,Collegiate AR Ahmed & Rovinski
+1239,Bronx HS Of Science NS Nanavati & Sarma
+1240,Cypress Bay VS Viera & Sawlani
+1241,Bentonville WL Witt & Lane
+1242,Bellaire DK Ding & Kotha
+1243,Byram Hills FG Fakler & Gastelu
+1244,Archbishop Mitty OA Oliveira & Aggarwal
+1245,Roeper LL Li & Li
+1246,Los Altos PH Pan & Huang
+1247,Clovis North VS Saini & Valasquez
+1248,Jack Britt DF Delgado & Finney
+1249,L-Sud LS Liu & Schwartz
+1250,Dougherty Valley QS Si & Qin
+1251,Presentation GN Gowda & Ni
+1252,Lake Travis MW Morford & Wynne
+1253,Ridge NJ Nagaraj & Jia
+1254,Leland RW Rafizadeh & Worledge
+1255,Arlington RB Resnik & Brosius
+1256,Jasper IS Iyer & Showkath
+1257,Millburn HS Huang & Sun
+1258,St Mary's Hall WM Walls & Menendez
+1259,Charlotte Catholic BS Boyle & Salinas
+1260,Capita BY Barer & Yantis
+1261,Asheville NO Neill & Obrien
+1262,Monta Vista LT Lalwani & Tan
+1263,West Broward CN Charles-Pierre & Nechyba
+1264,R.E Mountain Secondary CW Camillo-Amisano & Wong
+1265,Coral Academy Of Science Las Vegas KN Khan & Narasimhan
+1266,Wayland AB Andreasen & Baranovsky
+1267,St Thomas Aquinas HA Hunschofsky & Anise
+1268,Northwest Guilford SG Skeehan & Ganim
+1269,MouSi CC Christensen & Chiu
+1270,Kumar & Siddiqui
+1271,Newtown DK Dolan & Kennel
+1272,ForCol OV O'Hare & von Fischer
+1273,Bay Area KP Kasi & Paila
+1274,Southlake Carroll BB Bethi & Boyapati
+1275,First Colonial KS Knox & Schulte
+1276,Canyon Crest LA Liu & Agashe
+1277,Cypress Creek BO Bazan & Ochoa
+1278,Flower Mound MK Motupalli & Kotha
+1279,Woodlands GA Gonzalez & Ansari
+1280,Hebron KJ Kauffman & Joseph
+1281,Byram Hills KS Kumar & Sampere
+1282,Ames SH Stevens & Han
+1283,BosCol LJ Lee & Jung
+1284,SFW Williams & Banouvong Williams & Banouvong
+1285,Citrus Valley EA Essa & Acosta
+1286,Harker BG Bhimaraju & Gurjar
+1287,Colleyville Heritage SL Shadman & Lee
+1288,Fairmont Prep BY Yang & Bobrownicki
+1289,North Mecklenburg MuMa Muchane & Martin
+1290,Bonita Vista CR Casey & Rivera
+1291,Hamilton DS Desai & Sarwar
+1292,Huntington CJ Crookshanks & Joshnson
+1293,Needham WR Warn & Rondini
+1294,Presentation NN Nawathe & Nawathe
+1295,Taipei American LY Liang & Yang
+1296,Pittsburgh Central Catholic EM Evans & Matous
+1297,Perry HB Hervey & Boughman
+1298,Weston MC Malur & Chen
+1299,Thomas S. Wootton LS Li & Shivaprasad
+1300,NSU FG Frank & Goldberg
+1301,Potomac LW Lin & Wu
+1302,Northwest Guilford RA Roy & Altmann
+1303,Sharon LK Liao & Khandaker
+1304,Campbell Hall Johnny Szani & Nathan Lee Szani & Lee
+1305,Flower Mound GV Govil & Vallapareddy
+1306,Stoneman Douglas SL Solano & Lee
+1307,Cypress Bay PH Pangas & Hassan
+1308,SFC Enger & VanDenTop Enger & VanDenTop
+1309,Lincoln FT Foss & Tarkian
+1310,Stuyve CL Cho & Lepri
+1311,Oakridge FM Foster & Miller
+1312,Cary SS Singleton & Surana
+1313,Apex Friendship DG DeSanto & Gallagher
+1314,Fairmont Prep JP Jansen & Patel
+1315,ABC Sauer & Herceg Sauer & Herceg
+1316,Jasper KS Kamalakantha & Shufer
+1317,Lincoln HF Hancock & Foss
+1318,Westlake DR daghestani & Reddy
+1319,Potomac ZH Zhou & Husisian
+1320,Northwood GO Gao & Oh
+1321,Mission San Jose MD Mittal & Das
+1322,St Mary's Hall RL Reford & Luna
+1323,Providence SC Sattenapalli & Chaudhry
+1324,Millard North IW Ikramullah & Warren
+1325,Oak Park and River Forest GS Gajewski & Sidime
+1326,Lexington AK Adams & Khandelwal
+1327,Johnston GL Gregurek & Liang
+1328,Nostrand & Saltzmann-Barrera
+1329,Montgomery Blair LG Li & Gupta
+1330,Livingston ZS Zhang & Shah
+1331,Klein WC Welch & Cross
+1332,BosCol CO Chun & Oh
+1333,Acton Boxborough QS Qiu & Sun
+1334,Traverse City West CG Carley & Grenchik
+1335,Interl WL Wood & Lu
+1336,Oak Park BT Bans & Thakur
+1337,HARR Herding & Corcoran Corcoran & Herding
+1338,SFL Sutton & Gillespie Sutton & Gillespie
+1339,SFL Mickelson & Bethke Bethke & Mickelson
+1340,Arizona College Prep - Erie Campus HV Hu & Vega
+1341,Mira Loma MJ Mostofa & Jayananth
+1342,Vancou YJ Yong & Jiang
+1343,Regis FS Fava-Pastilha & Sheehan
+1344,Carrollton PS Penley & Smith
+1345,BosCol RC Roe & Chen
+1346,EasPre RB Rutherford & Bedi
+1347,Cambridge CT Colt & Tinsley
+1348,Stockdale SS Singh & Singh
+1349,Ravenscroft TS Taber & Schantz
+1350,Coppell PB Prabhakar & Bohri
+1351,Cary SH Sundaram & Huang
+1352,Walt Whitman RR Rock & Rosenstein
+1353,Bonita Vista AJ Armenta & Jazo
+1354,Henry W Grady CD Challas & Downes
+1355,Jasper CK Chen & Kumar
+1356,Los Altos HL Howard & Liu
+1357,Ridge KR Karda-Marok & Rai
+1358,Freehold Township TG Tu & Gabizon
+1359,Leland MF Mehta & Fang
+1360,Fairmont Prep KH Kishimoto & Hong
+1361,West Windsor HS Hsia & Sarda
+1362,Granite Bay DR Diaz & Rodgers
+1363,Bergen County Debate Club NK Nam & Koretsky
+1364,Walt Whitman GK Gujaran & Koritz-Hawkes
+1365,Cabot SM Schulte & Merrick
+1366,Leland SM Somani & Mehta
+1367,Petal AM Amacker & Marx
+1368,Bonita Vista LS Loughney & Savgur
+1369,Winston Churchill GW Gupta & Wedam
+1370,Newton South LR Lazar & Rosen
+1371,San Marino BP Balaji & Phung
+1372,CenVal PS Persicke & Sicilia
+1373,Flintridge Prep CG Cheng & Ginn
+1374,St. Joseph's Prep RA Ruggiero & Ali
+1375,Dougherty Valley GG Gupta & Gururaj
+1376,Nova 42 HC Ho & Chai
+1377,Overlake MR Monteith & Rosenbloom
+1378,New Orleans Jesuit MZ Mardia & Zakaria
+1379,Mountain Brook LH Lauterbach & Hitson
+1380,Fairmont Prep AS Shin & Alamy
+1381,Cambridge BP Barnhart & Pantangco
+1382,Flintridge Prep MH Mequet & Ho
+1383,Flintridge Prep HH Harris & Ho
+1384,Riverdale Country KV Volpert & Katz
+1385,ABC Hansen & Van Steenwyk Van Steenwyk & Hansen
+1386,Northwest Guilford BM Bennett & Moran
+1387,Dripping Springs AV Albini & Villas
+1388,Cary High WG Wishon & Groves
+1389,Bronx HS Of Science SC Selden & Covino
+1390,Hunter KaGr Karaganis & Greenberg
+1391,Stuyvesant MK Melamed & Khan
+1392,Lincoln BB Beaty & Baird
+1393,Riverdale Country VL Volpert & Lipschultz
+1394,Dougherty Valley PV Perugupalli & Vasudevan
+1395,HorMan MJ Mussa & Jiang
+1396,Stockdale HB Huang & Bhavsar
+1397,Westwood MP Mohankumar & Pandit
+1398,Christ the King BJ Baksh & Jans
+1399,Salem Hills DK Devenport & Knapp
+1400,Joaquin Miller BE Balaji & Enduri
+1401,BosCol SP Son & Park
+1402,MouSi RH Roark & Hoang
+1403,Poolesville FH Fu & Hou
+1404,Interl HZ Huang & Zheng
+1405,Eagan Chino & Ugboajah Chino & Ugboajah
+1406,Penins HB Hardy & Barry
+1407,Westvi SW Sunder & Wang
+1408,Kingst HG Hillsberry & Galbiati
+1409,Joaquin Miller RG Rangan & Goel
+1410,AubMou NT Nelson & Toney
+1411,SeaAca LZ Lee & Zachariah
+1412,Bullis MS Maravilla & Sun
+1413,Clark WS Walker & Sanwal
+1414,BASIS Independent McLean RR Rakasi & Ravikumar
+1415,ABC Rhodes & Vetch Rhodes & Vetch
+1416,Hunter KG Karri & Giacobbi
+1417,Dougherty Valley KoSu Kotadia & Su
+1418,Summit SS Shaw & Sabuncu
+1419,McQuaid Jesuit BC Backus & Carrigan
+1420,St Francis KB Kupireddy & Bhatia
+1421,Blake Hemphill & Pradhan Hemphill & Pradhan
+1422,Woodlands SB Sayeed & Bhatt
+1423,Henry W Grady PS Poss & Schreiner
+1424,Regis AM Adviento & McHenry
+1425,Madison West JW Johnson & Waller
+1426,Elkins NR Nandolia & Rafiq
+1427,Winston Churchill HW Huang & Wedam
+1428,Lincoln Southwest DL Dahlman & Luu
+1429,Mission San Jose MP Mittal & Park
+1430,CinRan WC Wang & Chen
+1431,SpeakFirst CD Carson & De Austria
+1432,Kugnus ACTS CK Choi & Kwen
+1433,Oakwood School - North Hollywood GG George & Grinberg
+1434,Livingston LS Lu & Saxena
+1435,Gulf Breeze Dolphin MS Marshall & Sontag
+1436,Vancou FL Li & Fung
+1437,Gulf Breeze Dolphin MR Moore & Redmyer
+1438,Hopkinton FP Fu & Puttaraju
+1439,Harker YW Yuan & Wang
+1440,Thomas S. Wootton SW Sharma & Wang
+1441,Potomac HS Henry Sun
+1442,Fullerton Union TS Tehrani & Sexton
+1443,Dallastown SW Smeltzer & White
+1444,Oak Park ZP Zhang & Pakanati
+1445,SeaAca GP Ginsberg-Hayes & Perlin
+1446,Cambridge LM Liu & Mahooti
+1447,Damien SP Senise & Pugmire
+1448,Kingst SV Smith & Victory
+1449,MouSi HM Haindfield & McCrea
+1450,EasPre BU Balakrishnan & Uberti
+1451,Taravella CK Cambronero & Karrow
+1452,Palos Verdes VS Velazquez & Sheng
+1453,Cambridge KO Kim & Owen
+1454,Los Altos MC Mo & Chang
+1455,Los Osos HF Hafez & Fraser
+1456,Council Rock North DM Daniels & Meara
+1457,Millard North IV Ikramullah & Venkatesh
+1458,Nightingale Bamford JW Jokela & Wilkes
+1459,St Francis GV Vinay & Gupta
+1460,Boston Latin ZM Zhang & Mo
+1461,Millburn CM Chauhan & Maillard
+1462,Hunter HJ Ha & James
+1463,Colleyville Heritage FB Francis & Bhat
+1464,Pompano Beach RV Ramirez & Vargas
+1465,Winston Churchill DW Diaz & Wang
+1466,CR North KS Kardos & Safran
+1467,Pembroke Pines Charter CD cyrus & Derisma
+1468,Loyola KM Koenig & McAllister
+1469,Bronx HS Of Science EO Epperson & O'Neill
+1470,Bronx HS Of Science BE Barschdorff & Elliott
+1471,Stoneman Douglas AR Azar & Ray
+1472,RidHS KV Kella & Vandalovsky
+1473,Walt Whitman DA Dronamraju & Ali
+1474,Bridgewater WM Manche & Wadhwa
+1475,Bellaire CT Chen & Tu
+1476,Brentwood GG Galaska & Gupta
+1477,St Francis VK Vinay & Khinvasara
+1478,Ottumwa NH Neubert & Hahn
+1479,Morristown West NT Noe & Torres
+1480,Flintridge Prep SS Schuster & Sadda
+1481,AvaSch ZS Zhou & Shen
+1482,Puyall MP Miles & Pierce
+1483,Lynbrook BK Bawankule & Kirti
+1484,Prospe KA Asuncion & Kern
+1485,BL CL Chen & Li
+1486,West Orange SS Sandoval & Sandoval
+1487,Hunter KL Liu & Karaganis
+1488,Walt Whitman LD Lesser & Dandi
+1489,Stuyvesant RD Rajoria & Dadaille
+1490,Westlake WR Wehring & Robinson
+1491,Claremont PS Park & Shivaram
+1492,Lincoln Southwest JF Serena Jentz
+1493,Cambridge ST Splettstoeszer & Tianshi
+1494,Bay Area SR Sudhir & Rawal
+1495,Richard Montgomery LX Liang & Xie
+1496,Saline LI LaForest & Iyer
+1497,Geneva School Of Boerne BH Balli & Hardin
+1498,Klein SM Smith & Munoz
+1499,Westwood TV Tehrani & Velani
+1500,Mountain Brook BH Beck & Hitson
+1501,Foothill MZ Mudaliar & Zhu
+1502,Oak Park PB Pathy & Bezonsky
+1503,Shepton SW Shulman & Wang
+1504,Hebron IJ Ismail & Jiang
+1505,Lexington PR Prasad & Ren
+1506,Elkins CZ Chang & Zaheer
+1507,Riverside STEM LG Li & Gerdes
+1508,Riverdale Country DK Daza & Katz
+1509,Chaminade FM Fuschillo & McCabe
+1510,West Orange HJ Harrop & Jackson
+1511,Freehold Township MS Masarik & Singh
+1512,Jasper DL Deva & Lei
+1513,West Orange IB Baldauf & Ibarra
+1514,Charlotte Catholic RA Ruff & Antonilli
+1515,Montville LT Lo & Tam
+1516,Syosset GK Greenberg & Kelly
+1517,Trinity CB Cramer & Brown
+1518,Desert Oasis PD Pelas & DiTrapani
+1519,Hunter BK Bae & Karri
+1520,Saline BN Bankowski & Niculcea
+1521,Notre Dame GJ Ganesan & John
+1522,Burke GC Garcia & Coleman
+1523,East Ridge PM Padmanabhan & McManus
+1524,Potomac AW Adams & Wilcox
+1525,Claudia Taylor MP Makani & Patel
+1526,Bishop O'Dowd SD Shi & Dhar
+1527,Joaquin Miller XZ Xu & Zong
+1528,Bentonville GP Gjeruldsen & Pandey
+1529,CMS Southlake Junior SP Subramanian & Pinjani
+1530,Saline DH Dillon & Haddas
+1531,Jasper NY Nie & Ye
+1532,Chaminade FaMc Farrell & McGlynn
+1533,Olympi TS Tanner & Saltiel
+1534,West Windsor CD Dev & Chovatia
+1535,Oak Park and River Forest MP McKinney & Pascarella
+1536,Shepton BS Buvvaji & Siddaiya
+1537,Pompano Beach VV Ventura & Ventura
+1538,Jasper ST Sarnala & Talluri
+1539,Nova BS Blystone & Sanoir
+1540,Coppell RD Ramasamy & Dammanna
+1541,Cypress Bay CB Cohen & Behling
+1542,Stoneman Douglas MT Mettawa & Tam
+1543,PolPre LV Leduc & Vasquez
+1544,American Heritage Plantation RR Ratzan & Rajpal
+1545,Leland LN Lai & Nguyen
+1546,Stoneman Douglas GW Guerra & Wu
+1547,PolPre WS Wright & Spring
+1548,Hockaday HM Huang & Mukherjee
+1549,Millard North TX Tadiparthi & Xiong
+1550,Colleyville Heritage RC Rostami & Churns
+1551,Salpointe Catholic Camden Walsh & Ben Wells Walsh & Wells
+1552,Pompano Beach LP Luna & Parrela
+1553,Westlake HF Hendricks & Fultz
+1554,Grapevine MC McClure & Choudry
+1555,St Mary's Hall CT Campos & Trujillo
+1556,Randolph RL Ravin & Liu
+1557,Midwood BC Berger & Crooks
+1558,Byram Hills SB Sampere & Brocato
+1559,First Colonial DT Dodson & Tamayo
+1560,Colleyville Heritage SR Shadman & Rajwani
+1561,Lincoln Southwest JW Jeyam & Warjri
+1562,Strake Jesuit College Prep PT Panjwani & Thampoe
+1563,Coppell KS Kotha & Singh
+1564,Richardson LC LaVigne & Chapman
+1565,Kugnus ACTS SL Srinivashi & Lee
+1566,Millard North PD Poore & Deshpande
+1567,Trinity AC Adhikari & Cadena
+1568,Cary High TS Tang & Sarsour
+1569,Millard North HD Hartman & Devanaboyina
+1570,Cambridge YP Yi & Perumal
+1571,Coppell DD D'Souza & Dara
+1572,Henry W Grady WP Werthman & Peters
+1573,Centennial HS - Frisco LV Lewis & Vinjamaram
+1574,Coppell CJ Chintalapudi & Joseph
+1575,Jasper GP Gupta & Posanipally
+1576,Bellaire BL Bommekal & Liu
+1577,Lincoln North Star KE Kuku & Elhaj
+1578,Plano East PK Penumetcha & Kanamangala
+1579,Byram Hills CC Canter & Canter
+1580,SPA CK Chang & Keogh
+1581,Ft Lauderdale AA Alexandrescu & Aversa
+1582,Jasper TV Thorsell & Vemulapalli
+1583,WAT Koopmans & Thiel Koopmans & Thiel
+1584,All Saints Episcopal LD Lin & Dasgupta
+1585,Our Lady Of Good Counsel AS Ayuk & Smith
+1586,Richard Montgomery NS Nazare & Sun
+1587,John Paul II DG Duerson & Gomez
+1588,RTHS Independent KP Kenchen & Papp
+1589,West Windsor AB Bobba & Agarwal
+1590,Pearce AB Amare & Bannister
+1591,William Fremd BK Bhatia & Kim
+1592,BRK Du & Koch Du & Koch
+1593,Northwood BO Bhardwaj & Oh
+1594,SFC Hoffman & VanderLught Hoffman & VanderLught
+1595,Chaminade VC Vastola & Catinella
+1596,BRK Anderson & Messerli Anderson & Messerli
+1597,Ralston SR Sanchez Martinez & Rush
+1598,Clovis North SC Shah & Casero
+1599,Thomas S. Wootton CR Chatterjee & Ramesh
+1600,Flintridge Prep JH Jang & Hobey
+1601,Gabrielino TH Tan & Haas
+1602,Millard West CB Carder & Berggren
+1603,Amador Valley YS Ying & Song
+1604,Capitol MK Mohan & Knickrehm
+1605,EasPre SS Selvam & Srinivasan
+1606,College Prep BaGu Badjatia & Gupta
+1607,Montgomery Blair LZ Liu & Zhang
+1608,Gabrielino LL Le & Lam
+1609,San Marino FW Fang & Wen
+1610,Westvi ES Eachambadi & Surya
+1611,RaiAvi KC King & Crockett
+1612,Poly Prep Country Day WV Wright & Vasquez
+1613,Lincoln Southwest AF Anderson & Fulton
+1614,Hockaday SK Shimer & Khan
+1615,Princeton RG Roy & Gu
+1616,Gulf Breeze Dolphin PN Page & Nelson
+1617,Dougherty Valley SV Sandhu & Vasudevan
+1618,Hockaday AR Ahsan & Raj
+1619,Hunter KJ Kumawat & James
+1620,Northwest Career And Technical AS Aragon & Sawyer
+1621,Dexter OR Oberg & Rosenzweig
+1622,Green Valley SS Silva & Serquina
+1623,Dipont YY Yixuan & Yixuan
+1624,Chaminade FC Farrell & Cody
+1625,Los Altos FC Falkenburg & Chudasama
+1626,Woodlands CK Castro & Keene
+1627,Centennial HS - Frisco LW Lanka & Wokhlu
+1628,Randolph UM Ullah & McConnell
+1629,Mountain Brook AB Allen & Boyd
+1630,Chelmsford RM Ross & Mantha
+1631,Leland VB Vinodh & Byakod
+1632,Regis OP O'Malley & Presten
+1633,Miami Beach Sr KM Karp & Mally
+1634,Miami Beach Sr DS Damle & Simone
+1635,SFO Greble & Brady Greble & Brady
+1636,Geneva School of Boerne AB Ackermann & Balli
+1637,Bard HS Early College Queens MS Sailer & Mesa
+1638,San Marino CV Chung & Velo
+1639,Granite Bay MY Miyashiro & Yadlapalli
+1640,Westridge CB Chi & Bassel
+1641,RaiAvi SF Singh & Faler
+1642,Newton South KC Kestenberg & Chass√©
+1643,Colleyville Heritage AE Amlani & Evans
+1644,Flintridge Prep GS Ginn & Sadda
+1645,San Dieguito TD Tashoff & Davies
+1646,Damien BB Barragan & Bartholio
+1647,Saratoga RS Ramachandran & Shah
+1648,Los Altos MH Ma & Huang
+1649,Taravella BK Boudreau & Karrow
+1650,Winston Churchill DW Diaz & Wedam
+1651,Taravella AH Adams & Hoffman
+1652,MIT Christopherson & Sanchez Christopherson & Sanchez
+1653,Dougherty Valley SC Sandhu & Chawla
+1654,Columbus MP Murtey & Parikh
+1655,Strath Haven LP Lowry & Pak
+1656,Monta Vista BA Budaraju & Ahmadi
+1657,Pembroke Pines Charter DH Dacas & Horan
+1658,Taipei American FE Fang & Engen
+1659,Cambridge JG Jackman & Gingrich
+1660,Centennial HS - Frisco SB Subramaniam & Bommineni
+1661,SFC Barnabe & Lenning Barnabe & Lenning
+1662,Clovis North LL Lee & Lin
+1663,Oakton JH Huang & Jones
+1664,Harker MG Moogimane & Gogte
+1665,Winston Churchill BW Beere & Wolf
+1666,Bronx HS Of Science BB Berger & Berger
+1667,San Dieguito LB LaRoche & Belin
+1668,Lincoln JJ Judge & Johnson
+1669,Ardrey Kell BM Bulusu & Malapati
+1670,Grapevine MW McClure & Wevodau
+1671,Joaquin Miller VK Vandavasi & Khanna
+1672,Coppell MP Muthukumar & Panatpur
+1673,Nightingale Bamford BR Blakeman & Rimalovski
+1674,Mountain Vista SW Statkevicus & Wessels
+1675,Mountain Brook HC Harris & Cornes
+1676,Salem Hills SW Williams & Smith
+1677,Champion KK Kazmi & Koski
+1678,Westlake ZY Zhou & Yang
+1679,Champion IJ Iyyavoo & Jilla
+1680,West Windsor CN Colitsas & Nair
+1681,RaiAvi CM Chung & Mungra
+1682,Mountain Brook BH Hitson & Butrus
+1683,American Heritage Plantation WS Winick & Shaw
+1684,Desert Vista CG Cooley & Gill
+1685,Andover AG Anderson & Geiss
+1686,Claremont JJ Junisbai & Judson
+1687,Montgomery Blair TC Tong & Chen
+1688,Ft Lauderdale ZD Zaldumbide & Denis
+1689,Fort Lee HK Hong & Kahtane
+1690,Holy Cross GO Garda & Olsen
+1691,Bonita Vista PU Perez & Ugarte
+1692,CMS Southlake Junior MK Musser & Kasarla
+1693,Bonita Vista AM Abutin & Murphy
+1694,Toumajian & Kennedy
+1695,Saratoga SV Shah & Venkatram
+1696,Honor KM Kim & Mendoza
+1697,Riverside STEM VP Vace & Paul
+1698,Village AS Agarwal & Saligram
+1699,Northwest Career And Technical TI Tarver & Isaw
+1700,Dougherty Valley CP Chakraborty & Pamidimukkala
+1701,Riverside STEM SO Seaf & Olvera
+1702,Gulf Breeze Dolphin BR Biscardi & Richmond
+1703,Carrollton SS Siek & Smith
+1704,Cambridge LL Lee & Lim
+1705,Maranatha WW Witherspoon & Whyley
+1706,Canyon Crest YJ Yue & Jin
+1707,Montgomery Blair ZW Wen & Zhang
+1708,Haverford AL Aliaga & Leahy
+1709,Vancou JZ Zhang & Ji
+1710,Capitol SS Sara Sohani
+1711,San Marino YM Yim & Mach
+1712,Madison Central MD McMillin & Day
+1713,Fairmont Prep IM Idnani & Marwaha
+1714,Riverside STEM VC Vace & Cueva
+1715,Lincoln HK Hancock & Krohn
+1716,Grapevine RW Rathie & Wevodau
+1717,Grapevine HB Halman-Gonzalez & Brigham
+1718,Suncoast Comm KR Kaufmann & Reiter
+1719,Booker T. Washington WL Wenger & Latham
+1720,Bellaire DL De & Lai
+1721,Carrollton SB Smith & Bohannon
+1722,Sequoyah SH Schofield & Huerta
+1723,Livingston SC Sahni & Chen
+1724,Canyon Crest AY An & Yang
+1725,Valor Christian BH Barriga & Haynes
+1726,Regis BuGr Buff & Greene
+1727,Wayland BL Barrow & Liu
+1728,Newton North FM Farrar & McCormick
+1729,Highla HR Hernandez & Ramsey
+1730,BL CQ Chen & Qin
+1731,Waring KM Knowles & Martin
+1732,Dalton RF Ramirez & Freilich
+1733,Hebron JV Joseph & Valecka
+1734,Claudia Taylor EM Elkins & Momin
+1735,Lovejoy KL Kim & Larson
+1736,Millburn CD Cheung & Davis
+1737,Oak Park and River Forest SC Sidime & Carson
+1738,Joaquin Miller MG Gopalakrishnan & Mangla
+1739,Milpitas ML Mahajan & Le
+1740,Charlotte Latin ZZ Zhou & Zhou
+1741,Mountain Brook BS Beck & Simonton
+1742,College Prep TK Kumar & Tandon
+1743,Westwood XS Xiao & Singh
+1744,Centennial HS - Frisco AB Arwani & Bhandare
+1745,Walt Whitman SS Steighner & Shaibani
+1746,Pembroke Pines Charter GV Glover & Virani
+1747,Capitol LP Li & Pan
+1748,Claremont KL Kim & Liu
+1749,Westvi HS Huang & Shetty
+1750,Burke WL Wachholtz & Laher
+1751,Lakela CR Riordon & Carbo
+1752,Prince KC Kopf & Chawla
+1753,Winston Churchill HS Huang & Su
+1754,Cooper City LE Liguori & Eccher
+1755,Masters CH Cowin & Hohl
+1756,Duchesne Academy of the Sacred Heart DL Dubey & Linbeck
+1757,Fullerton Union RF Redhead & Flores
+1758,East Chapel Hill HC Hu & Chaionn
+1759,Hamilton SS Shih & Sheng
+1760,Bronx HS Of Science GE Gyatso & Elliott
+1761,Timber PW Paschke & Wu
+1762,Bellaire LL Lin & Liang
+1763,Niceville BC Burley & Carter
+1764,Chapin SM Satterfield-Brown & Metz
+1765,Ardrey Kell PB Pinkerton & Boughner
+1766,Wayland RA Ryu & Ahmed
+1767,Cabot BR Boals & Riddle
+1768,Harker CP Chen & Parnell
+1769,Centennial HS - Frisco LC Lewis & Chung
+1770,Mira Loma AM Alofa-Aders & Marsee
+1771,MFL MarMac Bulldogs Koeller & Dodgen Koeller & Dodgen
+1772,Bellaire MC Maag & Chen
+1773,Bronx HS Of Science MiEp Epperson & Miah
+1774,Bard HS Early College Manhattan MF Morris & Feigelson
+1775,Lex MF Mabardy & Fortier
+1776,Berkeley Carroll ES Egolf & Schiller
+1777,BASIS Scottsdale Bhavik Rajaboina & Shawnpreet Sahnan Rajaboina & Sahnan
+1778,Dublin Jerome TA Tang & Ambardekar
+1779,SpeakFirst BB Braxton & Bell
+1780,John F. Kennedy BM Bonat & Mackey
+1781,Half Hollow Hills HS East NX Nagpal & Xie
+1782,Byram Hills CL Canter & Lubcher
+1783,Carrollton TB Berzsenyi & Taylor
+1784,Hendrickson GV Galan & Vargas
+1785,Davidson Academy Of Nevada HC Hansen & Chien
+1786,Ravenscroft RG Replogle & Granick
+1787,Mountain Brook JW Jardine & Wood
+1788,Newpor CK Chen & Kendall
+1789,U HB Heaton & Bates
+1790,Walt Whitman LK London & Kotelanski
+1791,Mount Carmel CM Colomb & Mipro
+1792,Mountain Brook BF Finch & Beck
+1793,Maranatha LC Liu & Cho
+1794,Northridge KM Koford & Manning
+1795,Coronado QA Quinland & Adams
+1796,Omaha North Magnet MM Morse & Morse
+1797,College Prep ChZh Chen & Zhou
+1798,Austin SFA SB Shearer & Benavides
+1799,L-S PG Pan & George
+1800,Lexington LS Liu & Seo
+1801,Harrisburg HH Hopes & Hilligas
+1802,Chaska OV O'Connor & Veerakumar
+1803,Coppell EB Eddula & Bhattacharya
+1804,CMS Southlake Junior SA Suri & Amin
+1805,Klein HH Hapner & Hammonds
+1806,Edgemont RS Richter & Singh
+1807,Loyola CM Chayes & McAllister
+1808,Miramonte BM Barmmer & Morganstein
+1809,Hockaday RC Raghunathan & Chebrolu
+1810,St. John's DP Durkin & Pickering
+1811,Milton CW Colledge & Wang
+1812,Stuyve GL Green & Lupea
+1813,Freehold Township KS Kaminsky & Surasani
+1814,BASIS Scottsdale VA Vicente & Agrawal
+1815,Thomas S. Wootton LL Lee & Lee
+1816,Burke HC Hargrove & Clift
+1817,Flintridge Sacred Heart BG Bauer & Gurrola
+1818,SeaAca BJ Breslin & Jorgensen
+1819,College Prep CT Chen & Tetsu
+1820,Klein KJ Khan & Jia
+1821,Sage Hill PP Park & Perin
+1822,Papillion La Vista KD Khayati & Dickinson
+1823,Oxford CP Chatterjee & Parekh
+1824,Rancho Bernardo KH Kadiyala & He
+1825,Joaquin Miller KH Krishnamurthy & Habtom
+1826,ThoJef HT Homfeldt & Thompson
+1827,Claremont PK Patel & Kreines
+1828,Dougherty Valley SP Shi & Panda
+1829,Potomac CG Chen & Gu
+1830,SFR Prescott Haber Prescott Haber
+1831,SFO Hagan & Ortega Ortega & Hagan
+1832,Dalton BF Blaustein & Freilich
+1833,Lincoln Southeast RB Rauner & Beyene
+1834,Bronx HS Of Science ChBa Chari & Barschdorff
+1835,East Chapel Hill GZ Gilliom & Zhang
+1836,Blake Mohan & Wang Mohan & Wang
+1837,Highland Park WP Wu & Patel
+1838,Ardrey Kell AA Anthony & Atalla
+1839,Champion HI Hathalia & Iyyavvoo
+1840,Oakwood School - North Hollywood Ily Grinberg & Ben Slovin Grinberg & Slovin
+1841,Newton South JH Jiang & He
+1842,Apex Friendship AG Alt & Gac
+1843,Harker JS Jain & Sudarsaman
+1844,Lincoln LM Lester & Mehlin
+1845,MILB Andersen & Mischel Andersen & Mischel
+1846,Centennial HS - Frisco SA Sharma & Arwani
+1847,Apex Friendship SM Sanchez & McGhee
+1848,Saratoga FK Feng & Koh
+1849,Walt Whitman MC Megan Chen
+1850,Leland WR Wong & Rengappa
+1851,Bronx HS Of Science CL Chan & Look
+1852,Hunter BR Bustamonte & Rodriguez
+1853,Masters WG Wexler & Grizzaffi
+1854,Dublin Jerome KT Kanaparthi & Tang
+1855,Oakridge OK Ortiz & Kumar
+1856,Langham Creek GF Gutierrez & Ferguson
+1857,Newton North BH Brunson & Harris
+1858,James Logan KD Kapadia & Dawar
+1859,Spence CF Cahilly & Frank
+1860,Lincoln-Sudbury Regional KJ Karty & Johnson-Cramer
+1861,Lincoln North Star KH Kuku & Huynh
+1862,Lincoln Southeast RU Rauner & Uribe
+1863,Santa Margarita Catholic FM Finn & McGowen
+1864,Sharon HX Hamid & Xiang
+1865,Carrollton BJ Berzsenyi & Johnston
+1866,THEO Christian MW Muir & Wolf
+1867,Claudia Taylor PL Patel & Lalani
+1868,Maranatha MS McCoy & Strong
+1869,Eastview ZD Zhu & Dulla
+1870,Al-Noor GA Ghulais & Awan
+1871,West Windsor DP Das & Platoff
+1872,Potomac CZ Chatterjee & Zhang
+1873,Clovis North ET Escareno & Trexler
+1874,Cambridge Rindge and Latin MS Mazumder & Singh
+1875,Bard HS Early College Manhattan DR Dolan & Rodas
+1876,W.B. Ray HH Haque & Harkness
+1877,College Prep GuHw Gupta & Hwang
+1878,St Thomas Aquinas KA Knight & Abrams
+1879,Plano East Senior PG Penumetcha & Gudipaty
+1880,Lincoln East BN Bell & Nooka
+1881,Newton North BS Sun & Brunson
+1882,Lincoln Southeast RM Ripple & Mason
+1883,Jasper GH Gangalakunta & Hou
+1884,Coral Academy Of Science Las Vegas GW Greene & Weisman
+1885,Algonquin TC Tolety & Chang
+1886,New Horizons SG Spears & Garcia
+1887,Lake Oswego Senior YS Yang & Schmitt
+1888,Coppell MV Mhashelkar & Vankina
+1889,Downingtown STEM SW Sporn & Wang
+1890,Madison Central CL Chatterjee & LeRoux
+1891,James Logan SN Siddiqui & Nuthikattu
+1892,Barinaga & Perdomo
+1893,Saline HH Healy & Holloway
+1894,Sharon MP Mao & Prabhakara
+1895,Sage Hill JM Jia & Ma
+1896,Altamont BG Bashir & Goyal
+1897,Oakwood School - North Hollywood SS Slovin & Sugerman
+1898,Hopkinton WK Wojcik & Khan
+1899,West Des Moines Valley NO Nasimiyu & Ortiz
+1900,Presentation NN Ni & Nawathe
+1901,Bronx HS Of Science BM Basher & Manickam
+1902,Lincoln East BS Brehm & Sharma
+1903,Cherry Creek RuHa Russell & Hadden
+1904,Stoneman Douglas GB Guerra & Baig
+1905,BASIS San Antonio Shavano PC Pollack & Cerna
+1906,Boca SD Sastre & Dahan
+1907,Strake Jesuit College Prep BG Bloesch & Goldin
+1908,Ardrey Kell KG Kale & Ghirmai
+1909,Coppell LK Lucas & Kohle
+1910,SFC Shemon & Leonard Shemon & Leonard
+1911,BL Debate QZ Qin & Zheng
+1912,Miramonte HR Holden & Reynolds
+1913,East Chapel Hill HY Hu & Yang
+1914,Acton Boxborough RHS Independent Entry AySo Aysola & Sousounis
+1915,Granite Bay NM Narayanan & Mandava
+1916,Oak Park PY Prudhvi & Yona
+1917,John Paul II EG Edwards & Guidry
+1918,Apex Friendship MC Marcheswala & Cramer
+1919,Acton-Boxborough ZD Zhu & Dayal
+1920,Salem Hills OL Oblad & Lewis
+1921,GROT Pappas & Pappas Pappas & Pappas
+1922,Wayland GB Goldstone & Baranovsky
+1923,Horizon MM McNamara & Mittelstedt
+1924,Nova 42 HG Ho & Gong
+1925,Flintridge Sacred Heart LK Lauron & Kalaw
+1926,Mira Loma LG Li & Gaudreau
+1927,Oakton PW Parthasarathy & Wang
+1928,Caterina & Falavolito
+1929,Oakwood School - North Hollywood BM Brown & Mostow
+1930,San Marino CR Chon & Repetti
+1931,Ravenscroft EN Erickson & Norona
+1932,East Chapel Hill WY Wang & Yang
+1933,Joaquin Miller WY Wang & Yoon
+1934,Spence DF Davis & Frank
+1935,THEO Christian WK Wolf & Keck
+1936,Maranatha BC Bowden & Corwell
+1937,Paul J Hagerty GO Gil & O'Brien
+1938,Pine Crest Prep DM Davimos & Monserratt
+1939,Leland VS Vakhshoori & Sharma
+1940,Lincoln East CK Chen & Korlacki
+1941,All Saints Episcopal PD Potter & Dasgupta
+1942,Saratoga XT Xiao & Tambe
+1943,St. John's SD Sweeney & Delamerced
+1944,Hunter KZ Karaganis & Zhao
+1945,Eagan LH Lee & Hormann
+1946,Tahoma Senior NQ Nickel & Quevedo
+1947,SF Roosevelt ML Moshoeshoe & Lima
+1948,Asheville CH Casson & Hammonds
+1949,John & Rao
+1950,Potomac MW Mendu & Wang
+1951,Dipont TC Tsang & Chen
+1952,FAU DN Desvergunat & Nanji
+1953,James Logan LS Le & Sekar
+1954,Bard HS Early College Manhattan KF King & Fishel
+1955,Chen & Ali
+1956,Waring FC Carraher-Kang & Fedele
+1957,Flintridge Sacred Heart LM Lubeley & Miranti
+1958,CenVal MB Meshal & Bernardo
+1959,Oxbridge Academy of the Palm Beaches BM Breckenridge & Murray
+1960,University Prep NV Noor & Vutukury
+1961,Blake PH Homan & Pradhan
+1962,Damien Jarrett Zepeda & Anthony Vinci Zepeda & Vinci
+1963,Montgomery Blair CD Chen & Dong
+1964,Albuquerque Sahil Kholwadwala & Nathan ABRAHA Kholwadwala & ABRAHA
+1965,CopHil BH Howell & Baron
+1966,Westvi CD Chen & Deosthali
+1967,Taravella AM Amorim & Mathis
+1968,East PaJo Pater & Johnson
+1969,Marcus YY Yeaton & Yeaton
+1970,Pittsburgh Central Catholic CL Carnahan & Laporte
+1971,Puyall LV Lockard & Vitzthum
+1972,Flower Mound HS 9th Grade Campus AP Anand & Padhi
+1973,Melissa EA Erwin & Ashley
+1974,West Broward PC Pacini & Cagan
+1975,Maranatha BB Bradley & Brandstater
+1976,Sharon BZ Zhang & Blatte
+1977,Dexter HG Hill & Grossman
+1978,Henry W Grady TD Thomas & Downes
+1979,Hunter AT Attada & Tian
+1980,Bard HS Early College Queens LD Lai & Dartley
+1981,Yucaipa LL Lara & Louks
+1982,Lincoln KT Kleppinger & Tran
+1983,AubRiv LC Lemus & Carstens
+1984,Ardrey Kell VR Vanam & Rastogi
+1985,Syosse ST So & Tariq
+1986,Waring TB Buhl & Tham
+1987,Champion JS Jaitely & Sivakumar
+1988,Fargo Shanley WK Ward & Krings
+1989,GeoWas RS Ray & Smith
+1990,Golden State GT Gottumukkala & Tivare
+1991,Lambert VS Valbueno & Shi
+1992,Monte Vista SZ Shabbir & Zhang
+1993,Sioux Falls DG DeBoer & Gillespie
+1994,Newton North GX Graham & Xue
+1995,St. John's MP McCarron & Pickering
+1996,Harker AS Alpha & Sayed
+1997,Pelham Lab AI Aubain & Islam
+1998,Nova GE Eloy & Garland
+1999,Gabrielino HL Hoc & Li
+2000,Lincoln North Star KV Kuku & Villa-Huerta
+2001,Denver East KR Ringel & Koenig
+2002,Chang & Niaz
+2003,William G. Enloe SG Singh & Goyal
+2004,Mira Loma ND Ng & Dizon
+2005,St Martin's Episcopal AB Angerer & Blackstone
+2006,West Windsor RJ Rossi & Jiang
+2007,Hockaday IK Irfan & Khan
+2008,Montgomery SS Singh & Strickler
+2009,Carrollton JD Johnston & Dunn
+2010,SpeakFirst BF Burns & Frazier
+2011,DuPont Manual CT Chittem & Tariq
+2012,Pine Crest Prep BT Bergner & Tamir
+2013,Evergreen Valley CK Chowdhuri & Kazmi
+2014,Austin SFA PB Patterson & Benavides
+2015,Harker WL Wang & Lee
+2016,Desert Vista BP Bakshi & Pulliam
+2017,Joaquin Miller LX Ling & Xing
+2018,Lex WW Warburton & Warburton
+2019,Half Hollow Hills HS East RR Rizvi & Roedel
+2020,Robert E Lee SA Soto & Arechar
+2021,Denver East SH Sundstrom & Hutson
+2022,Fairmont Prep BK Kishimoto & Bobrownicki
+2023,Evanston Twp KM Ketzback & Mayo
+2024,Palo Verde AR Agrebi & Raju
+2025,Kinkai MS St. julian & Monday
+2026,BroHS RE Reardon & Eastwick
+2027,Charlotte Catholic WR Rauch & White
+2028,Thomas S. Wootton KI Kotraiah & Iyer
+2029,McDowell AL Alex Law
+2030,Foothill LH Lee & Halait
+2031,Pearce SW Salz & Wilson
+2032,Cosby GC Garrett & Clark
+2033,Kinkaid WG weiland & Gonzalez
+2034,Jasper LG Liu & Goyal
+2035,Bronx HS Of Science MJ Marrero & Jobayar
+2036,Our Lady Of Good Counsel GW Gaind & Wolcott
+2037,Valor Christian WH Wallace & Hamler
+2038,Timothy Christian PZ Praveen & Zhao
+2039,Miami Beach Sr GH Gelber & Hartley
+2040,Union Catholic MD D'Aleo & McDermott
+2041,Prosper AM Asuncion & Moreland
+2042,Flower Mound HS 9th Grade Campus WC Wuu & Chivakula
+2043,Prosper MB Miller & Barton
+2044,Evanston Twp PP Phillips & Polish
+2045,Geneva School Of Boerne CS Cone & Scott
+2046,Salpointe Catholic Max Smith & Richard Tracy Smith & Tracy
+2047,Cupertino PV Potluri & Venkatasubramanian
+2048,Marriotts Ridge KK Kim & Kim
+2049,Oakridge GP Gullinese & Phemister
+2050,SLCWes TL Taussky & Liu
+2051,Harker IL Ishikawa & Luo
+2052,Dalton RG Ramirez & Greenfield
+2053,Valley International Prep PG Pope & George
+2054,West Orange SB Sandoval & Baldauf
+2055,Valor Christian BE Barwind & Ekback
+2056,Hockaday CJ Craig & Jackson
+2057,Mountain Brook HS Hitson & Short
+2058,Stoneman Douglas MH Medalie & Hagen
+2059,Blake EE Enebo & Eum
+2060,Joaquin Miller TS Taraniganty & Sathiyaseelan
+2061,Potomac RZ Roots-Nowakowski & Zhou
+2062,Millburn TM Tang & Musaji
+2063,Dalton JB Blaustein & Johnson
+2064,American Heritage Plantation RZ Rajpal & Zafar
+2065,Cherry Creek DrRa Drew & Ray
+2066,Jasper KC Khan & Chung
+2067,Dalton PH Press & Hammerman
+2068,Lincoln Thompson & Johnson Thompson & Johnson
+2069,Centennial HS - Frisco MR Makhija & Rajkumar
+2070,Santa Fe HS/Raider Debaters WG Walls & Gibbs
+2071,Damien BJ Jost & Borchert
+2072,Salim & Rajagopal
+2073,Martinez-Okhuysen & Cunningham
+2074,Claudia Taylor TL Trevino & Lalani
+2075,Potomac CN Chowdhury & Nair
+2076,Shepton LC Lasut & Chang
+2077,Ames DL Davis & Lee
+2078,Bonita Vista MP Mylrea & Peralta
+2079,EasPre MS Mein & Sanghavi
+2080,Prosper LC Lloyd & Cook
+2081,Horace Mann SB Shaari & Buluswar
+2082,Pompano Beach LG Limpires & Gray
+2083,Champion MA Manivel & Aribi
+2084,Pine Crest Prep MV Monserratt & Vasserman
+2085,New Horizons OG Ortiz & Garrido
+2086,Hockaday KS Koratala & Sands
+2087,North Allegheny Sr GA Ahmad & Gao
+2088,Madison West CG Cohen & Grabois
+2089,Southeast Polk RS Ryan & Sartell
+2090,La Salle HL Hedman & Lossada
+2091,Strake Jesuit College Prep HK Hastings & Kennedy
+2092,Ardrey Kell JC Jayasekar & Chaturvedi
+2093,Nightingale Bamford BJ Benedetti & Jereissati
+2094,Bridgewater Raritan WH Wadhwa & Hemmige
+2095,Lincoln Southwest NO Nguyen & O'Brien
+2096,Pembroke Pines Charter HD Horan & Derisma
+2097,BASIS Independent Silicon Valley GG Gurunathan & Gurunathan
+2098,Saratoga PH Peruvemba & Haque
+2099,Vora & Shah
+2100,Bishop O'Dowd DJ Dhar & Jiang
+2101,Horace Mann SY Sweet & Yang
+2102,Union Catholic BK Blouin & Kemler
+2103,Scarsdale GE Greenspan & Epstein
+2104,SLCWes CH Carlin & Haskins
+2105,Damien ZS Starks & Zepeda
+2106,Burke LN Lewis-Nero & Nelson
+2107,Albuquerque Johannes Bauer & Christian Viets Bauer & Viets
+2108,West Des Moines Valley SC Sweeney & Cory
+2109,Burke GI Gould & Ivey
+2110,Harker TL Luo & Tonev
+2111,Maranatha CM Coates & Malhotra
+2112,Harker KH Khan & Huda
+2113,Algonquin TC Tolety & Chen
+2114,Kinkaid FN Furlow & neelapu
+2115,Hockaday ST Stock & Tian
+2116,North Allegheny Sr MS Mei & Shao
+2117,Mission San Jose PS Poreddy & Saravanan
+2118,Winston Churchill LG lewis & Gomez
+2119,Shepton ZR Zhang & Rho
+2120,Evergreen Valley AS Abhilash & Shettigar
+2121,Timothy Christian TR Tang & Ruta
+2122,Thomas S. Wootton CS Cao & Sanyal
+2123,Vestavia Hills RS Rhoades & Stacey
+2124,Amador Valley SZ Song & Zhu
+2125,Holy Cross WW Wallace & Wyman
+2126,Collegiate FP Friedman & Pitofsky
+2127,MFL MarMac Bulldogs Gilberts & Koeller Gilberts & Koeller
+2128,Hockaday FJ Fu & Jan
+2129,Dalton HZ Hammerman & Zhang
+2130,Winston Churchill AT Alcala & Trillo
+2131,Joaquin Miller AN Atmakuri & Nambiar
+2132,Strake Jesuit College Prep HD Hubbard & Dillihunt
+2133,West Broward JK Joseph & Kurian
+2134,Prosper BA Bell & Amoah
+2135,Torrey Pines JY Jiang & Yang
+2136,Harrisburg HO Herding & O'Connor
+2137,Newburgh Free EO Eliadis & Olitan
+2138,HUR Trandall & Calkins Trandall & Calkins
+2139,Winston Churchill WD Wolf & DeHoyos
+2140,Eastside CS Chen & Srikanth
+2141,Bronx HS Of Science SG Siderakis & Garzon
+2142,West Windsor JC Chovatia & Jiang
+2143,Hunter SS Scalia & Sreenivasan
+2144,Christopher Columbus BM Baumann & Martinez
+2145,Joaquin Miller VV Verma & Verma
+2146,Cooper City RA Rolfs & Aloya
+2147,American Heritage Boca/Delray OX Ou & Xu
+2148,Lexington RW Ramanathan & Weber
+2149,Southeast Polk RB Roberts & Beckwith
+2150,Dexter DR Darnell & Richardson
+2151,Shepton JT Ji & Tsui
+2152,Flintridge Sacred Heart BJ Bauer & Jiang
+2153,Bhalla & Maher
+2154,Sahihi & Khanijow
+2155,DuPont Manual GK Gallagher & King
+2156,Hill CA Carroll & Acevero
+2157,Hunter KP Kumawat & Pazmino
+2158,Harrisburg LL Larson & Lucas
+2159,Pinecrest DL Diasio & Ledford
+2160,Rowland Hall Kit Stevens & Violette Truong Stevens & Truong
+2161,Siddiqui & Akhtar
+2162,Albuquerque AK Abraha & Kholwadwala
+2163,Cabot YN Young & Nolen
+2164,Bard HS Early College Queens LL Lai & Lin
+2165,Dripping Springs EM Englehart & Mihaly
+2166,Damien KF Kassounian & Flores
+2167,Edgemont SM Singh & Masam
+2168,Westvi LV Lu & Vasudevan
+2169,St. Mary's Dominican PR Porche & Raimer
+2170,Stratford BD Bonnete & Dozier
+2171,Lakeland DR Dakaj & Ramaswamy
+2172,RidHS LC Lal & Cheng
+2173,Norfolk WZ Weckerle-Dietz & Zephier
+2174,Timber Creek VR Rychlik & Valenzuela
+2175,Scarsdale GM Greenspan & Morin
+2176,All Saints Episcopal ED Elfarr & Davis
+2177,Brooks & Vale
+2178,Newton North ZhMi Zhou & Minsky
+2179,Charles E. Jordan BS Borasky & Smith
+2180,Blake Mendoza & Schultz Mendoza & Schultz
+2181,Timothy Christian LT Li & Tang
+2182,West Broward PW Palmer & Whittingham
+2183,Northwest Career And Technical CC Cobb & Carls
+2184,HenHud RT Rajasekar & Tagliabue
+2185,Taravella KO Kamoze & Oxman
+2186,Taravella JP Jean Louis & Parente
+2187,SPA MoSh Moran & Shaker-Check
+2188,Walt Whitman RL Reddy & Learn
+2189,Brophy DT Durado & Thorpe
+2190,Homewood-Flossmoor PS Parks & Spencer
+2191,Miami Beach Sr SR Sabino & Rubin
+2192,Waring DA Adams & Douglas
+2193,West Windsor BR Bobba & Rajesh
+2194,Chanhassen ML McKinney & Lynch
+2195,Miramonte CG Carlson & Grosso
+2196,Quarry Lane QP Quintal & Peddamallu
+2197,Montgomery Blair DS Dey & Santhoshkumar
+2198,Helix Charter GH Garcia & Hammack
+2199,Riverwood DL Devineni & Lerner
+2200,Livingston DC Chen & Desai
+2201,West Windsor CH Chovatia & Hu
+2202,Cary High SP Salgado & Poduval
+2203,Sharon YW Yang & Wu
+2204,West Windsor AS Anandraj & Subramanian
+2205,Centen LR Lytle & Rush
+2206,Folsom MS Mohamed & Sankar
+2207,Bronx HS Of Science NN Njoku & Nan
+2208,Scarsdale DY Dhaliwal & Yang
+2209,Lincoln North Star VM Villa-Huerta & Meints
+2210,Sahuaro HM Hughes & Mueller
+2211,Parks & Jiwani
+2212,Coppell PP Peddireddy & Panda
+2213,Elfarr & Embry
+2214,Lincoln East NK Nooka & Kadubandi
+2215,Lakeville South GN Gajjela & Nomeland
+2216,St. John's SS Sweeney & Schwalm
+2217,Chapin ZB Zubatov & Brooker
+2218,Torrey Pines FL Feng & Lee
+2219,Lincoln-Sudbury Regional BK Bensley & Klinger
+2220,Millard North IY Ikramullah & Yadav
+2221,Lexington SC Sun & Choi
+2222,Kota & Baxter
+2223,Lexington LG Loeb & Gordon
+2224,Mission San Jose WF Wadhera & Fu
+2225,Spence GR Gould & Reid
+2226,Harrisburg CP Culp & Peschke
+2227,Timothy Christian GR Riyad & George
+2228,Stuyvesant AW Albert Wan
+2229,West LL Liao & Luo
+2230,Stratford WX Wang & Xu
+2231,West Windsor XS Xie & Subramanian
+2232,Apex Friendship CH Chabaneix & Heintz
+2233,North Allegheny Sr BZ Beriwal & Zhou
+2234,Mission San Jose BB Bati & Bommana
+2235,Brophy SZ Schillinger & Zonn
+2236,ParCit MH Miller & Howard
+2237,Newton North FS Sun & Farrar
+2238,Coppell KN Kumar & Narayanan
+2239,Lakeland MC Makajhani & Chisolhm
+2240,Chelmsford SV Sharma & Voloboi
+2241,Oakwood School - North Hollywood LS Sugerman & Light Rake
+2242,Langham Creek TE Trevino & Ezell
+2243,Brophy Riley Oldani & Carl Justice Justice & Oldani
+2244,Walt Whitman RV Rosenstein & Villani
+2245,North Attleboro MR Masek & Rajadurai
+2246,St Francis AP Aoun & Petree
+2247,Ames SD Swamy & Dilusso
+2248,Fairmont Prep HI Hong & Idnani
+2249,Roosevelt RR Ramirez & Rodriguez
+2250,Leland FS Fang & Shao
+2251,Davidson Academy Of Nevada MW Mills & Williams
+2252,Plano East Senior MH Mattingly & Hardy
+2253,Plano Senior MS Mahendra & Stark
+2254,Los Altos HH Howard & Hwang
+2255,Southeast Polk TR Treadway & Raasch
+2256,Johnston Wu & Shrestha Wu & Shrestha
+2257,Campbell Hall Oliver Pozil & Matlock Grossman Pozil & Grossman
+2258,Harker AI Awais & Irrinki
+2259,Bishop O'Dowd BD Burlingham & Dhar
+2260,Damien LT Lao & Tolentino
+2261,Oakwood School - North Hollywood BG Brown & Grinberg
+2262,Blake Enebo & Florida Enebo & Florida
+2263,Providence PY Phoenix-Flood & Yochem
+2264,Los Altos JP Jin & Pan
+2265,Taipei American CK Kao & Chow
+2266,Holy Cross JR Johnson & Rouege
+2267,Edgemont MW Wang & Masan
+2268,Bard HS Early College Queens FO Farber & Ozdemir
+2269,Boston Latin WB Wu & Berman-Reinhardt
+2270,Olympia IN Iyengar & Nishizono
+2271,Wang & Dozier
+2272,Timber HM Hagge & Manibusan
+2273,Madison West CN Cohen & Noguera
+2274,Regis BG Barone & Gural
+2275,Tucson KL Kyer & Lessie
+2276,Amador Valley XY Xu & Ying
+2277,West Windsor KD Krishnan & Das
+2278,Richard Montgomery NS Nazare & Shao
+2279,Eastview GV Guttipatti & Vij
+2280,Starrs Mill BM Biddle & Mapel
+2281,Lexington BX Brand & Xiao
+2282,Evanston Twp CL Coyle & Lettiere-Roberts
+2283,Belvidere North SM Shelton & Milles
+2284,Quarry Lane NR Ramanathan & Nellian
+2285,Cary High DP Dinn & Puranik
+2286,Ft Lauderdale BM Botknecht & Medrano
+2287,Lincoln Southeast RQ Rinne & Quach
+2288,Williams & Bisone
+2289,RidHS BiSa Bini & Santangelo
+2290,Rebello & Clark
+2291,William Fremd SW Sriram & Wu
+2292,American FN Fu & Neti
+2293,Independence SK Shashidhar & King
+2294,Joaquin Miller RP Rajadnya & Pota
+2295,Shrewsbury HC Hyland & Costa
+2296,Folsom JK Jacob & Kaushik
+2297,Washington BE Banouvong & Escalante
+2298,BASIS Phoenix PH Prakash & Hausleitner
+2299,Fargo Shanley GO Grimestad & Oschner
+2300,Wayland YH Yu & Hwang
+2301,Princeton GD Gu & Dodge
+2302,West Bend GK Granec & Kreuser
+2303,Truman HR Hauber & Ruiz
+2304,Stoneman Douglas RL Rabenbauer & Lapidot
+2305,Montville BL Baynes & Liu
+2306,Cherry Creek FM Flanigan & Marians
+2307,Bridgewater Raritan SQ Sarabudla & Qui
+2308,Advanced Technologies Acad Paola Alvarez & Timothy-Matthew Lim Alvarez & Lim
+2309,Poly Prep Country Day LW Leduc & Wright
+2310,Stuyvesant CP Contreras & Purohit
+2311,Strake Jesuit College Prep AS Abrell & Sexton
+2312,Overland HS Hiatt & Saeed
+2313,Langley PS Pei & Sabir
+2314,Scarsdale MT Musoff & Tang
+2315,Byram Hills KZ Khan & Zeng
+2316,Fairmont Prep BY Bui & Yang
+2317,Los Altos JR Jain & Ram
+2318,Oak Park and River Forest McKinney & Carson McKinney & Carson
+2319,Berkeley Carroll HH Horowitz & Herzberg
+2320,Archbishop McCarthy OA Ong & Anthappan
+2321,Evanston Twp Johnson & Ward Johnson & Ward
+2322,East JV Velazquez & Jackson
+2323,Roslyn LK Lenson & Katz
+2324,Skyridge Dakota Dorius & Reagan Plewe Dorius & Plewe
+2325,Walt Whitman XW Xiong & Wu
+2326,Durham SP Schulz & Preble
+2327,Lexington SW Seo & Weber
+2328,Green Valley HG Hussain & Gildore
+2329,Apex Friendship LK Lacasse & Kacher
+2330,Lexington WC Weber & Chen
+2331,Keller PK Phillips & Kayser
+2332,Buchholz HG Hoang & Garner
+2333,Downingtown STEM NH Narayanamangalam & Harper
+2334,Beacon KS Kaplan & Stuard
+2335,Monta Vista ZS Zhang & Saha
+2336,Geneva School Of Boerne HS Hardin & Scott
+2337,Dobyns Bennett CL Chastain & Loo
+2338,Ravenwood WN Wilkinson & Nicastro
+2339,George Ranch CH Chen & Hoskins
+2340,Midwood SC Casero & Salem
+2341,St Mary's Hall RT Reyna & Talukdar
+2342,Schreiber KR Kerpen & Ruskin
+2343,Advanced Technologies Acad IL Im & Li
+2344,Sky View HM Harris & Meikle
+2345,James Madison Memorial GV Golkonda & Voichick
+2346,Salpointe Catholic Karla Astiazaran & Alison Bonn Astiazaran & Bonn
+2347,Salem (Salem) DB DeHaven & Baker
+2348,Strake Jesuit College Prep XA Xie & Ascher
+2349,Freehold Township SG Surasani & Galiano
+2350,RidHS KY Korolov & Yesil
+2351,Eastview CS Chatterjee & Saravanapandi
+2352,Gundamaraju & Arra
+2353,Bridgewater Raritan AbRa Abdelkader & Rao
+2354,St Thomas Aquinas DB Dominguez & Branciforte
+2355,Amador Valley LW Lo & Wong
+2356,Shepton TK Tirandaz & Kholy
+2357,Spence DS Davis & Singer
+2358,Henry W Grady RS Robison & Stegelman
+2359,North Broward Prep LM Manis & Laub
+2360,Hamilton AZ Akavarapu & Zhou
+2361,Presentation SP Shah & Pawar
+2362,Joaquin Miller GS Grover & Sun
+2363,Millard North Zhong & Radicia Radicia & Zhong
+2364,Bromfield NR Nash & Ramakrishnan
+2365,Waring KM Kautz & Malley
+2366,Jack Britt GG Gibson Jr & Griffing
+2367,Nova TC Tatiana Comeau
+2368,Saenz & Langston
+2369,North Broward Prep AC Ameen & Cooper
+2370,West Windsor WK Williams-Bey & Khurana
+2371,Bard HS Early College Manhattan WE Eastwood & Widman
+2372,Altamont SC Sultan & Coleman
+2373,Leland KL Liu & Krishnan
+2374,St Francis BV Bhardwaj & Vajrala
+2375,St. John's CK Chakladar & Kukreja
+2376,Walt Whitman SL Shami & Lesser
+2377,Lakeville South CN Cook & Norcia
+2378,Boca Raton PP Piechota & Ponters
+2379,Union Catholic DJ D'Aleo & Jacus
+2380,Potomac AE Adams & Evans
+2381,Quarry Lane OG Oswal & goel
+2382,Fairmont Prep LT Loyo & Takeuchi
+2383,Thomas S. Wootton CS Chai & Sanyal
+2384,Cary WM Williams & McCallum
+2385,Belen Jesuit Prep BC Bjorkman & Caballero
+2386,Lynbrook UM Uriarte & Manikonda
+2387,Mira Loma MM Menaa & Menaa
+2388,Montville SF Sinha & Feng
+2389,Albuquerque CM Carroll & Myers
+2390,Homewood-Flossmoor ST Sloss & Thompson
+2391,Livingston CL Chakraborty & Liang
+2392,Wayland LS Luo & Scherz
+2393,Prosper CC Cox & Culpepper
+2394,Brentwood RN Rose & Nayagadurai
+2395,Milpitas BY Bi & Yeap
+2396,Pembroke Pines Charter AA Ali & Andre
+2397,Jack Britt ES Ellis & Smith
+2398,Amador Valley RM Rangan & malik
+2399,Hamilton SP Sypher & Powell
+2400,West Des Moines Valley PM Mang & Perez
+2401,Madison West PR Patankar & Ronk
+2402,Damien Charles Baggarly & Logan Salabaj Baggarly & Salabaj
+2403,BASIS Scottsdale LS Lu & Sahnan
+2404,Oakton CC Chiao & Chen
+2405,Thomas S. Wootton MS Mu & Shivaprasad
+2406,Potomac CG Chai & Gupta
+2407,Newton South CW Wu & Chae
+2408,Johnston AN Akakpo & Nyaga
+2409,Beacon MM Macken & Milburn
+2410,Poly Prep Country Day HD Humes & Dey Meyer
+2411,Spence KM Khanal & Michielson
+2412,Eastview AA Alapati & Addagudi
+2413,Riverdale Country BM Beal & Moller
+2414,James Logan DG Donthi & Ganesh
+2415,Hockaday YS Yung & Sands
+2416,Marian BO Birkel & Olson
+2417,Mountain House LA Ahmed & Lakkoju
+2418,West Des Moines Valley Perez & Perez Perez & Perez
+2419,Edina GH Garimella & Hardie
+2420,Wilmington Charter PW Pandit & Wang
+2421,Manchester Essex SV Swanson & Vytopil
+2422,BASIS Scottsdale CZ Clarke & Zou
+2423,Los Altos DE Dhanotra & Eckinger
+2424,Jenks AY Arlan & Yousufi
+2425,St. John's ShDi Sheth & Divi
+2426,Yukon CB Chavira & Bussett
+2427,Naidoo & Sheth
+2428,Yukon DC Dobbs & Cowns
+2429,Fairmont Prep TB Tien & Bui
+2430,Evergreen Valley SP Shirol & Palleti
+2431,LC Anderson BR Brinkmann & Rogers
+2432,Eagan HL Hedeman & Li
+2433,Copper Hills HR Howell & Rowell
+2434,Bingham SS Soper & Summers
+2435,Bingha HG Howell & Gedge
+2436,Half Hollow Hills HS East LP Li & Patel
+2437,Lovejoy KC Kim & Carll
+2438,Gilbert Classical MH Maro & Hong
+2439,Arizona College Prep - Erie Campus RN Rivera & Nimbkar
+2440,Randolph WW Ward & Wu
+2441,SandHoke Early AD Alexander & Daniels
+2442,Gunn Sr ST Smith & Taylor
+2443,Trinity LC Lathen & Cross
+2444,Snohomish KD Kim & DeCracker
+2445,Stockdale BJ Bergeson & Johnson
+2446,McMinnville HP Hawkins & Pollak
+2447,Lex KM Karim & Moogala
+2448,Marriotts Ridge HN He & Nayak
+2449,Byram Hills BC Baquero & Canter
+2450,Cherry Creek BM Barun & Mathy
+2451,Al-Noor SA Sadeia & Akl
+2452,Hawken CS Culver & Sanaka
+2453,RowHal PG Polishchuk & Goh
+2454,Timothy Christian HA Ayoub & Hausheer
+2455,Union Catholic BM Blouin & Monahan
+2456,Harker SC Sudarsaman & Chen
+2457,Lynbrook ZA Zhao & Ambati
+2458,Houston Memorial YM Yu & Maharana
+2459,Newtown KD Kennel & Desousa
+2460,Spence XP Xenopolous & Parker
+2461,Baton Rouge Magnet SN Sheehan-Dean & Neubrander
+2462,Mountain Brook SH Simonton & Hitson
+2463,College Prep CW Chung & Wilcox-Black
+2464,Milpitas PH Pirta & Hardasani
+2465,Mountain Brook BW Butrus & Wood
+2466,Poly Prep Country Day RM Rothermel & Meyer
+2467,Milpitas PD Pirta & Do
+2468,Chan & Nath
+2469,Monte Vista SK Shabbir & Kuwahara
+2470,Braddock VO Velasquez & Orta
+2471,Joaquin Miller LS Lakkapragada & Shah
+2472,Henry W Grady DP Downes & Poss
+2473,Leland ZW Zhu & Wu
+2474,Cherry Creek AC Albada & Christianson
+2475,Duchesne Academy of the Sacred Heart DB Duarte & Blanton
+2476,St Thomas Aquinas CB Cohen & Brugger
+2477,State WL Wang & Liu
+2478,Wheatley JJ Jain & Jain
+2479,Davis Senior LP Lee & Park
+2480,Oxbridge Academy of the Palm Beaches GJ Givone & Jakee
+2481,Bard HS Early College Manhattan WR Wong & Reilly
+2482,Blake HM Heathcote & Mohan
+2483,Lincoln Southwest SP Schwensen & Petersen
+2484,Cook & Keck
+2485,Archbishop McCarthy LS Laguna & Storey
+2486,Spence KS Kagen & Solomon
+2487,American GN Gantla & Nagaram
+2488,College Prep CG Chen & Gupta
+2489,Stuyvesant LR Lupea & Rajoria
+2490,Strake Jesuit College Prep NN Nuzzo & Nguyen
+2491,Oxbridge Academy of the Palm Beaches MH McKenna & Hoffman
+2492,University PM Miranda & Paik
+2493,Poly Prep Country Day DM Dey Meyer & Meyer
+2494,Saratoga WC Walia & Chakravarthi
+2495,Mayers & Hoskins
+2496,Sky View NM Natasha Moore
+2497,American Heritage Boca/Delray DL Deford & Louis
+2498,Gulliver Prep CD Carvalho & Derlon
+2499,Montgomery Blair TZ Tang & Zhang
+2500,West CB Chackalackal & Bharanidhar
+2501,Carrollton RW Rowe & Wheeler
+2502,Waring DC Carraher-Kang & Durning
+2503,Delbarton CS Cho & Szymanski
+2504,Uppuluri & Shaik
+2505,Lynbrook SM Suresh & Ma
+2506,Medina Senior RS Rodriguez & Steffen
+2507,Newton North SaDu Sapers-Sydney & Dun-Rappaport
+2508,Dalton RF Ramirez & Fernandez
+2509,William Fremd MK Mercado & Kim
+2510,West Windsor AR Athreya & Rajesh
+2511,Madison West CJ Cohen & Joshi
+2512,Horace Mann BP Binnmyr & Paulson
+2513,St Francis PN Nair & Patel
+2514,Millard North PT Poore & Tadiparthi
+2515,Oxbridge Academy of the Palm Beaches CS Coates & Simmonds
+2516,Byram Hills YB Youngblood & Barry
+2517,Albuquerque AJ Awwad & Raye Myers Awwad & Myers
+2518,Ottumwa SS Shaw & Swarney
+2519,Mollhagen & Williams
+2520,Rowland Hall Gosha Polishchuk & Zoey Sheinberg sPolishchuk & Sheinberg
+2521,MouVie DH Denny & Hanson
+2522,Skyridge Jack Hillman & Kailee Tea Hillman & Tea
+2523,Charlotte Catholic DM DiVittorio & McKane
+2524,SF Roosevelt JL Johnson & Loera
+2525,Heintz & Mullin
+2526,Ames HP Hu & Paudyal
+2527,Johnston CM Chen & Mandava
+2528,SF Roosevelt CH Campbell & Howard
+2529,Newburgh Free EK Eliadis & Karwan
+2530,Ottumwa AC Anderson & Connery
+2531,BASIS Scottsdale BR Burt & Rajaboina
+2532,Southern Lehigh TY Tesche & Yazdanyar
+2533,Archbishop Mitty JB Johnson & Bhat
+2534,Woodcreek GH Goetzel & Hall
+2535,Woodlands KS Kamykowski & Saleh
+2536,Western LK Love & Kapp
+2537,Hunter CZ Cui & Zhang
+2538,Riverdale Country LN Luskin & Neuwirth
+2539,Fairmont Prep PB Patel & Bhagavatula
+2540,Southern Lehigh NW Nagy & Woods
+2541,Bromfield YK Yu & Kumarasinghe
+2542,American Heritage Plantation CW Chan & Wong
+2543,Mira Loma CG Chinthada & Gokul
+2544,Walt Whitman LM Lesser & McGuire
+2545,Baer & Baer
+2546,Cary HA Han & Atieh
+2547,Monta Vista GS Gopalasetty & So
+2548,SLCWes ChHo Chalapathi & Hoffmann
+2549,Taipei American TL Tang & Lee
+2550,Mission San Jose PD Patel & Dharanipragada
+2551,Capitol BK Buckley & Knickrehm
+2552,DuPont Manual KS Kale & Shah
+2553,Potomac LW Lo & Westlund
+2554,Bard HS Early College Queens NM Nassau & Mesa
+2555,Albuquerque VT Viets & Thomas
+2556,Hassen & Calvillo
+2557,Milpitas SV Sharma & Vaidyanathan
+2558,Riverdale Country SS Schlesinger & Shpilrain
+2559,Ransom Everglades MD Murphy & Dill
+2560,West Des Moines Valley PO Perez & Ortiz
+2561,Castillo & Salazar
+2562,Davis & Gonzalez
+2563,Riverdale Country SF Soleymani & Fassberg
+2564,West SP Shah & Pinter
+2565,Belmont TL Taggart & Lehmann
+2566,Woodgrove K Edwards & Kostal
+2567,Omaha North Magnet BG Bostwick & Gibbons Jr.
+2568,Lake Oswego Senior YM Yang & Murray
+2569,Sequoyah AA Ambriz & Ambriz
+2570,Andover SV Slavik & Voge
+2571,Fairmont Prep SY Shin & Yang
+2572,Syosset LS Lee & Schwartzberg
+2573,Belmont PL Park & La Roche
+2574,Ft Lauderdale QE Quinlan & Edwards
+2575,Creighton Prep WR Wright & Roberts
+2576,BASIS Chandler KR Kumar & Raka
+2577,Brentwood TM Thanigaivelan & Mohamed
+2578,Manchester Essex VB Vytopil & Bikreland
+2579,St Thomas Aquinas LD Ley & Davis
+2580,Seven Lakes NS Neelala & Srivastava
+2581,Trinity AB Adhikari & Bendersky
+2582,Cherry Creek ZH Zhou & Huang
+2583,Packer Collegiate Institute WY Weisberg & Yohn
+2584,Byron Nelson HB Harmon & Bogar
+2585,SkyVie AD Apgood & Dayton
+2586,Monta Vista LN Lin & Nayak
+2587,Wilmington Charter LG Li & Gu
+2588,Bishop O'Dowd BB Broderick & Blake
+2589,Newtown RB Bertsche & Richard
+2590,Miami Beach Sr GG Gaynor & Gaynor
+2591,Millard North LB Lele & Bribiesca
+2592,Harker VH Vodinh-Ho & Han
+2593,Taipei American MR Mor & Ryoo
+2594,Livingston YR Raj & Yiu
+2595,Skyridge Ashley Bernardi & Cozette Rogers Bernardi & Rogers
+2596,Theodore Roosevelt PU Page & Ubadigbo
+2597,Timothy Christian BA Bandela & Ayoub
+2598,Timothy Christian HL Li & Hausheer
+2599,Cranbrook BT Berger & Topf
+2600,Golden State GY Gupta & Yuan
+2601,Lake Mary DC Delgado & Casey
+2602,West Des Moines Valley Jones & Samaniego Jones & Samaniego
+2603,Quarry Lane SN Nellian & Saini
+2604,Monticello MF Matulewich & Fields
+2605,Munster MB Mardyla & Biestek
+2606,Harker BH Bhasin & Hoang
+2607,MouVie PS Paul & Spaulding
+2608,Madison West GK Grabois & Kissel
+2609,Nightingale Bamford SR Sklar & Rodriguez
+2610,St. Joseph's Prep WR Ward & Ruggiero
+2611,Hebron AK Ali & Kauffman
+2612,Fairview TG Totey & Gorokhovsky
+2613,SkyVie LK Larsen & Kim
+2614,Oxbridge Academy of the Palm Beaches SN Sadati & Neligan
+2615,Madison West CR Chakraborty & Ronk
+2616,Grand County CH Corbin & Hickman
+2617,Fargo Shanley BW Bowden & Winkleman
+2618,Myers Park BL Bolt & Lamberson
+2619,Sky View CS Clark & Smiel
+2620,Lakeville SN Sciamanda & Nenneman
+2621,SF Roosevelt LM Loera & Moshoeshoe
+2622,Newtown SC Spies & Child
+2623,Randolph DT Das & Tan
+2624,Lincoln Southeast MC Moss & Chasek
+2625,Success Academy Manhattan GM Grannis & Moskowitz
+2626,Bettendorf HS Hamilton & Seybert
+2627,Henry W Grady PD Poss & Damiani
+2628,Milpitas GG Garg & Gulati
+2629,Saratoga CB Chen & Bai
+2630,Schreiber CL Chang & Lyman
+2631,Fairview DB Dayan & Buyoung Kim
+2632,Walt Whitman SR Steighner & Reddy
+2633,Lake Mary CW Cabrera & Weger
+2634,Quarry Lane AQ Anand & Quintal
+2635,Columbus BC Barnes & Choudhury
+2636,Flintridge Sacred Heart KJ Kalaw & Jiang
+2637,Torrey Pines HC Hwang & Chakrabarti
+2638,Davidson Academy Of Nevada KY Krishnan & Yanamadula
+2639,Blair AH Affron & Hess
+2640,Carrollton LP Lopez-Miranda & Penley
+2641,Palo Verde FO Franco & Olson
+2642,Paul J Hagerty HO Haley & Oakman
+2643,George Washington RH Rex & Holleman
+2644,West Des Moines Valley BC Browder & Conklin
+2645,Phoenix Country Day KS Korer & Singer
+2646,Mira Loma AG Akkati & Gokul
+2647,Northwest GG Grimm & Grice
+2648,West Bend SW Saini & Wichlacz
+2649,SpeakFirst DC Dorsey & Caldwell
+2650,Los Altos TH Tran & Hong
+2651,Abington Heights CW Chen & Weinberg
+2652,St Thomas Aquinas SJ Staiger & Juskiewicz
+2653,Carrollton BB Berzsenyi & Bohannon
+2654,Fairview GH Gupta & Hofgard
+2655,West Windsor SP Samuel & Patel
+2656,American Heritage Boca/Delray KI Kulberg & Iyer
+2657,Sequoyah KL Kirby & Luedke
+2658,Spence LR Lewis & Reid
+2659,Oxbridge Academy of the Palm Beaches SV Sadati & Vaughan Williams
+2660,Homewood-Flossmoor MN McKillip & Nash
+2661,Skyridge Jaron Heaps & Skyler Simpson Heaps & Simpson
+2662,Henry W Grady TR Tanner & Rentz-Baker
+2663,Denver East BS Burton & Sanchez
+2664,CopHil OC Connelly & Oliveros
+2665,Cupertino TC Tan & Chawla
+2666,Union Catholic HW Hunsinger & Wright
+2667,Summit HN Hawkins & Noble
+2668,Bingha CJ Clarke & Jessop
+2669,Northridge KB Klopfenstein & Bahena
+2670,Bawani & Siddiqui
+2671,Chaminade VM Vastola & McGlynn
+2672,George Ranch AP Ali & Parks
+2673,Copper Hills WO Wall & Oliveros
+2674,Hinsdale Central Independent JR Jejurikar & Razi
+2675,ParCit GJ Gilbert & Johnson
+2676,Immaculata La Salle CM Camacho & Medina
+2677,Newburgh Free ZJ Zylberberg & jaffari
+2678,Cupertino SK Song & Kotni
+2679,Skyridge Jacob McConnell & Meilan Stuy McConnell & Stuy
+2680,Walt Whitman VC Varner & Corbin
+2681,Archbishop McCarthy EG Egues & Garcia
+2682,Amador Valley WK Wang & Kapse
+2683,Folsom IM Mentzer & Isanaka
+2684,Valley International Prep CA Craymer & Adelstein
+2685,North Mecklenburg BR Barton & Raj
+2686,Timothy Christian LS Luo & Shang
+2687,Newton North WW Wright & Wright
+2688,Oakwood School - North Hollywood GW George & Weiner
+2689,Bloomington Jefferson BS Bishop & Siewert
+2690,Harrisburg CK Corcoran & King
+2691,JR Masterman NL Nolan & Le
+2692,Bentonville ES Ellis & Sonner
+2693,Nightingale Bamford IL Ireland & Lee
+2694,Cherry Creek CQ Clark & Quarles
+2695,Canyon Crest YK Yue & Kuang
+2696,American Prep TH Tran & Henriquez Mora
+2697,Oak Grove KM Karthik & Miao
+2698,Maret HN Hartman & Norton
+2699,Madison West CS Cohen & Sidney
+2700,Rancho ST Summers & Tressler
+2701,QuaLan SK Saini & Kodnad
+2702,JR Masterman EC El-Morsey & Chen
+2703,Oak Park and River Forest MS McKinney & Sidime
+2704,Pine View PV Park & Valery
+2705,Amador Valley DD Day & Day
+2706,CK McClatchy AA Abramsky-Sze & Ang-Olson
+2707,Newton North MaPe Mark & Petrulakis
+2708,Quarry Lane PP Pamula & Peddamallu
+2709,Harker GL Goyal & Li
+2710,Lake Mary EM Elwell & Mohammed
+2711,BASIS Scottsdale KK Kitayama & Kosuru
+2712,Torrey Pines GL Gouvalaris & Lee
+2713,Overland AD Ahmed & Dart
+2714,Newtown SD Spies & Dolan
+2715,Maple Grove AG Ali & Golakoti
+2716,Saratoga VH Haque & Venkatram
+2717,Legacy WR Wells & Rozak
+2718,DuPont Manual BL Babu & Liu
+2719,Logan BM Broadhurst & Madden
+2720,Duluth East HW Huber & White
+2721,Austin SFA SY Survis & Yates
+2722,Scarsdale DE Dhuri & Epstein
+2723,Poly Prep Country Day HW Humes & Williams
+2724,Shrewsbury RW Rajagopalan & Wu
+2725,Monta Vista KA Kumar & Agrawal
+2726,Cosby MC Merkel & Culley
+2727,Mira Loma DC Dizon & Cannon
+2728,Livingston HC Hall & Chakraborty
+2729,Riverside GB Gramopadhye & Bafna
+2730,Golden State GG Gupta & Garg
+2731,Yucaipa PM Pearson & Mendoza
+2732,JR Masterman MC Miller & Cooperman
+2733,Spence WW Walsh & Waterman
+2734,Milpitas CI Chiang & Iqbal
+2735,Valley LL Landazuri & Landazuri
+2736,Brown & Garza
+2737,Bishop O'Dowd JiMe Jiang & Mette
+2738,James Madison Memorial FL Faliski & Liu
+2739,Southeast Polk BJ Boozell & Johnstad
+2740,Torrey Pines KH Kwon & Hyun
+2741,Mountain Brook SF Short & Finch
+2742,Beacon KK Kolvenbach & Kolvenbach
+2743,Interl LV Lingam & Venkatapathy
+2744,Northridge DB Drew & Bray
+2745,Walt Whitman RS Reddy & Swistak
+2746,Dalton RF Ramirez & Freitag
+2747,Mountain Brook DK Darden & Kinderman
+2748,Saratoga XK Koog & Xiao
+2749,Brentwood TaMe Talati & Memon
+2750,Northridge CF Cantwell & Farner
+2751,Mission San Jose DS Daggolu & Singh
+2752,Woodgrove KS Khan & Smith
+2753,Cardinal Newman FL Lunden & Faber
+2754,Cherry Creek TL Tsybulskiy & LeFebre
+2755,Morristown West NH Noe & Howard
+2756,St Thomas Aquinas GE Gates & Escobar
+2757,Pine View GA Gray & Allen
+2758,West Orange IS Ibarra & Sanford
+2759,Lynbrook SV Sivakumar & Viswanathan
+2760,Ardrey Kell CY Chaturvedi & Yasin
+2761,Flower Mound CH Croxton & Harried
+2762,Freehold Township SD Doshi & Surasani
+2763,Cherry Creek DR de Bastos & Ring
+2764,Champion SS Sinha & Singh
+2765,Delbarton SK St. John & Kraft
+2766,Lakeland GS Gewida & Sarcone
+2767,Timothy Christian OH Oduro & Hausheer
+2768,Union Catholic FP Farrell & Perona
+2769,Gunn SS Sinha & Susbilla
+2770,Wayland HR Harvey & Ryu
+2771,Newtown SH Spies & Huffman
+2772,Poly Prep Country Day LP Leduc & Perry
+2773,Montgomery Blair DZ Dong & Zhang
+2774,JR Masterman YB Yagawara & Bellacosa
+2775,George Washington CE Clarke & Emerson
+2776,Marist NL Nahas & Langner
+2777,Scarsdale BR Bansal & Rosewater
+2778,Lake Mary CaMi Cayado & Milliard
+2779,Desert Oasis VH Vecchione & Hussen
+2780,Torrey Pines AL Ai & Li
+2781,CR North PS Proulx & Sinha
+2782,St. Joseph's Prep KM Massaua & Kallmeyer
+2783,Chaminade GD Germano & Dobert
+2784,Evergreen Valley KL Kar & Luo
+2785,Half Hollow Hills HS East JK Joseph & Kampta
+2786,Mountain Brook AB Allen & Beck
+2787,Lakeland SoSt Sommarriba & Sternagel
+2788,CK McClatchy HL Hemeseth & Lin
+2789,College Prep TB Tetsu & Badjatia
+2790,John F. Kennedy MM Meyer & Miller
+2791,Walt Whitman HM Haber & McGuire
+2792,Mountain Brook BA Battle & Allen
+2793,Helix Charter GR Garcia & Romo
+2794,Monta Vista WB Wadhwa & Banakar
+2795,Stoneman Douglas TA Tam & Ali
+2796,Oxbridge Academy of the Palm Beaches MK Koeppel & Murray
+2797,Canyon Crest Independent NZ Nasar & Zhai
+2798,Lake Mary CH Cabrera & Hochfelder
+2799,Duluth East AO Amundsen & Olson
+2800,Desert Oasis PE Pelas & Evangelista
+2801,Roslyn CM Chapman & Matarangas
+2802,Lake Mary CM Casey & Milliard
+2803,Collegiate MJ Mukherji & Jin
+2804,Rancho CS Ciotti & Suara
+2805,Logan LB Liu & Bowman
+2806,Lincoln BC Baird & Cederberg
+2807,City College Academy of the Arts BM Barua & Mahmood
+2808,Orange County Independent AM Ansari & Miranda
+2809,Palisade KM King & Menon
+2810,Houston Memorial YL Yu & Li
+2811,Lexington CM Craver & Mallikarjun
+2812,Los Altos SB Sartori & Bollu
+2813,La Costa Canyon MB Mitchell & Boyd
+2814,College Prep GT Gupta & Tetsu
+2815,Aspen GP Gonzalez & Pattillo
+2816,West Windsor ZN Zhang & Narayanan
+2817,Lexington CC Chandrashekar & Choi
+2818,Monticello VP Pacifico & Varughese
+2819,Oxbridge Academy of the Palm Beaches TC Tarone & Coates
+2820,Princeton ChKi Cheng & Kim
+2821,STRIVE Prep - RISE JQ Jimenez-Armenta & Quintana
+2822,Hinsdale Central BC Brownell & Castellon
+2823,Flintridge Sacred Heart NH Na & Hernandez
+2824,Flintridge Sacred Heart GZ Gong & Zhang
+2825,Summit YR Yuen & Ramachandran
+2826,Maret BB Betts & Brown
+2827,Johnston SA Srivastava & Anderson
+2828,Morristown West CS Case & Sheedlo
+2829,Brophy CP SO Sadegi & Oldani
+2830,Clayton-Bradley AC Anderson & Camacho
+2831,Bard HS Early College Queens MO Mahler & Ozdemir
+2832,Hinsdale Central KS Khan & Singhal
+2833,Bloomington Jefferson MM Maki & Matias
+2834,Newburgh Free MW Murphy & Weaver
+2835,Newtown SH Sousa & Huffman
+2836,CR North KiSi Kim & Sitapara
+2837,Harker VC Chen & Vodinh-Ho
+2838,Lakeland HC Home & Coen
+2839,Strath Haven KZ Kaukuntla & Zheng
+2840,Manchester Essex OM Mittermaeir & O'Hara
+2841,Manchester Essex TB Taylor & Birkeland
+2842,CR North KeSi Kelly & Sitapara
+2843,Chelmsford KP Krishnaswamy & Parameswaran
+2844,SF Roosevelt JV Johnson & VanBemmel
+2845,Carrollton RP Rogers & Penley
+2846,Oxbridge Academy of the Palm Beaches VS Vaughan Williams & Sadati
+2847,Richard Montgomery CX Choi & Xie
+2848,Manchester Essex OV O'Grady & Vytopil
+2849,Poly Prep Country Day WD Wright & Darmon
+2850,Charles W Flanagan NM Nadeem & Mahtani
+2851,Cranbrook GR Ghilezan & Richie
+2852,American Prep DR de Jesus & Rice
+2853,Bard HS Early College Queens DH Dartley & Hefland
+2854,CR North MP Meara & Panangadan
+2855,Homewood-Flossmoor BW Billups & Waddell
+2856,Union Catholic JK Julve & Kwiatkowski
+2857,Al-Noor AK Allam & Khan
+2858,Bloomington Jefferson RW Ranzau & Warsame
+2859,Mira Loma BJ Bansal & Jayananth
+2860,Saratoga VS Venkatram & Singh
+2861,Fairmont Prep JS Jansen & Shivade
+2862,Clayton-Bradley CaCa Camacho & Camacho
+2863,Harker PlCh Pluzhnikov & Chen
+2864,Manchester Essex BS Smith & Birkeland
+2865,Haverford YA Yang & Aggarwal
+2866,Lake Mary DF Dembrak & Furlong
+2867,Fox Chapel Area BH Boychuk & Hitchens
+2868,Newburgh Free TP Tigar & Patel
+2869,Torrey Pines CP Choy & Peng
+2870,Bloomington Jefferson LP Loken & Pham
+2871,Rowland Hall KZ Kimball & Zeng
+2872,Tucson MM Martin & Matheson
+2873,Immaculata La Salle AS Alaimo & Smith
+2874,Newburgh Free MS Stewart & Morabito
+2875,Oxbridge Academy of the Palm Beaches CH Casey & Hoffman
+2876,Fox Chapel Area MV Veser & Monroe
+2877,Abington Heights TS Tserorski & Sullivan
+2878,Chaska CP Chiang & Pool
+2879,Layton EC Elinkowski & Caito
+2880,Bromfield AK Atwell & Khurana
+2881,Oak Park and River Forest PC Carson & Pascarella
+2882,Fairmont Prep YL Yang & Lewis
+2883,Westborough KG Karthick & Gangopadhyay
+2884,Lynbrook AS Araveeti & Sun
+2885,McDowell BK Brobst & Kaleta
+2886,Harker KH Han & Khan
+2887,Woodrow Wilson OF Fuld & O'Brien
+2888,Harker NV Variyar & Nishimura
+2889,Lincoln GJ Gordon & Johnson
+2890,Lynbrook AnAr Anand & Arokiaraj
+2891,Braddock BD Banos & Duranza
+2892,Spence WM Walsh & Michielson
+2893,Monticello AT Alden & Travis
+2894,Homewood-Flossmoor AV Austin & Vann
+2895,Monticello LY Leoniuk & Yewchuck
+2896,James Madison Memorial GS Ganesan & Sathish
+2897,Manchester Essex CF Carvalho & Fitzgibbon
