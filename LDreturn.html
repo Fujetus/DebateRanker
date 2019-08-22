@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DebateWatch</title>
+    <STYLE type="text/css">
+          ol { list-style-type: none }
+
+     </STYLE>
+</head>
+<body>
+
+    <h1>{{ name1 }} {{ name2 }} Performance Statistics</h1>
+
+    <font size="5" color="black">W-L: {{ win_percentage }} % ({{ w_l }})</font>
+    <br />
+    <font size="5" color="black">Prelim Win Percentage: {{ prelim_percentage }} % ({{ prelim_record }})</font>
+    <br />
+    <font size="5" color="black">Outround Win Percentage: {{ outround_percentage }} % ({{ outround_record }})</font>
+    <br />
+    <font size="5" color="black">Break Percentage: {{ break_percentage }} % ({{ breaks }})</font>
+    <br />
+
+        <br />
+
+    <ol>
+        {%for i in range(0, len)%}
+        <br />
+        <br />
+        <font  size="5" color="black"><li> <a href={{tournament_url[i]}}>{{tournament_storage[i]}}:</a>  </li></font>
+        <br />
+        <br />
+        <font  size="5" color="black"><li>{{results_storage[i]}}</li></font>
+        <br />
+        <br />
+--------------------------------------------------------------------------------------------------
+        {%endfor%}
+    </ol>
+
+
+
+
+</body>
+</html>
